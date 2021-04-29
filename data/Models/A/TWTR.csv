@@ -1,0 +1,2 @@
+date,datasize,model,symbol,volatility_actual_score,volatility_relative_score,mean_actual_score,mean_relative_score,overall_score,overall_relative_score
+2021-03-15,200 days,A,TWTR,0.026545767624994977,0.026545767624994977,0.9734542323750051,0.9734542323750051,0.053091535249989885,0.053091535249989885

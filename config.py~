@@ -1,0 +1,32 @@
+import time
+# FINANCIAL_MODELING_PREP_API_TOKEN = "0f69168b03ec3bc0175206cd1ab4b3c1" #N
+# FINANCIAL_MODELING_PREP_API_TOKEN = "e989b805e58131c9b0010104bbdef140" #J
+# FINANCIAL_MODELING_PREP_API_TOKEN = "a2a91b620b5174c1f612ddb9969ae577" #C
+# FINANCIAL_MODELING_PREP_API_TOKEN = "1869f51149b121b380a361a7929c0cd7" #Z
+FINANCIAL_MODELING_PREP_API_TOKENS =[ 
+    # "0f69168b03ec3bc0175206cd1ab4b3c1" , 
+    "e989b805e58131c9b0010104bbdef140",
+    "a2a91b620b5174c1f612ddb9969ae577",
+    "1869f51149b121b380a361a7929c0cd7"
+    ] 
+markets = ['New York Stock Exchange','Nasdaq']
+# markets = ['NYSE','Nasdaq']
+API_VERBOSE = True
+
+
+
+###################
+# ARBITRAGE MODEL #
+###################
+ARB_VERBOSE = False
+arbitrage_array_size_limit = 60 # the rate at which data is store will coorelate with the fetch interval
+arbitrage_sudden_change_time_limit = 20 #gets computed as the coefficient to the array size limit; assume data in the arrays are updated every second
+arbitrage_fetch_interval = 5 # how many seconds to wait between api calls
+arbitrage_sudden_ratio_limit = arbitrage_sudden_change_time_limit / arbitrage_array_size_limit
+def new_score():
+    return  {
+            "sudden_negative_score" : 0, # the number of stocks that have changed negatively under the time ratio
+            "sudden_positive_score" : 0, # the number of stocks that have changed positively under the time ratio
+            "overall_score"         : 0, #sum of time ratios and their direction; ultimately determines the direction the market has most recently changed
+            "datetime"              : time.time()
+        } 

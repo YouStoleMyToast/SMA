@@ -1,0 +1,2 @@
+date,datasize,model,symbol,volatility_actual_score,volatility_relative_score,mean_actual_score,mean_relative_score,overall_score,overall_relative_score
+2021-03-15,200 days,A,ADX,0.03792403146386376,0.03792403146386376,0.9620759685361362,0.9620759685361362,0.07584806292772761,0.07584806292772761

@@ -1,0 +1,7 @@
+requests
+matplotlib
+numpy
+pandas
+pandas_ta
+addict
+openpyxl

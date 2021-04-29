@@ -1,0 +1,2 @@
+date,datasize,model,symbol,volatility_actual_score,volatility_relative_score,mean_actual_score,mean_relative_score,overall_score,overall_relative_score
+2021-03-15,200 days,A,NMR,0.029153744344988963,0.029153744344988963,0.970846255655011,0.970846255655011,0.05830748868997793,0.05830748868997793

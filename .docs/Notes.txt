@@ -1,0 +1,20 @@
+Volatile Stocks
+-the greater the difference in the magnitude of the fibMovingAverage and magnitude of the ema the more Volatile
+-bbands: taking the ratio of high and low frequency (separately) over frequency of crossing the midpoint
+
+
+GENERAL:
+MAXIMIZE:
+    buy over sell
+    EMA/FIB Change Ratio // The Greater this is the Truer the price is
+
+MINIMIZE:
+
+SPECIFIC:
+Maximize:
+    Magnitude Diff 
+    Sell/Buy Change Ratio
+    High/Low -> Mid Ratio 
+
+MINIMIZE:
+    Squeeze/Close

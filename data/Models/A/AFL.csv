@@ -1,0 +1,2 @@
+date,datasize,model,symbol,volatility_actual_score,volatility_relative_score,mean_actual_score,mean_relative_score,overall_score,overall_relative_score
+2021-03-15,200 days,A,AFL,0.010479615703984693,0.010479615703984693,0.9895203842960153,0.9895203842960153,0.020959231407969403,0.020959231407969403

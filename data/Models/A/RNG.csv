@@ -1,0 +1,2 @@
+date,datasize,model,symbol,volatility_actual_score,volatility_relative_score,mean_actual_score,mean_relative_score,overall_score,overall_relative_score
+2021-03-15,200 days,A,RNG,0.0791138485768309,0.0791138485768309,0.9208861514231691,0.9208861514231691,0.1582276971536618,0.1582276971536618

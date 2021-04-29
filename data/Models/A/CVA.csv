@@ -1,0 +1,2 @@
+date,datasize,model,symbol,volatility_actual_score,volatility_relative_score,mean_actual_score,mean_relative_score,overall_score,overall_relative_score
+2021-03-15,200 days,A,CVA,0.03328467932252799,0.03328467932252799,0.966715320677472,0.966715320677472,0.06656935864505598,0.06656935864505598

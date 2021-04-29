@@ -1,0 +1,2 @@
+date,datasize,model,symbol,volatility_actual_score,volatility_relative_score,mean_actual_score,mean_relative_score,overall_score,overall_relative_score
+2021-03-15,200 days,A,QGEN,0.06878835823209696,0.06878835823209696,0.931211641767903,0.931211641767903,0.1375767164641939,0.1375767164641939

@@ -1,0 +1,2975 @@
+symbol,name,exchange
+KMI,Kinder Morgan Inc,New York Stock Exchange
+GE,General Electric Co,New York Stock Exchange
+BAC,Bank of America Corp,New York Stock Exchange
+HPQ,HP Inc,New York Stock Exchange
+CX,Cemex S.A.B. de C.V. Sponsored ADR,New York Stock Exchange
+F,Ford Motor Co,New York Stock Exchange
+SNAP,Snap Inc,New York Stock Exchange
+WFC,Wells Fargo & Co,New York Stock Exchange
+AIG,American International Group Inc,New York Stock Exchange
+T,AT&T Inc,New York Stock Exchange
+C,Citigroup Inc,New York Stock Exchange
+VALE,VALE S.A. American Depositary Shares Each Representing one,New York Stock Exchange
+MS,Morgan Stanley,New York Stock Exchange
+JPM,JPMorgan Chase & Co,New York Stock Exchange
+ORCL,Oracle Corp,New York Stock Exchange
+NKE,Nike Inc,New York Stock Exchange
+PG,Procter & Gamble Co,New York Stock Exchange
+HK,Halcon Resources Corporation,New York Stock Exchange
+BBD,Banco Bradesco Sa American Depositary Shares,New York Stock Exchange
+PFE,Pfizer Inc,New York Stock Exchange
+NOK,Nokia Corporation Sponsored American Depositary Shares,New York Stock Exchange
+TWTR,Twitter Inc,New York Stock Exchange
+WFT,Weatherford International plc (Ireland),New York Stock Exchange
+XOM,Exxon Mobil Corp,New York Stock Exchange
+VIPS,Vipshop Holdings Ltd,New York Stock Exchange
+AXP,American Express Co,New York Stock Exchange
+BMY,Bristol-Myers Squibb Co,New York Stock Exchange
+V,Visa Inc,New York Stock Exchange
+WP,Worldpay Inc. Class A,New York Stock Exchange
+KEY,KeyCorp,New York Stock Exchange
+RF,Regions Financial Corp,New York Stock Exchange
+KR,Kroger Co,New York Stock Exchange
+HAL,Halliburton Co,New York Stock Exchange
+BABA,Alibaba Group Holding Ltd,New York Stock Exchange
+MRO,Marathon Oil Corp,New York Stock Exchange
+GM,General Motors Co,New York Stock Exchange
+FCX,Freeport-McMoRan Inc,New York Stock Exchange
+CRM,Salesforce.Com Inc,New York Stock Exchange
+SQ,Square Inc,New York Stock Exchange
+P,Pandora Media Inc.,New York Stock Exchange
+NUE,Nucor Corp,New York Stock Exchange
+SWN,Southwestern Energy Co,New York Stock Exchange
+LOW,Lowe`s Companies Inc,New York Stock Exchange
+RAD,Rite Aid Corp,New York Stock Exchange
+SLB,Schlumberger NV,New York Stock Exchange
+ABBV,Abbvie Inc,New York Stock Exchange
+GIS,General Mills Inc,New York Stock Exchange
+VZ,Verizon Communications Inc,New York Stock Exchange
+XRX,Xerox Holdings Corp,New York Stock Exchange
+X,United States Steel Corp,New York Stock Exchange
+DVN,Devon Energy Corp,New York Stock Exchange
+IBN,ICICI Bank Limited,New York Stock Exchange
+MPC,Marathon Petroleum Corp,New York Stock Exchange
+PM,Philip Morris International Inc,New York Stock Exchange
+MSCI,MSCI Inc,New York Stock Exchange
+RDN,Radian Group Inc,New York Stock Exchange
+KO,Coca-Cola Co,New York Stock Exchange
+SRC,Spirit Realty Capital Inc,New York Stock Exchange
+NFX,Newfield Exploration Company,New York Stock Exchange
+COP,ConocoPhillips,New York Stock Exchange
+CHK,Chesapeake Energy Corporation,New York Stock Exchange
+DIS,Walt Disney Co,New York Stock Exchange
+LEN,Lennar Corp,New York Stock Exchange
+CVX,Chevron Corp,New York Stock Exchange
+AUY,Yamana Gold Inc,New York Stock Exchange
+WMT,Walmart Inc,New York Stock Exchange
+CLF,Cleveland-Cliffs Inc,New York Stock Exchange
+MRK,Merck & Co Inc,New York Stock Exchange
+RSPP,RSP Permian Inc.,New York Stock Exchange
+MGM,MGM Resorts International,New York Stock Exchange
+GFI,Gold Fields Limited American Depositary Shares,New York Stock Exchange
+KGC,Kinross Gold Corp,New York Stock Exchange
+SCHW,Charles Schwab Corp,New York Stock Exchange
+NBR,Nabors Industries Ltd,New York Stock Exchange
+JNJ,Johnson & Johnson,New York Stock Exchange
+BSX,Boston Scientific Corp,New York Stock Exchange
+ITUB,Itau Unibanco Banco Holding SA American Depositary Shares (Each repstg 500 Preferred shares),New York Stock Exchange
+BK,Bank of New York Mellon Corp,New York Stock Exchange
+HMY,Harmony Gold Mining Company Limited,New York Stock Exchange
+APA,Apache Corp,New York Stock Exchange
+HOME,At Home Group Inc,New York Stock Exchange
+KOS,Kosmos Energy Ltd,New York Stock Exchange
+DAL,Delta Air Lines Inc,New York Stock Exchange
+INFY,Infosys Limited American Depositary Shares,New York Stock Exchange
+CCL,Carnival Corp,New York Stock Exchange
+MFGP,Micro Focus Intl PLC ADS each representing One Ord Sh,New York Stock Exchange
+PBR,Petroleo Brasileiro S.A.- Petrobras,New York Stock Exchange
+LPI,Laredo Petroleum Inc,New York Stock Exchange
+ABT,Abbott Laboratories,New York Stock Exchange
+USB,U.S. Bancorp,New York Stock Exchange
+BA,Boeing Co,New York Stock Exchange
+GGB,Gerdau S.A.,New York Stock Exchange
+DB,Deutsche Bank AG,New York Stock Exchange
+KNX,Knight-Swift Transportation Holdings Inc,New York Stock Exchange
+KBH,KB Home,New York Stock Exchange
+PGR,Progressive Corp,New York Stock Exchange
+MO,Altria Group Inc,New York Stock Exchange
+MDT,Medtronic PLC,New York Stock Exchange
+RIG,Transocean Ltd,New York Stock Exchange
+BCS,Barclays PLC,New York Stock Exchange
+EOG,EOG Resources Inc,New York Stock Exchange
+HPE,Hewlett Packard Enterprise Co,New York Stock Exchange
+OKE,ONEOK Inc,New York Stock Exchange
+CVS,CVS Health Corp,New York Stock Exchange
+HES,Hess Corp,New York Stock Exchange
+GDDY,GoDaddy Inc,New York Stock Exchange
+BX,Blackstone Group Inc,New York Stock Exchange
+NLSN,Nielsen Holdings PLC,New York Stock Exchange
+TS,Tenaris S.A. American Depositary Shares,New York Stock Exchange
+BOX,Box Inc,New York Stock Exchange
+OXY,Occidental Petroleum Corp,New York Stock Exchange
+CVE,Cenovus Energy Inc,New York Stock Exchange
+SYF,Synchrony Financial,New York Stock Exchange
+MTG,MGIC Investment Corp,New York Stock Exchange
+LUV,Southwest Airlines Co,New York Stock Exchange
+FTI,TechnipFMC PLC,New York Stock Exchange
+AA,Alcoa Corp,New York Stock Exchange
+ABEV,Ambev S.A. American Depositary Shares (Each representing 1),New York Stock Exchange
+EQR,Equity Residential,New York Stock Exchange
+TAL,TAL Education Group,New York Stock Exchange
+UNH,UnitedHealth Group Inc,New York Stock Exchange
+GES,Guess Inc,New York Stock Exchange
+CNC,Centene Corp,New York Stock Exchange
+CLDR,Cloudera Inc,New York Stock Exchange
+RES,RPC Inc,New York Stock Exchange
+CI,Cigna Corp,New York Stock Exchange
+WMB,Williams Companies Inc,New York Stock Exchange
+HBI,HanesBrands Inc,New York Stock Exchange
+XL,XL Group Ltd.,New York Stock Exchange
+D,Dominion Energy Inc,New York Stock Exchange
+CHS,Chico's FAS Inc,New York Stock Exchange
+CFG,Citizens Financial Group Inc,New York Stock Exchange
+SU,Suncor Energy Inc,New York Stock Exchange
+MMM,3M Co,New York Stock Exchange
+JBL,Jabil Inc,New York Stock Exchange
+ACN,Accenture PLC,New York Stock Exchange
+NTR,Nutrien Ltd,New York Stock Exchange
+PAH,Platform Specialty Products Corporation,New York Stock Exchange
+BRFS,BRF S.A.,New York Stock Exchange
+LVS,Las Vegas Sands Corp,New York Stock Exchange
+EGO,Eldorado Gold Corp,New York Stock Exchange
+GSK,GlaxoSmithKline PLC,New York Stock Exchange
+TEVA,Teva Pharmaceutical Industries Limited American Depositary Shares,New York Stock Exchange
+PAA,Plains All American Pipeline LP,New York Stock Exchange
+VLO,Valero Energy Corp,New York Stock Exchange
+IMAX,Imax Corp,New York Stock Exchange
+FNB,F.N.B. Corp,New York Stock Exchange
+HD,Home Depot Inc,New York Stock Exchange
+AR,Antero Resources Corp,New York Stock Exchange
+ARNC,Arconic Corp (PITTSBURGH),New York Stock Exchange
+VOYA,Voya Financial Inc,New York Stock Exchange
+SM,SM Energy Co,New York Stock Exchange
+DHI,D.R. Horton Inc,New York Stock Exchange
+HRB,H & R Block Inc,New York Stock Exchange
+BTU,Peabody Energy Corp,New York Stock Exchange
+JBGS,JBG SMITH Properties,New York Stock Exchange
+IPG,Interpublic Group of Companies Inc,New York Stock Exchange
+DE,Deere & Co,New York Stock Exchange
+COG,Cabot Oil & Gas Corp,New York Stock Exchange
+IBM,International Business Machines Corp,New York Stock Exchange
+WTW,Weight Watchers International Inc,New York Stock Exchange
+NYT,New York Times Co,New York Stock Exchange
+OLN,Olin Corp,New York Stock Exchange
+JCI,Johnson Controls International PLC,New York Stock Exchange
+VICI,VICI Properties Inc,New York Stock Exchange
+VST,Vistra Corp,New York Stock Exchange
+EPD,Enterprise Products Partners LP,New York Stock Exchange
+KMB,Kimberly-Clark Corp,New York Stock Exchange
+AEP,American Electric Power Company Inc,New York Stock Exchange
+IT,Gartner Inc,New York Stock Exchange
+CAT,Caterpillar Inc,New York Stock Exchange
+AU,AngloGold Ashanti Limited,New York Stock Exchange
+KKR,KKR & Co Inc,New York Stock Exchange
+CMC,Commercial Metals Co,New York Stock Exchange
+NRG,NRG Energy Inc,New York Stock Exchange
+CPB,Campbell Soup Co,New York Stock Exchange
+ATHM,Autohome Inc,New York Stock Exchange
+WRB,W. R. Berkley Corp,New York Stock Exchange
+TGT,Target Corp,New York Stock Exchange
+TV,Grupo Televisa S.A.,New York Stock Exchange
+GLW,Corning Inc,New York Stock Exchange
+MAS,Masco Corp,New York Stock Exchange
+DOV,Dover Corp,New York Stock Exchange
+HRL,Hormel Foods Corp,New York Stock Exchange
+TECK,Teck Resources Ltd,New York Stock Exchange
+AES,AES Corp,New York Stock Exchange
+PPL,PPL Corp,New York Stock Exchange
+SEE,Sealed Air Corp,New York Stock Exchange
+NLY,Annaly Capital Management Inc,New York Stock Exchange
+FRC,First Republic Bank,New York Stock Exchange
+K,Kellogg Co,New York Stock Exchange
+M,Macy's Inc,New York Stock Exchange
+TSM,Taiwan Semiconductor Manufacturing Company Ltd.,New York Stock Exchange
+STL,Sterling Bancorp,New York Stock Exchange
+NYCB,New York Community Bancorp Inc,New York Stock Exchange
+TRQ,Turquoise Hill Resources Ltd,New York Stock Exchange
+FDC,First Data Corporation Class A,New York Stock Exchange
+BAH,Booz Allen Hamilton Holding Corp,New York Stock Exchange
+ARI,Apollo Commercial Real Estate Finance Inc,New York Stock Exchange
+MET,MetLife Inc,New York Stock Exchange
+AFL,Aflac Inc,New York Stock Exchange
+TPR,Tapestry Inc,New York Stock Exchange
+WPM,Wheaton Precious Metals Corp,New York Stock Exchange
+WLL,Whiting Petroleum Corp,New York Stock Exchange
+PCG,PG&E Corp,New York Stock Exchange
+CLR,Continental Resources Inc,New York Stock Exchange
+HL,Hecla Mining Co,New York Stock Exchange
+UAA,Under Armour Inc,New York Stock Exchange
+CAG,Conagra Brands Inc,New York Stock Exchange
+SO,Southern Co,New York Stock Exchange
+GKOS,Glaukos Corp,New York Stock Exchange
+CCI,Crown Castle International Corp,New York Stock Exchange
+ZTO,ZTO Express (Cayman) Inc,New York Stock Exchange
+GS,Goldman Sachs Group Inc,New York Stock Exchange
+ADT,ADT Inc,New York Stock Exchange
+EMR,Emerson Electric Co,New York Stock Exchange
+CNP,CenterPoint Energy Inc,New York Stock Exchange
+COTY,Coty Inc,New York Stock Exchange
+MA,Mastercard Inc,New York Stock Exchange
+AWI,Armstrong World Industries Inc,New York Stock Exchange
+BBVA,Banco Bilbao Vizcaya Argentaria S.A.,New York Stock Exchange
+AER,AerCap Holdings NV,New York Stock Exchange
+GTN,Gray Television Inc,New York Stock Exchange
+CDE,Coeur Mining Inc,New York Stock Exchange
+NCR,NCR Corp,New York Stock Exchange
+AMT,American Tower Corp,New York Stock Exchange
+PSTG,Pure Storage Inc,New York Stock Exchange
+VRX,Valeant Pharmaceuticals International Inc.,New York Stock Exchange
+SJM,J M Smucker Co,New York Stock Exchange
+ETN,Eaton Corporation PLC,New York Stock Exchange
+DUK,Duke Energy Corp,New York Stock Exchange
+CL,Colgate-Palmolive Co,New York Stock Exchange
+KAR,KAR Auction Services Inc,New York Stock Exchange
+NEE,Nextera Energy Inc,New York Stock Exchange
+PXD,Pioneer Natural Resources Co,New York Stock Exchange
+ADM,Archer-Daniels-Midland Co,New York Stock Exchange
+VTR,Ventas Inc,New York Stock Exchange
+VMW,VMware Inc,New York Stock Exchange
+DKS,Dick's Sporting Goods Inc,New York Stock Exchange
+WTI,W&T Offshore Inc,New York Stock Exchange
+CE,Celanese Corp,New York Stock Exchange
+HUN,Huntsman Corp,New York Stock Exchange
+CSTM,Constellium SE,New York Stock Exchange
+VER,VEREIT Inc,New York Stock Exchange
+GPK,Graphic Packaging Holding Co,New York Stock Exchange
+WELL,Welltower Inc,New York Stock Exchange
+TJX,TJX Companies Inc,New York Stock Exchange
+PLD,Prologis Inc,New York Stock Exchange
+KSS,Kohls Corp,New York Stock Exchange
+XEC,Cimarex Energy Co,New York Stock Exchange
+DRI,Darden Restaurants Inc,New York Stock Exchange
+ATI,Allegheny Technologies Inc,New York Stock Exchange
+IAG,Iamgold Corp,New York Stock Exchange
+VFC,VF Corp,New York Stock Exchange
+BDN,Brandywine Realty Trust,New York Stock Exchange
+HON,Honeywell International Inc,New York Stock Exchange
+USG,USG Corporation,New York Stock Exchange
+ICE,Intercontinental Exchange Inc,New York Stock Exchange
+WY,Weyerhaeuser Co,New York Stock Exchange
+BLL,Ball Corp,New York Stock Exchange
+IVZ,Invesco Ltd,New York Stock Exchange
+DG,Dollar General Corp,New York Stock Exchange
+SID,Companhia Siderúrgica Nacional,New York Stock Exchange
+SLCA,U.S. Silica Holdings Inc,New York Stock Exchange
+SGU,Star Group LP,New York Stock Exchange
+PK,Park Hotels & Resorts Inc,New York Stock Exchange
+TOL,Toll Brothers Inc,New York Stock Exchange
+BCO,Brinks Co,New York Stock Exchange
+BKD,Brookdale Senior Living Inc,New York Stock Exchange
+AIV,Apartment Investment and Management Co,New York Stock Exchange
+TAP,Molson Coors Beverage Co,New York Stock Exchange
+MON,Monsanto Company,New York Stock Exchange
+UNP,Union Pacific Corp,New York Stock Exchange
+BDX,Becton Dickinson and Co,New York Stock Exchange
+GME,GameStop Corp,New York Stock Exchange
+MX,MagnaChip Semiconductor Corp,New York Stock Exchange
+RLJ,RLJ Lodging Trust,New York Stock Exchange
+LB,L Brands Inc,New York Stock Exchange
+NCLH,Norwegian Cruise Line Holdings Ltd,New York Stock Exchange
+NOV,National Oilwell Varco Inc,New York Stock Exchange
+LMT,Lockheed Martin Corp,New York Stock Exchange
+MTZ,MasTec Inc,New York Stock Exchange
+GPS,Gap Inc,New York Stock Exchange
+SYY,Sysco Corp,New York Stock Exchange
+WDR,Waddell & Reed Financial Inc,New York Stock Exchange
+FTV,Fortive Corp,New York Stock Exchange
+BKI,Black Knight Inc,New York Stock Exchange
+EIX,Edison International,New York Stock Exchange
+CPE,Callon Petroleum Co,New York Stock Exchange
+CF,CF Industries Holdings Inc,New York Stock Exchange
+PNC,PNC Financial Services Group Inc,New York Stock Exchange
+WIT,Wipro Limited,New York Stock Exchange
+LYB,LyondellBasell Industries NV,New York Stock Exchange
+MGA,Magna International Inc,New York Stock Exchange
+AEO,American Eagle Outfitters Inc,New York Stock Exchange
+BP,BP p.l.c.,New York Stock Exchange
+VVV,Valvoline Inc,New York Stock Exchange
+UPS,United Parcel Service Inc,New York Stock Exchange
+MUR,Murphy Oil Corp,New York Stock Exchange
+VMC,Vulcan Materials Co,New York Stock Exchange
+NOMD,Nomad Foods Ltd,New York Stock Exchange
+ANTM,Anthem Inc,New York Stock Exchange
+PAY,Verifone Systems Inc.,New York Stock Exchange
+GD,General Dynamics Corp,New York Stock Exchange
+KIM,Kimco Realty Corp,New York Stock Exchange
+FNF,Fidelity National Financial Inc,New York Stock Exchange
+BXMT,Blackstone Mortgage Trust Inc,New York Stock Exchange
+CHD,Church & Dwight Co Inc,New York Stock Exchange
+DLR,Digital Realty Trust Inc,New York Stock Exchange
+IP,International Paper Co,New York Stock Exchange
+CLI,Mack-Cali Realty Corp,New York Stock Exchange
+SE,Sea Ltd,New York Stock Exchange
+CC,Chemours Co,New York Stock Exchange
+DAN,Dana Inc,New York Stock Exchange
+ZBH,Zimmer Biomet Holdings Inc,New York Stock Exchange
+LPX,Louisiana-Pacific Corp,New York Stock Exchange
+BBY,Best Buy Co Inc,New York Stock Exchange
+GRUB,GrubHub Inc,New York Stock Exchange
+BG,Bunge Ltd,New York Stock Exchange
+LC,LendingClub Corp,New York Stock Exchange
+PWR,Quanta Services Inc,New York Stock Exchange
+RDC,Rowan Companies plc Class A,New York Stock Exchange
+NEM,Newmont Corporation,New York Stock Exchange
+BEN,Franklin Resources Inc,New York Stock Exchange
+SHLX,Shell Midstream Partners LP,New York Stock Exchange
+CIVI,Civitas Solutions Inc.,New York Stock Exchange
+PBH,Prestige Consumer Healthcare Inc,New York Stock Exchange
+SBH,Sally Beauty Holdings Inc,New York Stock Exchange
+NI,NiSource Inc,New York Stock Exchange
+LLY,Eli Lilly and Co,New York Stock Exchange
+STNG,Scorpio Tankers Inc,New York Stock Exchange
+LADR,Ladder Capital Corp,New York Stock Exchange
+FHN,First Horizon National Corp,New York Stock Exchange
+DVMT,Dell Technologies Inc. Class V,New York Stock Exchange
+HLX,Helix Energy Solutions Group Inc,New York Stock Exchange
+RSG,Republic Services Inc,New York Stock Exchange
+BIG,Big Lots Inc,New York Stock Exchange
+CYH,Community Health Systems Inc,New York Stock Exchange
+PAYC,Paycom Software Inc,New York Stock Exchange
+GCP,GCP Applied Technologies Inc,New York Stock Exchange
+YUM,Yum! Brands Inc,New York Stock Exchange
+STZ,Constellation Brands Inc,New York Stock Exchange
+LYG,Lloyds Banking Group Plc American Depositary Shares,New York Stock Exchange
+USFD,US Foods Holding Corp,New York Stock Exchange
+THC,Tenet Healthcare Corp,New York Stock Exchange
+DOC,Physicians Realty Trust,New York Stock Exchange
+ALLY,Ally Financial Inc,New York Stock Exchange
+EVR,Evercore Inc,New York Stock Exchange
+CMS,CMS Energy Corp,New York Stock Exchange
+RIO,Rio Tinto Plc,New York Stock Exchange
+PDM,Piedmont Office Realty Trust Inc,New York Stock Exchange
+KMT,Kennametal Inc,New York Stock Exchange
+HP,Helmerich and Payne Inc,New York Stock Exchange
+FLR,Fluor Corp,New York Stock Exchange
+JHG,Janus Henderson Group PLC,New York Stock Exchange
+FDX,FedEx Corp,New York Stock Exchange
+EMN,Eastman Chemical Co,New York Stock Exchange
+WU,Western Union Co,New York Stock Exchange
+BAX,Baxter International Inc,New York Stock Exchange
+CARS,Cars.com Inc,New York Stock Exchange
+TEL,TE Connectivity Ltd,New York Stock Exchange
+MLM,Martin Marietta Materials Inc,New York Stock Exchange
+GWW,W W Grainger Inc,New York Stock Exchange
+PBF,PBF Energy Inc,New York Stock Exchange
+BW,Babcock & Wilcox Enterprises Inc,New York Stock Exchange
+CMI,Cummins Inc,New York Stock Exchange
+CNQ,Canadian Natural Resources Ltd,New York Stock Exchange
+HCA,HCA Healthcare Inc,New York Stock Exchange
+QTS,QTS Realty Trust Inc,New York Stock Exchange
+SAN,Banco Santander S.A. Sponsored ADR (Spain),New York Stock Exchange
+CNHI,CNH Industrial NV,New York Stock Exchange
+CNX,CNX Resources Corp,New York Stock Exchange
+INFO,IHS Markit Ltd,New York Stock Exchange
+ES,Eversource Energy,New York Stock Exchange
+ARMK,Aramark,New York Stock Exchange
+OII,Oceaneering International Inc,New York Stock Exchange
+NOW,ServiceNow Inc,New York Stock Exchange
+APTV,Aptiv PLC,New York Stock Exchange
+QD,Qudian Inc,New York Stock Exchange
+NSC,Norfolk Southern Corp,New York Stock Exchange
+PSX,Phillips 66,New York Stock Exchange
+GAB,Gabelli Equity Trust Inc,New York Stock Exchange
+PNW,Pinnacle West Capital Corp,New York Stock Exchange
+AMH,American Homes 4 Rent,New York Stock Exchange
+FOE,Ferro Corp,New York Stock Exchange
+A,Agilent Technologies Inc,New York Stock Exchange
+MOS,Mosaic Co,New York Stock Exchange
+CTB,Cooper Tire & Rubber Co,New York Stock Exchange
+LPL,LG Display Co Ltd AMERICAN DEPOSITORY SHARES,New York Stock Exchange
+SKX,Skechers USA Inc,New York Stock Exchange
+HST,Host Hotels & Resorts Inc,New York Stock Exchange
+UE,Urban Edge Properties,New York Stock Exchange
+PHM,Pultegroup Inc,New York Stock Exchange
+MT,Arcelor Mittal NY Registry Shares NEW,New York Stock Exchange
+CAAP,Corporacion America Airports SA,New York Stock Exchange
+WRE,Washington Real Estate Investment Trust,New York Stock Exchange
+RRC,Range Resources Corp,New York Stock Exchange
+FL,Foot Locker Inc,New York Stock Exchange
+AGO,Assured Guaranty Ltd,New York Stock Exchange
+DRE,Duke Realty Corp,New York Stock Exchange
+CCJ,Cameco Corp,New York Stock Exchange
+AXTA,Axalta Coating Systems Ltd,New York Stock Exchange
+AEM,Agnico Eagle Mines Ltd,New York Stock Exchange
+BB,BlackBerry Ltd,New York Stock Exchange
+CB,Chubb Ltd,New York Stock Exchange
+PRU,Prudential Financial Inc,New York Stock Exchange
+PVG,Pretium Resources Inc,New York Stock Exchange
+AVYA,Avaya Holdings Corp,New York Stock Exchange
+SC,Santander Consumer USA Holdings Inc,New York Stock Exchange
+ANF,Abercrombie & Fitch Co,New York Stock Exchange
+HIG,Hartford Financial Services Group Inc,New York Stock Exchange
+ITW,Illinois Tool Works Inc,New York Stock Exchange
+AZN,Astrazeneca PLC,New York Stock Exchange
+YELP,Yelp Inc,New York Stock Exchange
+MTOR,Meritor Inc,New York Stock Exchange
+EVC,Entravision Communications Corp,New York Stock Exchange
+IRM,Iron Mountain Inc,New York Stock Exchange
+NWY,New York & Company Inc.,New York Stock Exchange
+POST,Post Holdings Inc,New York Stock Exchange
+EL,Estee Lauder Companies Inc,New York Stock Exchange
+ING,ING Group N.V.,New York Stock Exchange
+UBS,UBS Group AG,New York Stock Exchange
+KRG,Kite Realty Group Trust,New York Stock Exchange
+VSH,Vishay Intertechnology Inc,New York Stock Exchange
+TWLO,Twilio Inc,New York Stock Exchange
+RLGY,Realogy Holdings Corp,New York Stock Exchange
+HPP,Hudson Pacific Properties Inc,New York Stock Exchange
+CNO,CNO Financial Group Inc,New York Stock Exchange
+JNPR,Juniper Networks Inc,New York Stock Exchange
+FEDU,Four Seasons Education (Cayman) Inc,New York Stock Exchange
+AUD,Entercom Communications Corp,New York Stock Exchange
+BANC,Banc of California Inc,New York Stock Exchange
+INVH,Invitation Homes Inc,New York Stock Exchange
+OMF,OneMain Holdings Inc,New York Stock Exchange
+LW,Lamb Weston Holdings Inc,New York Stock Exchange
+NHI,National Health Investors Inc,New York Stock Exchange
+FE,FirstEnergy Corp,New York Stock Exchange
+NOC,Northrop Grumman Corp,New York Stock Exchange
+ASH,Ashland Global Holdings Inc.,New York Stock Exchange
+O,Realty Income Corp,New York Stock Exchange
+TAHO,Tahoe Resources Inc. (Canada),New York Stock Exchange
+FET,Forum Energy Technologies Inc,New York Stock Exchange
+TPH,TRI Pointe Group Inc,New York Stock Exchange
+AMX,America Movil S.A.B. de C.V.n Depository Receipt Series L,New York Stock Exchange
+FLO,Flowers Foods Inc,New York Stock Exchange
+SHO,Sunstone Hotel Investors Inc,New York Stock Exchange
+COF,Capital One Financial Corp,New York Stock Exchange
+FLT,Fleetcor Technologies Inc,New York Stock Exchange
+IGT,International Game Technology PLC,New York Stock Exchange
+HRG,HRG Group Inc.,New York Stock Exchange
+SN,Sanchez Energy Corporation,New York Stock Exchange
+RXN,Rexnord Corp,New York Stock Exchange
+OSK,Oshkosh Corp,New York Stock Exchange
+DHR,Danaher Corp,New York Stock Exchange
+EVHC,Envision Healthcare Corporation,New York Stock Exchange
+AMN,AMN Healthcare Services Inc,New York Stock Exchange
+RCL,Royal Caribbean Cruises Ltd,New York Stock Exchange
+W,Wayfair Inc,New York Stock Exchange
+IR,Ingersoll Rand Inc,New York Stock Exchange
+PEG,Public Service Enterprise Group Inc,New York Stock Exchange
+FBP,First Bancorp,New York Stock Exchange
+WEC,WEC Energy Group Inc,New York Stock Exchange
+MDC,MDC Holdings Inc,New York Stock Exchange
+TISI,Team Inc,New York Stock Exchange
+YUMC,Yum China Holdings Inc,New York Stock Exchange
+ALV,Autoliv Inc,New York Stock Exchange
+BHP,BHP Billiton Limited,New York Stock Exchange
+BXP,Boston Properties Inc,New York Stock Exchange
+BYD,Boyd Gaming Corp,New York Stock Exchange
+WGO,Winnebago Industries Inc,New York Stock Exchange
+KSU,Kansas City Southern,New York Stock Exchange
+PUMP,ProPetro Holding Corp,New York Stock Exchange
+GLOG,GasLog Ltd,New York Stock Exchange
+FBHS,Fortune Brands Home & Security Inc,New York Stock Exchange
+TXT,Textron Inc,New York Stock Exchange
+AGI,Alamos Gold Inc,New York Stock Exchange
+ED,Consolidated Edison Inc,New York Stock Exchange
+OUT,OUTFRONT Media Inc,New York Stock Exchange
+DBD,Diebold Nixdorf Inc,New York Stock Exchange
+CBT,Cabot Corp,New York Stock Exchange
+STOR,STORE Capital Corp,New York Stock Exchange
+ABB,ABB Ltd,New York Stock Exchange
+CP,Canadian Pacific Railway Ltd,New York Stock Exchange
+PNR,Pentair PLC,New York Stock Exchange
+PKI,PerkinElmer Inc,New York Stock Exchange
+ASB,Associated Banc-Corp,New York Stock Exchange
+UHS,Universal Health Services Inc,New York Stock Exchange
+ENB,Enbridge Inc,New York Stock Exchange
+TDC,Teradata Corp,New York Stock Exchange
+AG,First Majestic Silver Corp,New York Stock Exchange
+NAT,Nordic American Tanker Ltd,New York Stock Exchange
+SPG,Simon Property Group Inc,New York Stock Exchange
+TRP,TC Energy Corp,New York Stock Exchange
+RH,RH,New York Stock Exchange
+CBRE,CBRE Group Inc,New York Stock Exchange
+HGV,Hilton Grand Vacations Inc,New York Stock Exchange
+AEG,AEGON N.V.,New York Stock Exchange
+BTI,British American Tobacco Industries p.l.c. ADR,New York Stock Exchange
+NVS,Novartis AG,New York Stock Exchange
+QSR,Restaurant Brands International Inc,New York Stock Exchange
+CXP,Columbia Property Trust Inc,New York Stock Exchange
+LDOS,Leidos Holdings Inc,New York Stock Exchange
+MPW,Medical Properties Trust Inc,New York Stock Exchange
+CIM,Chimera Investment Corp,New York Stock Exchange
+QCP,Quality Care Properties Inc.,New York Stock Exchange
+ETH,Ethan Allen Interiors Inc,New York Stock Exchange
+AEE,Ameren Corp,New York Stock Exchange
+HCC,Warrior Met Coal Inc,New York Stock Exchange
+MBT,Mobile TeleSystems PJSC,New York Stock Exchange
+TMO,Thermo Fisher Scientific Inc,New York Stock Exchange
+OFC,Corporate Office Properties Trust,New York Stock Exchange
+STT,State Street Corp,New York Stock Exchange
+HLF,Herbalife Nutrition Ltd,New York Stock Exchange
+WRK,Westrock Co,New York Stock Exchange
+BR,Broadridge Financial Solutions Inc,New York Stock Exchange
+MCD,Mcdonald's Corp,New York Stock Exchange
+PRO,Pros Holdings Inc,New York Stock Exchange
+TWO,Two Harbors Investment Corp,New York Stock Exchange
+AXL,American Axle & Manufacturing Holdings Inc,New York Stock Exchange
+HYH,Halyard Health Inc.,New York Stock Exchange
+SUN,Sunoco LP,New York Stock Exchange
+ZEN,Zendesk Inc,New York Stock Exchange
+ATEN,A10 Networks Inc,New York Stock Exchange
+CRC,California Resources Corporation,New York Stock Exchange
+ATUS,Altice USA Inc,New York Stock Exchange
+SIG,Signet Jewelers Ltd,New York Stock Exchange
+BDC,Belden Inc,New York Stock Exchange
+XPO,XPO Logistics Inc,New York Stock Exchange
+APO,Apollo Global Management Inc,New York Stock Exchange
+FMSA,Fairmount Santrol Holdings Inc.,New York Stock Exchange
+BSTI,BEST Inc. American Depositary Shares each representing one Class A,New York Stock Exchange
+CRI,Carter's Inc,New York Stock Exchange
+AGCO,AGCO Corp,New York Stock Exchange
+MMC,Marsh & McLennan Companies Inc,New York Stock Exchange
+GNW,Genworth Financial Inc,New York Stock Exchange
+TMHC,Taylor Morrison Home Corp,New York Stock Exchange
+URI,United Rentals Inc,New York Stock Exchange
+MCO,Moody's Corp,New York Stock Exchange
+SLG,SL Green Realty Corp,New York Stock Exchange
+PAGS,PagSeguro Digital Ltd,New York Stock Exchange
+L,Loews Corp,New York Stock Exchange
+MBI,MBIA Inc,New York Stock Exchange
+VNO,Vornado Realty Trust,New York Stock Exchange
+PDS,Precision Drilling Corp,New York Stock Exchange
+BCC,Boise Cascade Co,New York Stock Exchange
+PRTY,Party City Holdco Inc,New York Stock Exchange
+OGE,OGE Energy Corp,New York Stock Exchange
+QGEN,Qiagen NV,New York Stock Exchange
+EAT,Brinker International Inc,New York Stock Exchange
+DXC,DXC Technology Co,New York Stock Exchange
+UDR,UDR Inc,New York Stock Exchange
+KBR,KBR Inc,New York Stock Exchange
+PGEM,Ply Gem Holdings Inc.,New York Stock Exchange
+STM,STMicroelectronics N.V.,New York Stock Exchange
+AQUA,Evoqua Water Technologies Corp,New York Stock Exchange
+EQT,EQT Corp,New York Stock Exchange
+SRE,Sempra Energy,New York Stock Exchange
+SAVE,Spirit Airlines Inc,New York Stock Exchange
+RHT,Red Hat Inc.,New York Stock Exchange
+HTA,Healthcare Trust Of America Inc,New York Stock Exchange
+NPTN,NeoPhotonics Corp,New York Stock Exchange
+NSM,Nationstar Mortgage Holdings Inc.,New York Stock Exchange
+SQM,Sociedad Quimica y Minera S.A.,New York Stock Exchange
+SXT,Sensient Technologies Corp,New York Stock Exchange
+KND,Kindred Healthcare Inc.,New York Stock Exchange
+OMC,Omnicom Group Inc,New York Stock Exchange
+CVA,Covanta Holding Corp,New York Stock Exchange
+LXP,Lexington Realty Trust,New York Stock Exchange
+FMC,FMC Corp,New York Stock Exchange
+KN,Knowles Corp,New York Stock Exchange
+KW,Kennedy-Wilson Holdings Inc,New York Stock Exchange
+SCS,Steelcase Inc,New York Stock Exchange
+CXW,Corecivic Inc,New York Stock Exchange
+CBI,Chicago Bridge & Iron Company N.V.,New York Stock Exchange
+DFS,Discover Financial Services,New York Stock Exchange
+PH,Parker-Hannifin Corp,New York Stock Exchange
+USA,Liberty All-Star Equity Fund,New York Stock Exchange
+CIEN,Ciena Corp,New York Stock Exchange
+OIS,Oil States International Inc,New York Stock Exchange
+SCCO,Southern Copper Corp,New York Stock Exchange
+YEXT,Yext Inc,New York Stock Exchange
+REVG,REV Group Inc,New York Stock Exchange
+ALLE,Allegion PLC,New York Stock Exchange
+MHK,Mohawk Industries Inc,New York Stock Exchange
+GRA,W R Grace & Co,New York Stock Exchange
+VNTR,Venator Materials PLC,New York Stock Exchange
+SUM,Summit Materials Inc,New York Stock Exchange
+ERJ,Embraer S.A.,New York Stock Exchange
+UNM,Unum Group,New York Stock Exchange
+NJR,New Jersey Resources Corp,New York Stock Exchange
+NNN,National Retail Properties Inc,New York Stock Exchange
+PAGP,Plains GP Holdings LP,New York Stock Exchange
+AOS,A. O. Smith Corp,New York Stock Exchange
+DGX,Quest Diagnostics Inc,New York Stock Exchange
+CUZ,Cousins Properties Inc,New York Stock Exchange
+FIS,Fidelity National Information Services Inc,New York Stock Exchange
+TRN,Trinity Industries Inc,New York Stock Exchange
+SPGI,S&P Global Inc,New York Stock Exchange
+AN,AutoNation Inc,New York Stock Exchange
+ABR,Arbor Realty Trust Inc,New York Stock Exchange
+MCK,Mckesson Corp,New York Stock Exchange
+MUX,McEwen Mining Inc,New York Stock Exchange
+IEX,IDEX Corp,New York Stock Exchange
+INN,Summit Hotel Properties Inc,New York Stock Exchange
+EPE,EP Energy Corporation Class A,New York Stock Exchange
+TROX,Tronox Holdings PLC,New York Stock Exchange
+OEC,Orion Engineered Carbons SA,New York Stock Exchange
+ATH,Athene Holding Ltd,New York Stock Exchange
+ABC,Amerisourcebergen Corp,New York Stock Exchange
+EFX,Equifax Inc,New York Stock Exchange
+DPZ,Domino's Pizza Inc,New York Stock Exchange
+ENLC,EnLink Midstream LLC,New York Stock Exchange
+TTM,Tata Motors Ltd Limited,New York Stock Exchange
+OHI,Omega Healthcare Investors Inc,New York Stock Exchange
+SUI,Sun Communities Inc,New York Stock Exchange
+MPLX,MPLX LP,New York Stock Exchange
+EC,Ecopetrol S.A. American Depositary Shares,New York Stock Exchange
+LQ,La Quinta Holdings Inc.,New York Stock Exchange
+SIX,Six Flags Entertainment Corp,New York Stock Exchange
+VEEV,Veeva Systems Inc,New York Stock Exchange
+NVO,Novo Nordisk A/S,New York Stock Exchange
+SWK,Stanley Black & Decker Inc,New York Stock Exchange
+SNDR,Schneider National Inc,New York Stock Exchange
+EW,Edwards Lifesciences Corp,New York Stock Exchange
+SKT,Tanger Factory Outlet Centers Inc,New York Stock Exchange
+ROK,Rockwell Automation Inc,New York Stock Exchange
+ALL,Allstate Corp,New York Stock Exchange
+APRN,"Blue Apron Holdings, Inc.",New York Stock Exchange
+MFC,Manulife Financial Corp,New York Stock Exchange
+ZTS,Zoetis Inc,New York Stock Exchange
+BUD,Anheuser-Busch Inbev SA Sponsored ADR (Belgium),New York Stock Exchange
+UA,Under Armour Inc. Class C,New York Stock Exchange
+AROC,Archrock Inc,New York Stock Exchange
+THO,Thor Industries Inc,New York Stock Exchange
+KT,KT Corporation,New York Stock Exchange
+TGNA,Tegna Inc,New York Stock Exchange
+CHGG,Chegg Inc,New York Stock Exchange
+WM,Waste Management Inc,New York Stock Exchange
+ASX,Advanced Semiconductor Engineering Inc.,New York Stock Exchange
+ALB,Albemarle Corp,New York Stock Exchange
+RHI,Robert Half International Inc,New York Stock Exchange
+HLT,Hilton Worldwide Holdings Inc,New York Stock Exchange
+DNOW,NOW Inc,New York Stock Exchange
+WPG,Washington Prime Group Inc,New York Stock Exchange
+DRH,Diamondrock Hospitality Co,New York Stock Exchange
+OC,Owens Corning,New York Stock Exchange
+CUBE,CubeSmart,New York Stock Exchange
+AGRO,Adecoagro SA,New York Stock Exchange
+AL,Air Lease Corp,New York Stock Exchange
+PHH,PHH Corp,New York Stock Exchange
+GNRT,Gener8 Maritime Inc.,New York Stock Exchange
+EVH,Evolent Health Inc,New York Stock Exchange
+UIS,Unisys Corp,New York Stock Exchange
+NCS,NCI Building Systems Inc.,New York Stock Exchange
+JELD,JELD-WEN Holding Inc,New York Stock Exchange
+TDG,TransDigm Group Inc,New York Stock Exchange
+RY,Royal Bank of Canada,New York Stock Exchange
+SYK,Stryker Corp,New York Stock Exchange
+HR,Healthcare Realty Trust Inc,New York Stock Exchange
+TRV,Travelers Companies Inc,New York Stock Exchange
+CSL,Carlisle Companies Inc,New York Stock Exchange
+GWRE,Guidewire Software Inc,New York Stock Exchange
+ANET,Arista Networks Inc,New York Stock Exchange
+WSM,Williams-Sonoma Inc,New York Stock Exchange
+EXP,Eagle Materials Inc,New York Stock Exchange
+BWA,Borgwarner Inc,New York Stock Exchange
+SWCH,Switch Inc,New York Stock Exchange
+APLE,Apple Hospitality REIT Inc,New York Stock Exchange
+ADS,Alliance Data Systems Corp,New York Stock Exchange
+DRQ,Dril-Quip Inc,New York Stock Exchange
+AXS,AXIS Capital Holdings Ltd,New York Stock Exchange
+MTDR,Matador Resources Co,New York Stock Exchange
+CAJ,Canon Inc. American Depositary Shares,New York Stock Exchange
+CNI,Canadian National Railway Co,New York Stock Exchange
+CAL,Caleres Inc,New York Stock Exchange
+SAP,SAP SE ADS,New York Stock Exchange
+ESNT,Essent Group Ltd,New York Stock Exchange
+NMFC,New Mountain Finance Corp,New York Stock Exchange
+OI,O-I Glass Inc,New York Stock Exchange
+MDU,MDU Resources Group Inc,New York Stock Exchange
+ELLI,Ellie Mae Inc.,New York Stock Exchange
+PSXP,Phillips 66 Partners LP,New York Stock Exchange
+CWH,Camping World Holdings Inc,New York Stock Exchange
+DECK,Deckers Outdoor Corp,New York Stock Exchange
+SMFG,Sumitomo Mitsui Financial Group Inc Unsponsored American Depositary Shares (Japan),New York Stock Exchange
+LAZ,Lazard Ltd,New York Stock Exchange
+NEXA,Nexa Resources SA,New York Stock Exchange
+PLNT,Planet Fitness Inc,New York Stock Exchange
+CAH,Cardinal Health Inc,New York Stock Exchange
+AYI,Acuity Brands Inc,New York Stock Exchange
+DVA,DaVita Inc,New York Stock Exchange
+WCN,Waste Connections Inc,New York Stock Exchange
+MYOV,Myovant Sciences Ltd,New York Stock Exchange
+ABM,ABM Industries Inc,New York Stock Exchange
+NGL,NGL Energy Partners LP,New York Stock Exchange
+ARCO,Arcos Dorados Holdings Inc,New York Stock Exchange
+LNC,Lincoln National Corp,New York Stock Exchange
+NGG,National Grid Transco PLC PLC (NEW) American Depositary Shares,New York Stock Exchange
+GTES,Gates Industrial Corporation PLC,New York Stock Exchange
+CMA,Comerica Inc,New York Stock Exchange
+ALK,Alaska Air Group Inc,New York Stock Exchange
+HUM,Humana Inc,New York Stock Exchange
+TEX,Terex Corp,New York Stock Exchange
+JWN,Nordstrom Inc,New York Stock Exchange
+HFC,HollyFrontier Corp,New York Stock Exchange
+PQG,PQ Group Holdings Inc,New York Stock Exchange
+EDU,New Oriental Education & Technology Group Inc,New York Stock Exchange
+ESRT,Empire State Realty Trust Inc,New York Stock Exchange
+LBRT,Liberty Oilfield Services Inc,New York Stock Exchange
+PEB,Pebblebrook Hotel Trust,New York Stock Exchange
+TSN,Tyson Foods Inc,New York Stock Exchange
+HSBC,HSBC Holdings plc.,New York Stock Exchange
+OMI,Owens & Minor Inc,New York Stock Exchange
+MMP,Magellan Midstream Partners LP,New York Stock Exchange
+HDB,HDFC Bank Limited,New York Stock Exchange
+TSE,Trinseo SA,New York Stock Exchange
+WAL,Western Alliance Bancorp,New York Stock Exchange
+SBS,Companhia de saneamento Basico Do Estado De Sao Paulo - Sabesp American Depositary Shares (Each repstg 250),New York Stock Exchange
+ARE,Alexandria Real Estate Equities Inc,New York Stock Exchange
+TRGP,Targa Resources Corp,New York Stock Exchange
+LYV,Live Nation Entertainment Inc,New York Stock Exchange
+MFA,MFA Financial Inc,New York Stock Exchange
+ECL,Ecolab Inc,New York Stock Exchange
+ELY,Callaway Golf Co,New York Stock Exchange
+ARES,Ares Management Corp,New York Stock Exchange
+DDD,3D Systems Corp,New York Stock Exchange
+MKC,McCormick & Company Inc,New York Stock Exchange
+BSBR,Banco Santander Brasil SA American Depositary Shares each representing one unit,New York Stock Exchange
+RMD,Resmed Inc,New York Stock Exchange
+BKU,BankUnited Inc,New York Stock Exchange
+H,Hyatt Hotels Corp,New York Stock Exchange
+EXPR,Express Inc,New York Stock Exchange
+AVB,Avalonbay Communities Inc,New York Stock Exchange
+CVEO,Civeo Corp,New York Stock Exchange
+TDOC,Teladoc Health Inc,New York Stock Exchange
+TRU,TransUnion,New York Stock Exchange
+SOGO,Sogou Inc,New York Stock Exchange
+XYL,Xylem Inc,New York Stock Exchange
+SFUN,Fang Holdings Ltd,New York Stock Exchange
+DY,Dycom Industries Inc,New York Stock Exchange
+MGP,MGM Growth Properties LLC,New York Stock Exchange
+SONY,Sony Corporation,New York Stock Exchange
+MAA,Mid-America Apartment Communities Inc,New York Stock Exchange
+AEL,American Equity Investment Life Holding Co,New York Stock Exchange
+WES,Western Midstream Partners LP,New York Stock Exchange
+QUAD,Quad/Graphics Inc,New York Stock Exchange
+RYN,Rayonier Inc,New York Stock Exchange
+VSTO,Vista Outdoor Inc,New York Stock Exchange
+BHVN,Biohaven Pharmaceutical Holding Company Ltd,New York Stock Exchange
+PPG,PPG Industries Inc,New York Stock Exchange
+ORI,Old Republic International Corp,New York Stock Exchange
+TPC,Tutor Perini Corp,New York Stock Exchange
+XHR,Xenia Hotels & Resorts Inc,New York Stock Exchange
+MC,Moelis & Co,New York Stock Exchange
+DDS,Dillard's Inc,New York Stock Exchange
+TMST,TimkenSteel Corp,New York Stock Exchange
+FR,First Industrial Realty Trust Inc,New York Stock Exchange
+CIG,Comp En De Mn Cemig ADS American Depositary Shares,New York Stock Exchange
+CUK,Carnival Plc ADS ADS,New York Stock Exchange
+MSI,Motorola Solutions Inc,New York Stock Exchange
+FNV,Franco-Nevada Corp,New York Stock Exchange
+EGN,Energen Corporation,New York Stock Exchange
+KMX,Carmax Inc,New York Stock Exchange
+LFC,China Life Insurance Company Limited American Depositary Shares,New York Stock Exchange
+BRX,Brixmor Property Group Inc,New York Stock Exchange
+LH,Laboratory Corporation of America Holdings,New York Stock Exchange
+NBHC,National Bank Holdings Corp,New York Stock Exchange
+FND,Floor & Decor Holdings Inc,New York Stock Exchange
+MOH,Molina Healthcare Inc,New York Stock Exchange
+FUL,HB Fuller Co,New York Stock Exchange
+MRC,MRC Global Inc,New York Stock Exchange
+EXR,Extra Space Storage Inc,New York Stock Exchange
+CPG,Crescent Point Energy Corp,New York Stock Exchange
+WHR,Whirlpool Corp,New York Stock Exchange
+HSY,Hershey Co,New York Stock Exchange
+SEAS,SeaWorld Entertainment Inc,New York Stock Exchange
+PGRE,Paramount Group Inc,New York Stock Exchange
+COO,Cooper Companies Inc,New York Stock Exchange
+JT,Jianpu Technology Inc,New York Stock Exchange
+WRI,Weingarten Realty Investors,New York Stock Exchange
+KORS,Michael Kors Holdings Limited,New York Stock Exchange
+CPT,Camden Property Trust,New York Stock Exchange
+SHOP,Shopify Inc,New York Stock Exchange
+MWA,Mueller Water Products Inc,New York Stock Exchange
+GWB,Great Western Bancorp Inc,New York Stock Exchange
+BOOT,Boot Barn Holdings Inc,New York Stock Exchange
+ALEX,Alexander & Baldwin Inc. REIT Holding Company,New York Stock Exchange
+TKR,Timken Co,New York Stock Exchange
+RL,Ralph Lauren Corp,New York Stock Exchange
+CLGX,Corelogic Inc,New York Stock Exchange
+TD,Toronto-Dominion Bank,New York Stock Exchange
+BRO,Brown & Brown Inc,New York Stock Exchange
+ALSN,Allison Transmission Holdings Inc,New York Stock Exchange
+FAF,First American Financial Corp,New York Stock Exchange
+G,Genpact Ltd,New York Stock Exchange
+CFX,Colfax Corp,New York Stock Exchange
+PANW,Palo Alto Networks Inc,New York Stock Exchange
+GPC,Genuine Parts Co,New York Stock Exchange
+ELP,Companhia Paranaense de Energia (COPEL),New York Stock Exchange
+KMPR,Kemper Corp,New York Stock Exchange
+BGS,B&G Foods Inc,New York Stock Exchange
+CRS,Carpenter Technology Corp,New York Stock Exchange
+AMC,AMC Entertainment Holdings Inc,New York Stock Exchange
+BVN,Buenaventura Mining Company Inc.,New York Stock Exchange
+EXK,Endeavour Silver Corp,New York Stock Exchange
+BLK,BlackRock Inc,New York Stock Exchange
+WRD,WildHorse Resource Development Corporation,New York Stock Exchange
+SFS,Smart & Final Stores Inc.,New York Stock Exchange
+POR,Portland General Electric Co,New York Stock Exchange
+BBL,BHP Billiton plc Sponsored ADR,New York Stock Exchange
+GCI,Gannett Co Inc,New York Stock Exchange
+DYN,Dynegy Inc.,New York Stock Exchange
+KNL,Knoll Inc,New York Stock Exchange
+HOG,Harley-Davidson Inc,New York Stock Exchange
+STWD,Starwood Property Trust Inc,New York Stock Exchange
+UNVR,Univar Solutions Inc,New York Stock Exchange
+TUP,Tupperware Brands Corp,New York Stock Exchange
+FSM,Fortuna Silver Mines Inc,New York Stock Exchange
+XIN,Xinyuan Real Estate Co Ltd,New York Stock Exchange
+ADNT,Adient PLC,New York Stock Exchange
+HAE,Haemonetics Corp,New York Stock Exchange
+DLX,Deluxe Corp,New York Stock Exchange
+GEO,Geo Group Inc,New York Stock Exchange
+AAV,Advantage Oil & Gas Ltd,New York Stock Exchange
+AAP,Advance Auto Parts Inc,New York Stock Exchange
+AON,Aon PLC,New York Stock Exchange
+SKM,SK Telecom Co. Ltd.,New York Stock Exchange
+MAN,ManpowerGroup Inc,New York Stock Exchange
+TNET,TriNet Group Inc,New York Stock Exchange
+ECR,Eclipse Resources Corporation,New York Stock Exchange
+LZB,La-Z-Boy Inc,New York Stock Exchange
+FTSI,FTS International Inc,New York Stock Exchange
+BXS,BancorpSouth Bank,New York Stock Exchange
+TRI,Thomson Reuters Corp,New York Stock Exchange
+JQC,Nuveen Credit Strategies Income Fund,New York Stock Exchange
+GMS,GMS Inc,New York Stock Exchange
+PBI,Pitney Bowes Inc,New York Stock Exchange
+RJF,Raymond James Financial Inc,New York Stock Exchange
+TTC,Toro Co,New York Stock Exchange
+BAM,Brookfield Asset Management Inc,New York Stock Exchange
+SHW,Sherwin-Williams Co,New York Stock Exchange
+AMP,Ameriprise Financial Inc,New York Stock Exchange
+SNR,New Senior Investment Group Inc,New York Stock Exchange
+WSO,Watsco Inc,New York Stock Exchange
+ATO,Atmos Energy Corp,New York Stock Exchange
+STAG,STAG Industrial Inc,New York Stock Exchange
+WAB,Westinghouse Air Brake Technologies Corp,New York Stock Exchange
+PFGC,Performance Food Group Co,New York Stock Exchange
+MUSA,Murphy Usa Inc,New York Stock Exchange
+DK,Delek US Holdings Inc,New York Stock Exchange
+CM,Canadian Imperial Bank of Commerce,New York Stock Exchange
+SWX,Southwest Gas Holdings Inc,New York Stock Exchange
+MTW,Manitowoc Company Inc,New York Stock Exchange
+IRS,IRSA Inversiones Y Representaciones S.A.,New York Stock Exchange
+MIC,Macquarie Infrastructure Corp,New York Stock Exchange
+CNK,Cinemark Holdings Inc,New York Stock Exchange
+OCN,Ocwen Financial Corp,New York Stock Exchange
+ENS,EnerSys,New York Stock Exchange
+TFX,Teleflex Inc,New York Stock Exchange
+EQC,Equity Commonwealth,New York Stock Exchange
+DEI,Douglas Emmett Inc,New York Stock Exchange
+UFS,Domtar Corp,New York Stock Exchange
+MTN,Vail Resorts Inc,New York Stock Exchange
+SPR,Spirit AeroSystems Holdings Inc,New York Stock Exchange
+LEE,Lee Enterprises Inc,New York Stock Exchange
+NRZ,New Residential Investment Corp,New York Stock Exchange
+HBM,Hudbay Minerals Inc,New York Stock Exchange
+EVRI,Everi Holdings Inc,New York Stock Exchange
+LCI,Lannett Company Inc,New York Stock Exchange
+PII,Polaris Inc,New York Stock Exchange
+CTT,CatchMark Timber Trust Inc,New York Stock Exchange
+AHH,Armada Hoffler Properties Inc,New York Stock Exchange
+SF,Stifel Financial Corp,New York Stock Exchange
+DCP,DCP Midstream LP,New York Stock Exchange
+VEDL,Vedanta Limited American Depositary Shares (Each representing four equity shares),New York Stock Exchange
+WBS,Webster Financial Corp,New York Stock Exchange
+WST,West Pharmaceutical Services Inc,New York Stock Exchange
+SCI,Service Corporation International,New York Stock Exchange
+BERY,Berry Global Group Inc,New York Stock Exchange
+ENIA,Enel Americas S.A. American Depositary Shares,New York Stock Exchange
+SPNT,Third Point Reinsurance Ltd,New York Stock Exchange
+CCK,Crown Holdings Inc,New York Stock Exchange
+WNC,Wabash National Corp,New York Stock Exchange
+ETR,Entergy Corp,New York Stock Exchange
+FLS,Flowserve Corp,New York Stock Exchange
+WBT,Welbilt Inc,New York Stock Exchange
+CRH,CRH PLC American Depositary Shares,New York Stock Exchange
+GHL,Greenhill & Co Inc,New York Stock Exchange
+IPI,Intrepid Potash Inc,New York Stock Exchange
+HIW,Highwoods Properties Inc,New York Stock Exchange
+CPS,Cooper-Standard Holdings Inc,New York Stock Exchange
+APH,Amphenol Corp,New York Stock Exchange
+REXR,Rexford Industrial Realty Inc,New York Stock Exchange
+TK,Teekay Corp,New York Stock Exchange
+RS,Reliance Steel & Aluminum Co,New York Stock Exchange
+HEI,HEICO Corp,New York Stock Exchange
+CFR,Cullen/Frost Bankers Inc,New York Stock Exchange
+YPF,YPF Sociedad Anonima,New York Stock Exchange
+CMG,Chipotle Mexican Grill Inc,New York Stock Exchange
+RPM,RPM International Inc,New York Stock Exchange
+BNS,Bank of Nova Scotia,New York Stock Exchange
+BWXT,BWX Technologies Inc,New York Stock Exchange
+WOW,WideOpenWest Inc,New York Stock Exchange
+PRMW,Primo Water Corporation,New York Stock Exchange
+WOR,Worthington Industries Inc,New York Stock Exchange
+HUBS,HubSpot Inc,New York Stock Exchange
+QUOT,Quotient Technology Inc,New York Stock Exchange
+COLD,Americold Realty Trust,New York Stock Exchange
+NS,NuStar Energy LP,New York Stock Exchange
+FMX,Fomento Economico Mexicano S.A.B. de C.V.,New York Stock Exchange
+PKG,Packaging Corp of America,New York Stock Exchange
+NAV,Navistar International Corp,New York Stock Exchange
+CLX,Clorox Co,New York Stock Exchange
+VGR,Vector Group Ltd,New York Stock Exchange
+HII,Huntington Ingalls Industries Inc,New York Stock Exchange
+PRGO,Perrigo Company PLC,New York Stock Exchange
+MPO,Midstates Petroleum Company Inc.,New York Stock Exchange
+MSA,MSA Safety Inc,New York Stock Exchange
+SQNS,Sequans Communications SA,New York Stock Exchange
+ACM,AECOM,New York Stock Exchange
+HLI,Houlihan Lokey Inc,New York Stock Exchange
+CMP,Compass Minerals International Inc,New York Stock Exchange
+SPB,Spectrum Brands Holdings Inc,New York Stock Exchange
+IFF,International Flavors & Fragrances Inc,New York Stock Exchange
+RYI,Ryerson Holding Corp,New York Stock Exchange
+MAC,Macerich Co,New York Stock Exchange
+IQV,IQVIA Holdings Inc,New York Stock Exchange
+WNS,WNS (Holdings) Ltd,New York Stock Exchange
+VIV,Telefonica Brasil S.A. ADS,New York Stock Exchange
+FCF,First Commonwealth Financial Corp,New York Stock Exchange
+SNP,China Petroleum & Chemical Corporation,New York Stock Exchange
+RPAI,Retail Properties of America Inc,New York Stock Exchange
+IVR,Invesco Mortgage Capital Inc,New York Stock Exchange
+TTI,Tetra Technologies Inc,New York Stock Exchange
+THS,TreeHouse Foods Inc,New York Stock Exchange
+RRD,RR Donnelley & Sons Co,New York Stock Exchange
+TBI,TrueBlue Inc,New York Stock Exchange
+BHE,Benchmark Electronics Inc,New York Stock Exchange
+BCE,BCE Inc,New York Stock Exchange
+FCB,FCB Financial Holdings Inc. Class A,New York Stock Exchange
+ENIC,Enel Chile S.A. American Depositary Shares (Each representing 50 shares of),New York Stock Exchange
+SPXC,SPX Corp,New York Stock Exchange
+ARCH,Arch Resources Inc,New York Stock Exchange
+AM,Antero Midstream Corp,New York Stock Exchange
+TGI,Triumph Group Inc,New York Stock Exchange
+AWK,American Water Works Company Inc,New York Stock Exchange
+R,Ryder System Inc,New York Stock Exchange
+EXG,Eaton Vance Tax-Managed Global Diversified Equity Income Fund,New York Stock Exchange
+BKH,Black Hills Corp,New York Stock Exchange
+AVD,American Vanguard Corp,New York Stock Exchange
+CMCM,Cheetah Mobile Inc,New York Stock Exchange
+GPN,Global Payments Inc,New York Stock Exchange
+HE,Hawaiian Electric Industries Inc,New York Stock Exchange
+SJI,South Jersey Industries Inc,New York Stock Exchange
+VAR,Varian Medical Systems Inc,New York Stock Exchange
+UGI,UGI Corp,New York Stock Exchange
+SVU,SuperValu Inc.,New York Stock Exchange
+CBD,Companhia Brasileira de Distribuicao ADS,New York Stock Exchange
+SMG,Scotts Miracle-Gro Co,New York Stock Exchange
+WAT,Waters Corp,New York Stock Exchange
+FLOW,SPX FLOW Inc,New York Stock Exchange
+CWT,California Water Service Group,New York Stock Exchange
+MTB,M&T Bank Corp,New York Stock Exchange
+CRL,Charles River Laboratories International Inc,New York Stock Exchange
+FDS,Factset Research Systems Inc,New York Stock Exchange
+JLL,Jones Lang LaSalle Inc,New York Stock Exchange
+HSC,Harsco Corp,New York Stock Exchange
+SAIL,SailPoint Technologies Holdings Inc,New York Stock Exchange
+PNM,PNM Resources Inc,New York Stock Exchange
+AT,Atlantic Power Corp,New York Stock Exchange
+MXL,Maxlinear Inc,New York Stock Exchange
+AVY,Avery Dennison Corp,New York Stock Exchange
+WMS,Advanced Drainage Systems Inc,New York Stock Exchange
+DHT,DHT Holdings Inc,New York Stock Exchange
+AVA,Avista Corp,New York Stock Exchange
+WLK,Westlake Chemical Corp,New York Stock Exchange
+PSA,Public Storage,New York Stock Exchange
+NTB,Bank of N.T. Butterfield & Son Ltd,New York Stock Exchange
+STE,Steris plc,New York Stock Exchange
+DCI,Donaldson Company Inc,New York Stock Exchange
+FTAI,Fortress Transportation and Infrastructure Investors LLC,New York Stock Exchange
+AIZ,Assurant Inc,New York Stock Exchange
+BURL,Burlington Stores Inc,New York Stock Exchange
+LEG,Leggett & Platt Inc,New York Stock Exchange
+COR,CoreSite Realty Corp,New York Stock Exchange
+AAN,Aaron's Inc,New York Stock Exchange
+SOI,Solaris Oilfield Infrastructure Inc,New York Stock Exchange
+PRA,ProAssurance Corp,New York Stock Exchange
+GPMT,Granite Point Mortgage Trust Inc,New York Stock Exchange
+INT,World Fuel Services Corp,New York Stock Exchange
+LPG,Dorian LPG Ltd,New York Stock Exchange
+IPHI,Inphi Corp,New York Stock Exchange
+BAP,Credicorp Ltd,New York Stock Exchange
+BC,Brunswick Corp,New York Stock Exchange
+SNN,Smith & Nephew SNATS Inc.,New York Stock Exchange
+CUBI,Customers Bancorp Inc,New York Stock Exchange
+CADE,Cadence Bancorp,New York Stock Exchange
+AJRD,Aerojet Rocketdyne Holdings Inc,New York Stock Exchange
+APAM,Artisan Partners Asset Management Inc,New York Stock Exchange
+PEI,Pennsylvania Real Estate Investment Trust,New York Stock Exchange
+ST,Sensata Technologies Holding PLC,New York Stock Exchange
+AKR,Acadia Realty Trust,New York Stock Exchange
+CHKR,Chesapeake Granite Wash Trust,New York Stock Exchange
+MLI,Mueller Industries Inc,New York Stock Exchange
+ROG,Rogers Corp,New York Stock Exchange
+UMC,United Microelectronics Corporation (NEW),New York Stock Exchange
+KEYS,Keysight Technologies Inc,New York Stock Exchange
+HRC,Hill-Rom Holdings Inc,New York Stock Exchange
+FRT,Federal Realty Investment Trust,New York Stock Exchange
+ASC,Ardmore Shipping Corp,New York Stock Exchange
+STC,Stewart Information Services Corp,New York Stock Exchange
+IRT,Independence Realty Trust Inc,New York Stock Exchange
+LII,Lennox International Inc,New York Stock Exchange
+OSG,Overseas Shipholding Group Inc,New York Stock Exchange
+GOOS,Canada Goose Holdings Inc,New York Stock Exchange
+BMO,Bank of Montreal,New York Stock Exchange
+EPAM,Epam Systems Inc,New York Stock Exchange
+PVH,PVH Corp,New York Stock Exchange
+MTD,Mettler-Toledo International Inc,New York Stock Exchange
+EGHT,8x8 Inc,New York Stock Exchange
+ESS,Essex Property Trust Inc,New York Stock Exchange
+INGR,Ingredion Inc,New York Stock Exchange
+HT,Hersha Hospitality Trust,New York Stock Exchange
+WPC,WP Carey Inc,New York Stock Exchange
+AWR,American States Water Co,New York Stock Exchange
+WLKP,Westlake Chemical Partners LP,New York Stock Exchange
+BFAM,Bright Horizons Family Solutions Inc,New York Stock Exchange
+TEN,Tenneco Inc,New York Stock Exchange
+SUP,Superior Industries International Inc,New York Stock Exchange
+LL,Lumber Liquidators Holdings Inc,New York Stock Exchange
+LEA,Lear Corp,New York Stock Exchange
+APD,Air Products and Chemicals Inc,New York Stock Exchange
+SXC,SunCoke Energy Inc,New York Stock Exchange
+ATTO,Atento SA,New York Stock Exchange
+DAR,Darling Ingredients Inc,New York Stock Exchange
+AJG,Arthur J Gallagher & Co,New York Stock Exchange
+RGA,Reinsurance Group of America Inc,New York Stock Exchange
+KB,KB Financial Group Inc,New York Stock Exchange
+SNV,Synovus Financial Corp,New York Stock Exchange
+MOD,Modine Manufacturing Co,New York Stock Exchange
+NSH,Nustar GP Holdings LLC Units,New York Stock Exchange
+SNA,Snap-On Inc,New York Stock Exchange
+CLDT,Chatham Lodging Trust,New York Stock Exchange
+DEO,Diageo plc,New York Stock Exchange
+UNFI,United Natural Foods Inc,New York Stock Exchange
+SAH,Sonic Automotive Inc,New York Stock Exchange
+NVTA,Invitae Corp,New York Stock Exchange
+HZO,MarineMax Inc,New York Stock Exchange
+TNK,Teekay Tankers Ltd,New York Stock Exchange
+HMC,Honda Motor Company Ltd.,New York Stock Exchange
+GPI,Group 1 Automotive Inc,New York Stock Exchange
+CPA,Copa Holdings SA,New York Stock Exchange
+HOV,Hovnanian Enterprises Inc,New York Stock Exchange
+BWP,Boardwalk Pipeline Partners LP,New York Stock Exchange
+CTLT,Catalent Inc,New York Stock Exchange
+ROBO,ROBO Global Robotics and Automation Index ETF,New York Stock Exchange
+NMM,Navios Maritime Partners LP,New York Stock Exchange
+SAIC,Science Applications International Corp,New York Stock Exchange
+TPX,Tempur Sealy International Inc,New York Stock Exchange
+VVR,Invesco senior income trust,New York Stock Exchange
+UL,Unilever PLC,New York Stock Exchange
+FAC,First Acceptance Corporation,New York Stock Exchange
+HVT,Haverty Furniture Companies Inc,New York Stock Exchange
+GOLD,Barrick Gold Corp,New York Stock Exchange
+RLI,Rli Corp,New York Stock Exchange
+KEX,Kirby Corp,New York Stock Exchange
+OR,Osisko Gold Royalties Ltd,New York Stock Exchange
+B,Barnes Group Inc,New York Stock Exchange
+DIN,Dine Brands Global Inc,New York Stock Exchange
+NM,Navios Maritime Holdings Inc,New York Stock Exchange
+GVA,Granite Construction Inc,New York Stock Exchange
+EVTC,Evertec Inc,New York Stock Exchange
+DESP,Despegar.com Corp,New York Stock Exchange
+TGP,Teekay LNG Partners LP,New York Stock Exchange
+NFJ,Allianzgi Dividend Interest & Premium Strategy Fund,New York Stock Exchange
+ENZ,Enzo Biochem Inc,New York Stock Exchange
+KRA,Kraton Corp,New York Stock Exchange
+QTM,Quantum Corporation,New York Stock Exchange
+KDMN,Kadmon Holdings Inc,New York Stock Exchange
+CNS,Cohen & Steers Inc,New York Stock Exchange
+LXU,LSB Industries Inc,New York Stock Exchange
+SON,Sonoco Products Co,New York Stock Exchange
+GDOT,Green Dot Corp,New York Stock Exchange
+ROP,Roper Technologies Inc,New York Stock Exchange
+NLS,Nautilus Inc,New York Stock Exchange
+SITE,SiteOne Landscape Supply Inc,New York Stock Exchange
+RBA,Ritchie Bros. Auctioneers Inc,New York Stock Exchange
+EFR,Eaton Vance Senior Floating-Rate Trust,New York Stock Exchange
+TEF,Telefonica SA,New York Stock Exchange
+CSLT,Castlight Health Inc,New York Stock Exchange
+KEP,Korea Electric Power Corporation,New York Stock Exchange
+CEIX,CONSOL Energy Inc,New York Stock Exchange
+GIL,Gildan Activewear Inc,New York Stock Exchange
+KYN,Kayne Anderson MLP/Midstream Investment Co,New York Stock Exchange
+NVGS,Navigator Holdings Ltd,New York Stock Exchange
+MCY,Mercury General Corp,New York Stock Exchange
+AZUL,Azul SA,New York Stock Exchange
+TCS,Container Store Group Inc,New York Stock Exchange
+GATX,GATX Corp,New York Stock Exchange
+EPC,Edgewell Personal Care Co,New York Stock Exchange
+SRG,Seritage Growth Properties,New York Stock Exchange
+MSM,MSC Industrial Direct Co Inc,New York Stock Exchange
+GEF,Greif Inc,New York Stock Exchange
+LOMA,Loma Negra Compania Industrial Argentina Sociedad Anonima ADS,New York Stock Exchange
+HCHC,HC2 Holdings Inc,New York Stock Exchange
+GGG,Graco Inc,New York Stock Exchange
+TDS,Telephone and Data Systems Inc,New York Stock Exchange
+MTH,Meritage Homes Corp,New York Stock Exchange
+GNL,Global Net Lease Inc,New York Stock Exchange
+BXC,Bluelinx Holdings Inc,New York Stock Exchange
+NPO,EnPro Industries Inc,New York Stock Exchange
+RCI,Rogers Communications Inc,New York Stock Exchange
+BSMX,Banco Santadr Mc SA In de Bn Ml Gp,New York Stock Exchange
+BAK,Braskem SA ADR,New York Stock Exchange
+SEM,Select Medical Holdings Corp,New York Stock Exchange
+REN,Resolute Energy Corporation Comon Stock,New York Stock Exchange
+CCU,Compania Cervecerias Unidas S.A.,New York Stock Exchange
+WAGE,WageWorks Inc.,New York Stock Exchange
+GEL,Genesis Energy LP,New York Stock Exchange
+HEP,Holly Energy Partners LP,New York Stock Exchange
+GNRC,Generac Holdings Inc,New York Stock Exchange
+WD,Walker & Dunlop Inc,New York Stock Exchange
+DNB,Dun & Bradstreet Holdings Inc,New York Stock Exchange
+IVC,Invacare Corp,New York Stock Exchange
+ITT,ITT Inc,New York Stock Exchange
+CHH,Choice Hotels International Inc,New York Stock Exchange
+TOT,Total S.A.,New York Stock Exchange
+BDJ,Blackrock Enhanced Equity Dividend Trust,New York Stock Exchange
+PGTI,PGT Innovations Inc,New York Stock Exchange
+MDP,Meredith Corp,New York Stock Exchange
+DATA,Tableau Software Inc. Class A,New York Stock Exchange
+WWE,World Wrestling Entertainment Inc,New York Stock Exchange
+RNG,RingCentral Inc,New York Stock Exchange
+EHC,Encompass Health Corp,New York Stock Exchange
+DTE,DTE Energy Co,New York Stock Exchange
+DEA,Easterly Government Properties Inc,New York Stock Exchange
+BRS,Bristow Group Inc.,New York Stock Exchange
+ERF,Enerplus Corp,New York Stock Exchange
+ETV,Eaton Vance Tax-Managed Buy-Write Opportunities Fund,New York Stock Exchange
+NFG,National Fuel Gas Co,New York Stock Exchange
+CNNE,Cannae Holdings Inc,New York Stock Exchange
+WCC,Wesco International Inc,New York Stock Exchange
+BRC,Brady Corp,New York Stock Exchange
+AAT,American Assets Trust Inc,New York Stock Exchange
+ENR,Energizer Holdings Inc,New York Stock Exchange
+NSA,National Storage Affiliates Trust,New York Stock Exchange
+RFP,Resolute Forest Products Inc,New York Stock Exchange
+USAC,USA Compression Partners LP,New York Stock Exchange
+WSR,Whitestone REIT,New York Stock Exchange
+RWT,Redwood Trust Inc,New York Stock Exchange
+SFL,SFL Corporation Ltd,New York Stock Exchange
+AME,AMETEK Inc,New York Stock Exchange
+DCT,DCT Industrial Trust Inc,New York Stock Exchange
+SR,Spire Inc,New York Stock Exchange
+HRTG,Heritage Insurance Holdings Inc,New York Stock Exchange
+AYX,Alteryx Inc,New York Stock Exchange
+BEDU,Bright Scholar Education Holdings Ltd,New York Stock Exchange
+CIB,BanColombia S.A.,New York Stock Exchange
+PES,Pioneer Energy Services Corp. Common Stk,New York Stock Exchange
+BLD,TopBuild Corp,New York Stock Exchange
+NETI,Scorpio Bulkers Inc,New York Stock Exchange
+BHLB,Berkshire Hills Bancorp Inc,New York Stock Exchange
+RE,Everest Re Group Ltd,New York Stock Exchange
+FBC,Flagstar Bancorp Inc,New York Stock Exchange
+CLS,Celestica Inc,New York Stock Exchange
+PHK,PIMCO High Income Fund,New York Stock Exchange
+GBX,Greenbrier Companies Inc,New York Stock Exchange
+VRS,Verso Corp,New York Stock Exchange
+HUBB,Hubbell Inc,New York Stock Exchange
+GTT,GTT Communications Inc,New York Stock Exchange
+PBA,Pembina Pipeline Corp,New York Stock Exchange
+UAN,CVR Partners LP,New York Stock Exchange
+GMED,Globus Medical Inc,New York Stock Exchange
+PB,Prosperity Bancshares Inc,New York Stock Exchange
+VVI,Viad Corp,New York Stock Exchange
+EGL,Engility Holdings Inc.,New York Stock Exchange
+TU,Telus Corp,New York Stock Exchange
+LCII,LCI Industries,New York Stock Exchange
+ADX,Adams Diversified Equity Fund Inc,New York Stock Exchange
+CSU,Capital Senior Living Corp,New York Stock Exchange
+APTS,Preferred Apartment Communities Inc,New York Stock Exchange
+JILL,J.Jill Inc,New York Stock Exchange
+WWW,Wolverine World Wide Inc,New York Stock Exchange
+RPT,RPT Realty,New York Stock Exchange
+AFG,American Financial Group Inc,New York Stock Exchange
+CYD,China Yuchai International Ltd,New York Stock Exchange
+FPH,Five Point Holdings LLC,New York Stock Exchange
+MNR,Monmouth Real Estate Investment Corp,New York Stock Exchange
+FN,Fabrinet,New York Stock Exchange
+CPK,Chesapeake Utilities Corp,New York Stock Exchange
+ORC,Orchid Island Capital Inc,New York Stock Exchange
+SLF,Sun Life Financial Inc,New York Stock Exchange
+KL,Kirkland Lake Gold Ltd,New York Stock Exchange
+WK,Workiva Inc,New York Stock Exchange
+FUN,Cedar Fair LP,New York Stock Exchange
+CACI,CACI International Inc,New York Stock Exchange
+SUPV,Grupo Supervielle S.A. American Depositary Shares each Representing five Class B shares,New York Stock Exchange
+BOH,Bank of Hawaii Corp,New York Stock Exchange
+CEPU,Central Puerto S.A. American Depositary Shares (each represents ten),New York Stock Exchange
+VVC,Vectren Corporation,New York Stock Exchange
+ENV,Envestnet Inc,New York Stock Exchange
+AIN,Albany International Corp,New York Stock Exchange
+CAE,CAE Inc,New York Stock Exchange
+NUV,Nuveen Municipal Value Fund Inc,New York Stock Exchange
+HXL,Hexcel Corp,New York Stock Exchange
+SWM,Schweitzer-Mauduit International Inc,New York Stock Exchange
+EME,EMCOR Group Inc,New York Stock Exchange
+OFG,OFG Bancorp,New York Stock Exchange
+GLT,P H Glatfelter Co,New York Stock Exchange
+PHG,Koninklijke Philips N.V. NY Registry Shares,New York Stock Exchange
+CMO,Capstead Mortgage Corp,New York Stock Exchange
+BXMX,Nuveen S&P 500 BuyWrite Income Fund,New York Stock Exchange
+AZO,Autozone Inc,New York Stock Exchange
+JKS,JinkoSolar Holding Co Ltd,New York Stock Exchange
+TM,Toyota Motor Corporation,New York Stock Exchange
+UVV,Universal Corp,New York Stock Exchange
+LAD,Lithia Motors Inc,New York Stock Exchange
+TWI,Titan International Inc,New York Stock Exchange
+RYAM,Rayonier Advanced Materials Inc,New York Stock Exchange
+DCO,Ducommun Inc,New York Stock Exchange
+HYT,Blackrock Corporate High Yield Fund Inc,New York Stock Exchange
+FCPT,Four Corners Property Trust Inc,New York Stock Exchange
+ENBL,Enable Midstream Partners LP,New York Stock Exchange
+MFG,Mizuho Financial Group Inc. Sponosred ADR (Japan),New York Stock Exchange
+SCG,SCANA Corporation,New York Stock Exchange
+CBB,Cincinnati Bell Inc,New York Stock Exchange
+NVRO,Nevro Corp,New York Stock Exchange
+MMS,Maximus Inc,New York Stock Exchange
+HTGC,Hercules Capital Inc,New York Stock Exchange
+EMES,Emerge Energy Services LP representing Limited Partner Interests,New York Stock Exchange
+NR,Newpark Resources Inc,New York Stock Exchange
+RVT,Royce Value Trust Inc,New York Stock Exchange
+FMS,Fresenius Medical Care AG,New York Stock Exchange
+EMD,Western Asset Emerging Markets Debt Fund Inc,New York Stock Exchange
+RDY,Dr. Reddy's Laboratories Ltd,New York Stock Exchange
+TLK,PT Telekomunikasi Indonesia Tbk,New York Stock Exchange
+HTH,Hilltop Holdings Inc,New York Stock Exchange
+PKX,POSCO,New York Stock Exchange
+PAG,Penske Automotive Group Inc,New York Stock Exchange
+SSTK,Shutterstock Inc,New York Stock Exchange
+DCM,NTT DOCOMO Inc American Depositary Shares,New York Stock Exchange
+BMA,Banco Macro S.A. ADR (representing Ten Class B),New York Stock Exchange
+HIVE,Aerohive Networks Inc.,New York Stock Exchange
+FDP,Fresh Del Monte Produce Inc,New York Stock Exchange
+BGY,BlackRock Enhanced International Dividend Trust,New York Stock Exchange
+AB,AllianceBernstein Holding LP,New York Stock Exchange
+MSGN,MSG Networks Inc,New York Stock Exchange
+NUS,NU Skin Enterprises Inc,New York Stock Exchange
+MD,MEDNAX Inc,New York Stock Exchange
+FTK,Flotek Industries Inc,New York Stock Exchange
+PAM,Pampa Energia S.A.,New York Stock Exchange
+JBT,John Bean Technologies Corp,New York Stock Exchange
+PJT,PJT Partners Inc,New York Stock Exchange
+BKE,Buckle Inc,New York Stock Exchange
+RHP,Ryman Hospitality Properties Inc,New York Stock Exchange
+ADC,Agree Realty Corp,New York Stock Exchange
+ENVA,Enova International Inc,New York Stock Exchange
+CMRE,Costamare Inc,New York Stock Exchange
+ARW,Arrow Electronics Inc,New York Stock Exchange
+NEA,Nuveen Amt-Free Quality Municipal Income Fund,New York Stock Exchange
+AMG,Affiliated Managers Group Inc,New York Stock Exchange
+NMR,Nomura Holdings Inc ADR American Depositary Shares,New York Stock Exchange
+LSI,Life Storage Inc,New York Stock Exchange
+EPR,EPR Properties,New York Stock Exchange
+IGD,Voya Global Equity Dividend and Premium Opportunity Fund,New York Stock Exchange
+GUT,Gabelli Utility Trust,New York Stock Exchange
+AIT,Applied Industrial Technologies Inc,New York Stock Exchange
+MODN,Model N Inc,New York Stock Exchange
+SNX,SYNNEX Corp,New York Stock Exchange
+TX,Ternium SA,New York Stock Exchange
+BSAC,Banco Santander - Chile ADS,New York Stock Exchange
+PTR,PetroChina Company Limited,New York Stock Exchange
+SSL,Sasol Ltd. American Depositary Shares,New York Stock Exchange
+HMN,Horace Mann Educators Corp,New York Stock Exchange
+BMI,Badger Meter Inc,New York Stock Exchange
+CHCT,Community Healthcare Trust Inc,New York Stock Exchange
+HHC,Howard Hughes Corp,New York Stock Exchange
+PMT,PennyMac Mortgage Investment Trust,New York Stock Exchange
+SHAK,Shake Shack Inc,New York Stock Exchange
+GOLF,Acushnet Holdings Corp,New York Stock Exchange
+WTTR,Select Energy Services Inc,New York Stock Exchange
+DOOR,Masonite International Corp,New York Stock Exchange
+EGP,Eastgroup Properties Inc,New York Stock Exchange
+PSO,Pearson Plc,New York Stock Exchange
+AOD,Aberdeen Total Dynamic Dividend Fund,New York Stock Exchange
+EEX,Emerald Holding Inc,New York Stock Exchange
+VCV,Invesco California Value Municipal Income Trust,New York Stock Exchange
+BIO,Bio Rad Laboratories Inc,New York Stock Exchange
+E,ENI S.p.A.,New York Stock Exchange
+KRC,Kilroy Realty Corp,New York Stock Exchange
+ACCO,ACCO Brands Corp,New York Stock Exchange
+TRNO,Terreno Realty Corp,New York Stock Exchange
+ASGN,ASGN Inc,New York Stock Exchange
+CVNA,Carvana Co,New York Stock Exchange
+GER,Goldman Sachs MLP and Energy Renaissance Fund,New York Stock Exchange
+ATKR,Atkore International Group Inc,New York Stock Exchange
+SJR,Shaw Communications Inc,New York Stock Exchange
+SA,Seabridge Gold Inc,New York Stock Exchange
+NGVT,Ingevity Corp,New York Stock Exchange
+BY,Byline Bancorp Inc,New York Stock Exchange
+VMI,Valmont Industries Inc,New York Stock Exchange
+HF,HFF Inc. Class A,New York Stock Exchange
+CLD,Cloud Peak Energy Inc,New York Stock Exchange
+FCN,FTI Consulting Inc,New York Stock Exchange
+WEX,WEX Inc,New York Stock Exchange
+CURO,CURO Group Holdings Corp,New York Stock Exchange
+KODK,Eastman Kodak Co,New York Stock Exchange
+MTRN,Materion Corp,New York Stock Exchange
+FI,Franks International NV,New York Stock Exchange
+SPH,Suburban Propane Partners LP,New York Stock Exchange
+NEWR,New Relic Inc,New York Stock Exchange
+VCRA,Vocera Communications Inc,New York Stock Exchange
+BZH,Beazer Homes USA Inc,New York Stock Exchange
+PRI,Primerica Inc,New York Stock Exchange
+STAR,iStar Inc,New York Stock Exchange
+LTC,LTC Properties Inc,New York Stock Exchange
+ELS,Equity LifeStyle Properties Inc,New York Stock Exchange
+TGS,Transportadora de Gas del Sur SA TGS,New York Stock Exchange
+CDR,Cedar Realty Trust Inc,New York Stock Exchange
+BIF,Boulder Growth & Income Fund,New York Stock Exchange
+ASIX,AdvanSix Inc,New York Stock Exchange
+TEO,Telecom Argentina SA,New York Stock Exchange
+ZEPP,Huami Corp,New York Stock Exchange
+SRT,Startek Inc,New York Stock Exchange
+CBZ,CBIZ Inc,New York Stock Exchange
+RQI,Cohen & Steers Quality Income Realty Fund Inc,New York Stock Exchange
+RRTS,Roadrunner Transportation Systems Inc,New York Stock Exchange
+OGS,ONE Gas Inc,New York Stock Exchange
+CMD,Cantel Medical Corp,New York Stock Exchange
+RBC,Regal Beloit Corp,New York Stock Exchange
+CIO,City Office REIT Inc,New York Stock Exchange
+NWE,NorthWestern Corp,New York Stock Exchange
+PLT,Plantronics Inc,New York Stock Exchange
+GOL,Gol Linhas Aereas Inteligentes S.A. Sponsored ADR representing 2 Pfd Shares,New York Stock Exchange
+ELF,e.l.f. Beauty Inc,New York Stock Exchange
+VAC,Marriott Vacations Worldwide Corp,New York Stock Exchange
+VEC,Vectrus Inc,New York Stock Exchange
+WBK,Westpac Banking Corporation,New York Stock Exchange
+IIF,Morgan Stanley India Investment Fund Inc,New York Stock Exchange
+AIR,AAR Corp,New York Stock Exchange
+EBR,Centrais Electricas Brasileiras S A American Depositary Shares (Each representing one),New York Stock Exchange
+HASI,Hannon Armstrong Sustainable Infrastructure Capital Inc,New York Stock Exchange
+CVI,CVR Energy Inc,New York Stock Exchange
+AWF,AllianceBernstein Global High Income Fund Inc,New York Stock Exchange
+BXG,Bluegreen Vacations Corp,New York Stock Exchange
+FBK,FB Financial Corp,New York Stock Exchange
+ACC,American Campus Communities Inc,New York Stock Exchange
+RELX,RELX PLC PLC American Depositary Shares (Each representing One),New York Stock Exchange
+JE,Just Energy Group Inc,New York Stock Exchange
+RGS,Regis Corp,New York Stock Exchange
+ITGR,Integer Holdings Corp,New York Stock Exchange
+BPI,Bridgepoint Education Inc.,New York Stock Exchange
+KRO,Kronos Worldwide Inc,New York Stock Exchange
+SB,Safe Bulkers Inc,New York Stock Exchange
+CCO,Clear Channel Outdoor Holdings Inc,New York Stock Exchange
+EBS,Emergent BioSolutions Inc,New York Stock Exchange
+EURN,Euronav NV,New York Stock Exchange
+QTWO,Q2 Holdings Inc,New York Stock Exchange
+NOA,North American Construction Group Ltd,New York Stock Exchange
+CALX,Calix Inc,New York Stock Exchange
+AHT,Ashford Hospitality Trust Inc,New York Stock Exchange
+TGH,Textainer Group Holdings Ltd,New York Stock Exchange
+EVA,Enviva Partners LP,New York Stock Exchange
+ATR,Aptargroup Inc,New York Stock Exchange
+ABG,Asbury Automotive Group Inc,New York Stock Exchange
+DS,Drive Shack Inc,New York Stock Exchange
+ARR,ARMOUR Residential REIT Inc,New York Stock Exchange
+ATGE,Adtalem Global Education Inc,New York Stock Exchange
+WHD,Cactus Inc,New York Stock Exchange
+JPS,Nuveen Preferred & Income Securities Fund,New York Stock Exchange
+CATO,Cato Corp,New York Stock Exchange
+MTX,Minerals Technologies Inc,New York Stock Exchange
+BOE,BlackRock Enhanced Global Dividend Trust,New York Stock Exchange
+FENG,Phoenix New Media Ltd,New York Stock Exchange
+TREX,Trex Company Inc,New York Stock Exchange
+FTS,Fortis Inc,New York Stock Exchange
+CCS,Century Communities Inc,New York Stock Exchange
+CLB,Core Laboratories NV,New York Stock Exchange
+CIT,CIT Group Inc,New York Stock Exchange
+UTI,Universal Technical Institute Inc,New York Stock Exchange
+BGB,Blackstone / Gso Strategic Credit Fund,New York Stock Exchange
+IBP,Installed Building Products Inc,New York Stock Exchange
+RNGR,Ranger Energy Services Inc,New York Stock Exchange
+RACE,Ferrari NV,New York Stock Exchange
+ROL,Rollins Inc,New York Stock Exchange
+KOP,Koppers Holdings Inc,New York Stock Exchange
+ESL,Esterline Technologies Corporation,New York Stock Exchange
+HI,Hillenbrand Inc,New York Stock Exchange
+WBAI,500.Com Ltd,New York Stock Exchange
+ETY,Eaton Vance Tax-Managed Diversified Equity Income Fund,New York Stock Exchange
+GLP,Global Partners LP,New York Stock Exchange
+RYB,RYB Education Inc,New York Stock Exchange
+MAIN,Main Street Capital Corp,New York Stock Exchange
+DQ,Daqo New Energy Corp,New York Stock Exchange
+TYL,Tyler Technologies Inc,New York Stock Exchange
+AVAL,Grupo Aval Acciones y Valores S.A. ADR (Each representing 20 preferred shares),New York Stock Exchange
+FPL,First Trust New Opportunities MLP & Energy Fund,New York Stock Exchange
+MOV,Movado Group Inc,New York Stock Exchange
+GTS,Triple-S Management Corp,New York Stock Exchange
+JRO,Nuveen Floating Rate Income Opportunity Fund,New York Stock Exchange
+ARC,ARC Document Solutions Inc,New York Stock Exchange
+KFY,Korn Ferry,New York Stock Exchange
+GIB,CGI Inc,New York Stock Exchange
+BCEI,Bonanza Creek Energy Inc,New York Stock Exchange
+DFIN,Donnelley Financial Solutions Inc,New York Stock Exchange
+NNI,Nelnet Inc,New York Stock Exchange
+EVF,Eaton Vance Senior Income Trust,New York Stock Exchange
+NTG,Tortoise Midstream Energy Fund Inc,New York Stock Exchange
+ZOES,Zoe's Kitchen Inc.,New York Stock Exchange
+RMAX,Re/Max Holdings Inc,New York Stock Exchange
+HRI,Herc Holdings Inc,New York Stock Exchange
+LDL,Lydall Inc,New York Stock Exchange
+PRLB,Proto Labs Inc,New York Stock Exchange
+BIT,Blackrock Multi-Sector Income Trust,New York Stock Exchange
+MMI,Marcus & Millichap Inc,New York Stock Exchange
+CR,Crane Co,New York Stock Exchange
+CEQP,Crestwood Equity Partners LP,New York Stock Exchange
+LNN,Lindsay Corp,New York Stock Exchange
+CLNC,Colony Credit Real Estate Inc,New York Stock Exchange
+GDV,Gabelli Dividend & Income Trust,New York Stock Exchange
+JONE,Jones Energy Inc. Class A,New York Stock Exchange
+PEN,Penumbra Inc,New York Stock Exchange
+AGR,Avangrid Inc,New York Stock Exchange
+TKC,Turkcell Iletisim Hizmetleri AS,New York Stock Exchange
+VMO,Invesco Van Kampen Municipal Opportunity Trust,New York Stock Exchange
+CRK,Comstock Resources Inc,New York Stock Exchange
+NWN,Northwest Natural Holding Co,New York Stock Exchange
+TSQ,Townsquare Media Inc,New York Stock Exchange
+CODI,Compass Diversified Holdings,New York Stock Exchange
+IGR,CBRE Clarion Global Real Estate Income Fund,New York Stock Exchange
+SAM,Boston Beer Company Inc,New York Stock Exchange
+DSX,Diana Shipping Inc,New York Stock Exchange
+IIPR,Innovative Industrial Properties Inc,New York Stock Exchange
+CNMD,Conmed Corp,New York Stock Exchange
+HEQ,John Hancock Hedged Equity & Income Fund,New York Stock Exchange
+BPMP,Bp Midstream Partners LP,New York Stock Exchange
+CEN,Center Coast Brookfield MLP & Energy Infrastructure Fund,New York Stock Exchange
+UNF,UniFirst Corp,New York Stock Exchange
+EMO,Clearbridge Energy Midstream Opportunity Fund Inc,New York Stock Exchange
+NEP,Nextera Energy Partners LP,New York Stock Exchange
+CNA,CNA Financial Corp,New York Stock Exchange
+CRY,CryoLife Inc,New York Stock Exchange
+SSD,Simpson Manufacturing Co Inc,New York Stock Exchange
+AMBC,Ambac Financial Group Inc,New York Stock Exchange
+BEL,Belmond Ltd. Class A,New York Stock Exchange
+TSLX,Sixth Street Specialty Lending Inc,New York Stock Exchange
+TNC,Tennant Co,New York Stock Exchange
+UGP,Ultrapar Participacoes S.A. (New) American Depositary Shares (Each representing one),New York Stock Exchange
+CO,Global Cord Blood Corp,New York Stock Exchange
+TDY,Teledyne Technologies Inc,New York Stock Exchange
+SFE,Safeguard Scientifics Inc,New York Stock Exchange
+TRTX,TPG RE Finance Trust Inc,New York Stock Exchange
+SRI,Stoneridge Inc,New York Stock Exchange
+MEI,Methode Electronics Inc,New York Stock Exchange
+USPH,U.S. Physical Therapy Inc,New York Stock Exchange
+JOE,St. Joe Co,New York Stock Exchange
+TARO,Taro Pharmaceutical Industries Ltd,New York Stock Exchange
+HIX,Western Asset High Income Fund II Inc,New York Stock Exchange
+TRTN,Triton International Ltd,New York Stock Exchange
+PARR,Par Pacific Holdings Inc,New York Stock Exchange
+ASA,ASA Gold and Precious Metals Ltd,New York Stock Exchange
+NNA,Navios Maritime Acquisition Corp,New York Stock Exchange
+REX,REX American Resources Corp,New York Stock Exchange
+EXTN,Exterran Corp,New York Stock Exchange
+AWP,Aberdeen Global Premier Properties Fund,New York Stock Exchange
+FPI,Farmland Partners Inc,New York Stock Exchange
+GLOB,Globant SA,New York Stock Exchange
+BNED,Barnes & Noble Education Inc,New York Stock Exchange
+CPF,Central Pacific Financial Corp,New York Stock Exchange
+DSL,DoubleLine Income Solutions Fund,New York Stock Exchange
+PBFX,PBF Logistics LP,New York Stock Exchange
+RCUS,Arcus Biosciences Inc,New York Stock Exchange
+AMRC,Ameresco Inc,New York Stock Exchange
+SD,SandRidge Energy Inc,New York Stock Exchange
+THG,Hanover Insurance Group Inc,New York Stock Exchange
+NOAH,Noah Holdings Ltd,New York Stock Exchange
+IDA,Idacorp Inc,New York Stock Exchange
+MED,Medifast Inc,New York Stock Exchange
+ETJ,Eaton Vance Risk-Managed Diversified Equity Income Fund,New York Stock Exchange
+NSL,Nuveen Senior Income Fund,New York Stock Exchange
+WMK,Weis Markets Inc,New York Stock Exchange
+IDT,IDT Corp,New York Stock Exchange
+TNP,Tsakos Energy Navigation Ltd,New York Stock Exchange
+NGS,Natural Gas Services Group Inc,New York Stock Exchange
+AGS,PlayAGS Inc,New York Stock Exchange
+GPRK,GeoPark Ltd,New York Stock Exchange
+FOR,Forestar Group Inc,New York Stock Exchange
+PPT,Putnam Premier Income Trust,New York Stock Exchange
+VLRS,Controladora Vuela Compania de Aviacion S.A.B. de C.V. American Depositary Shares each representing ten (10) Ordinary Participation Certificates,New York Stock Exchange
+CIR,CIRCOR International Inc,New York Stock Exchange
+THR,Thermon Group Holdings Inc,New York Stock Exchange
+RNR,Renaissancere Holdings Ltd,New York Stock Exchange
+CHE,Chemed Corp,New York Stock Exchange
+DHX,DHI Group Inc,New York Stock Exchange
+EHIC,eHi Car Services Limited American Depositary Shares,New York Stock Exchange
+WG,Willbros Group Inc. (DE),New York Stock Exchange
+MUC,BlackRock Muniholdings California Quality Fund Inc,New York Stock Exchange
+SMI,Semiconductor Manufacturing International Corporation ADR,New York Stock Exchange
+NSP,Insperity Inc,New York Stock Exchange
+BBN,Blackrock Taxable Municipal Bond Trust,New York Stock Exchange
+NZF,Nuveen Municipal Credit Income Fund,New York Stock Exchange
+XOXO,XO Group Inc.,New York Stock Exchange
+LKM,Link Motion Inc. American Depositary Shares each representing five Class A,New York Stock Exchange
+CBU,Community Bank System Inc,New York Stock Exchange
+NX,Quanex Building Products Corp,New York Stock Exchange
+EARN,Ellington Residential Mortgage REIT,New York Stock Exchange
+PFSI,PennyMac Financial Services Inc,New York Stock Exchange
+DSE,Duff & Phelps Select Mlp and Midstream Energy Fund Inc,New York Stock Exchange
+AQN,Algonquin Power & Utilities Corp,New York Stock Exchange
+EDD,Morgan Stanley Emerging Markets Domestic Debt Fund Inc,New York Stock Exchange
+FEI,First Trust MLP and Energy Income Fund,New York Stock Exchange
+GPX,GP Strategies Corp,New York Stock Exchange
+MCA,Blackrock Muniyield California Quality Fund Inc,New York Stock Exchange
+VOC,VOC Energy Trust,New York Stock Exchange
+SRV,Cushing MLP & Infrastructure Total Return Fund,New York Stock Exchange
+ETO,Eaton Vance Tax-Advantaged Global Dividend Opportunities Fund,New York Stock Exchange
+ASR,Grupo Aeroportuario del Sureste S.A. de C.V.,New York Stock Exchange
+PSB,PS Business Parks Inc,New York Stock Exchange
+MN,Manning & Napier Inc,New York Stock Exchange
+AFI,Armstrong Flooring Inc,New York Stock Exchange
+ICD,Independence Contract Drilling Inc,New York Stock Exchange
+CW,Curtiss-Wright Corp,New York Stock Exchange
+ALE,ALLETE Inc,New York Stock Exchange
+Y,Alleghany Corp,New York Stock Exchange
+HZN,Horizon Global Corp,New York Stock Exchange
+KOF,Coca Cola Femsa S.A.B. de C.V.,New York Stock Exchange
+PHI,PLDT Inc. Sponsored ADR,New York Stock Exchange
+CTR,Clearbridge MLP and Midstream Total Return Fund Inc,New York Stock Exchange
+MFL,Blackrock Muniholdings Investment Quality Fund,New York Stock Exchange
+ORA,Ormat Technologies Inc,New York Stock Exchange
+ESTE,Earthstone Energy Inc,New York Stock Exchange
+VKQ,Invesco Municipal Trust,New York Stock Exchange
+RAS,RAIT Financial Trust of Beneficial Interest,New York Stock Exchange
+WMC,Western Asset Mortgage Capital Corp,New York Stock Exchange
+LEJU,Leju Holdings Ltd,New York Stock Exchange
+NCZ,Allianzgi Convertible & Income Fund II,New York Stock Exchange
+UTF,Cohen & Steers Infrastructure Fund Inc,New York Stock Exchange
+GHY,PGIM Global High Yield Fund Inc,New York Stock Exchange
+PAC,Grupo Aeroportuario Del Pacifico S.A. B. de C.V. de C.V. (each representing 10 Series B shares),New York Stock Exchange
+AZZ,AZZ Inc,New York Stock Exchange
+SJT,San Juan Basin Royalty Trust,New York Stock Exchange
+DX,Dynex Capital Inc,New York Stock Exchange
+IO,ION Geophysical Corp,New York Stock Exchange
+BLX,Banco Latinoamericano de Comercio Exterior SA,New York Stock Exchange
+EFC,Ellington Financial Inc,New York Stock Exchange
+ACP,Aberdeen Income Credit Strategies Fund,New York Stock Exchange
+ICL,Icl Group Ltd,New York Stock Exchange
+MIE,Cohen & Steers MLP Income & Energy Opportunity Fund,New York Stock Exchange
+MSF,Morgan Stanley Emerging Markets Fund Inc.,New York Stock Exchange
+NHF,NexPoint Strategic Opportunities Fund,New York Stock Exchange
+PHD,Pioneer Floating Rate Trust,New York Stock Exchange
+SMHI,SEACOR Marine Holdings Inc,New York Stock Exchange
+HNI,HNI Corp,New York Stock Exchange
+NEU,NewMarket Corp,New York Stock Exchange
+FSS,Federal Signal Corp,New York Stock Exchange
+HCI,Hci Group Inc,New York Stock Exchange
+NXRT,NexPoint Residential Trust Inc,New York Stock Exchange
+ISD,PGIM High Yield Bond Fund Inc,New York Stock Exchange
+NVG,Nuveen AMT-Free Municipal Credit Income Fund,New York Stock Exchange
+PHT,Pioneer High Income Trust,New York Stock Exchange
+PIM,Putnam Master Intermediate Income Trust,New York Stock Exchange
+TYG,Tortoise Energy Infrastructure Corp,New York Stock Exchange
+FRO,Frontline Ltd,New York Stock Exchange
+HY,Hyster-Yale Materials Handling Inc,New York Stock Exchange
+CLH,Clean Harbors Inc,New York Stock Exchange
+USNA,USANA Health Sciences Inc,New York Stock Exchange
+WPP,WPP plc American Depositary Shares,New York Stock Exchange
+AOI,Alliance One International Inc.,New York Stock Exchange
+CKH,SEACOR Holdings Inc,New York Stock Exchange
+IFN,India Fund Inc,New York Stock Exchange
+TREC,Trecora Resources,New York Stock Exchange
+MATX,Matson Inc,New York Stock Exchange
+PKE,Park Aerospace Corp,New York Stock Exchange
+JRS,Nuveen Real Estate Income Fund,New York Stock Exchange
+FFG,FBL Financial Group Inc,New York Stock Exchange
+MAXR,Maxar Technologies Inc,New York Stock Exchange
+OXM,Oxford Industries Inc,New York Stock Exchange
+JDD,Nuveen Diversified Dividend and Income Fund,New York Stock Exchange
+SMLP,Summit Midstream Partners LP,New York Stock Exchange
+GTY,Getty Realty Corp,New York Stock Exchange
+WTS,Watts Water Technologies Inc,New York Stock Exchange
+BFZ,BlackRock California Municipal Income Trust,New York Stock Exchange
+ECOM,ChannelAdvisor Corp,New York Stock Exchange
+CEO,CNOOC Limited,New York Stock Exchange
+BBW,Build-A-Bear Workshop Inc,New York Stock Exchange
+NRK,Nuveen New York AMT-Free Quality Municipal Income Fund,New York Stock Exchange
+AVK,Advent Convertible and Income Fund,New York Stock Exchange
+HIO,Western Asset High Income Opportunity Fund Inc,New York Stock Exchange
+NMZ,Nuveen Municipal High Income Opportunity Fund,New York Stock Exchange
+PTY,Pimco Corporate & Income Opportunity Fund,New York Stock Exchange
+SGY,Stone Energy Corporation,New York Stock Exchange
+TR,Tootsie Roll Industries Inc,New York Stock Exchange
+CABO,Cable One Inc,New York Stock Exchange
+AAC,AAC Holdings Inc.,New York Stock Exchange
+BCX,BlackRock Resources and Commodities Strategy Trust,New York Stock Exchange
+GIM,Templeton Global Income Fund,New York Stock Exchange
+GPM,Guggenheim Enhanced Equity Income Fund,New York Stock Exchange
+AGM,Federal Agricultural Mortgage Corp,New York Stock Exchange
+UMH,UMH Properties Inc,New York Stock Exchange
+FIX,Comfort Systems USA Inc,New York Stock Exchange
+HQH,Tekla Healthcare Investors,New York Stock Exchange
+CAF,Morgan Stanley China A Share Fund Inc,New York Stock Exchange
+CAI,CAI International Inc,New York Stock Exchange
+GLOP,GasLog Partners LP,New York Stock Exchange
+MG,Mistras Group Inc,New York Stock Exchange
+OIA,Invesco Municipal Income Opportunities Trust,New York Stock Exchange
+PCK,PIMCO California Municipal Income Fund II,New York Stock Exchange
+TEI,Templeton Emerging Markets Income Fund,New York Stock Exchange
+VHI,Valhi Inc,New York Stock Exchange
+PUK,Prudential Public Limited Company,New York Stock Exchange
+JAX,J Alexanders Holdings Inc,New York Stock Exchange
+DLB,Dolby Laboratories Inc,New York Stock Exchange
+TPB,Turning Point Brands Inc,New York Stock Exchange
+CII,BlackRock Enhanced Capital And Income Fund Inc,New York Stock Exchange
+THQ,Tekla Healthcare Opportunities Fund,New York Stock Exchange
+MCR,MFS Charter Income Trust,New York Stock Exchange
+BTO,John Hancock Financial Opportunities Fund,New York Stock Exchange
+BIP,Brookfield Infrastructure Partners LP,New York Stock Exchange
+WIW,Western Asset Inflation-Linked Opportunities & Income Fund,New York Stock Exchange
+MCS,Marcus Corp,New York Stock Exchange
+CIA,Citizens Inc,New York Stock Exchange
+CLW,Clearwater Paper Corp,New York Stock Exchange
+CEM,Clearbridge MLP and Midstream Fund Inc,New York Stock Exchange
+GMRE,Global Medical REIT Inc,New York Stock Exchange
+IHD,Voya Emerging Markets High Dividend Equity Fund,New York Stock Exchange
+ORN,Orion Group Holdings Inc,New York Stock Exchange
+MKL,Markel Corp,New York Stock Exchange
+EOI,Eaton Vance Enhanced Equity Income Fund,New York Stock Exchange
+FICO,Fair Isaac Corp,New York Stock Exchange
+GRC,Gorman-Rupp Co,New York Stock Exchange
+OLP,One Liberty Properties Inc,New York Stock Exchange
+PZN,Pzena Investment Management Inc,New York Stock Exchange
+SJW,SJW Group,New York Stock Exchange
+GFF,Griffon Corp,New York Stock Exchange
+LEO,BNY Mellon Strategic Municipals Inc,New York Stock Exchange
+FLY,FLY Leasing Ltd,New York Stock Exchange
+AGX,Argan Inc,New York Stock Exchange
+SMP,Standard Motor Products Inc,New York Stock Exchange
+BSE,BlackRock New York Municipal Income Quality Trust,New York Stock Exchange
+CGG,CGG,New York Stock Exchange
+GNK,Genco Shipping & Trading Ltd,New York Stock Exchange
+HQL,Tekla Life Sciences Investors,New York Stock Exchange
+IGI,Western Asset Investment Grade Defined Opportunity Trust Inc,New York Stock Exchange
+PFN,PIMCO Income Strategy Fund II,New York Stock Exchange
+EIG,Employers Holdings Inc,New York Stock Exchange
+BST,BlackRock Science and Technology Trust,New York Stock Exchange
+STK,Columbia Seligman Premium Technology Growth Fund Inc,New York Stock Exchange
+DNP,DNP Select Income Fund Inc,New York Stock Exchange
+INSW,International Seaways Inc,New York Stock Exchange
+NCV,Allianzgi Convertible & Income Fund,New York Stock Exchange
+PCN,Pimco Corporate & Income Strategy Fund,New York Stock Exchange
+CHT,Chunghwa Telecom Co. Ltd.,New York Stock Exchange
+ETW,Eaton Vance Tax-Managed Global Buy-Write Opportunities Fund,New York Stock Exchange
+KAMN,Kaman Corp,New York Stock Exchange
+USM,United States Cellular Corp,New York Stock Exchange
+TDW,Tidewater Inc,New York Stock Exchange
+HIL,Hill International Inc,New York Stock Exchange
+NAD,Nuveen Quality Municipal Income Fund,New York Stock Exchange
+OOMA,Ooma Inc,New York Stock Exchange
+UVE,Universal Insurance Holdings Inc,New York Stock Exchange
+BTZ,Blackrock Credit Allocation Income Trust,New York Stock Exchange
+CXE,MFS High Income Municipal Trust,New York Stock Exchange
+DPG,Duff & Phelps Utility and Infrastructure Fund Inc,New York Stock Exchange
+FFC,Flaherty & Crumrine Preferred and Income Securities Fund Inc,New York Stock Exchange
+FPF,First Trust Intermediate Duration Preferred & Income Fund,New York Stock Exchange
+MIXT,MiX Telematics Limited American Depositary Shares each representing 25,New York Stock Exchange
+MTL,Mechel PAO American Depositary Shares (Each rep. 1),New York Stock Exchange
+NL,NL Industries Inc,New York Stock Exchange
+PCI,Pimco Dynamic Credit and Mortgage Income Fund,New York Stock Exchange
+VTA,Invesco Dynamic Credit Opportunities Fund,New York Stock Exchange
+SHG,Shinhan Financial Group Co Ltd American Depositary Shares,New York Stock Exchange
+MQT,BlackRock MuniYield Quality Fund II Inc,New York Stock Exchange
+CORR,CorEnergy Infrastructure Trust Inc,New York Stock Exchange
+REV,Revlon Inc,New York Stock Exchange
+EGY,VAALCO Energy Inc,New York Stock Exchange
+SYX,Systemax Inc,New York Stock Exchange
+GHM,Graham Corp,New York Stock Exchange
+GCO,Genesco Inc,New York Stock Exchange
+CUB,Cubic Corp,New York Stock Exchange
+RGR,Sturm Ruger & Company Inc,New York Stock Exchange
+MITT,AG Mortgage Investment Trust Inc,New York Stock Exchange
+SMM,Salient Midstream & MLP Fund,New York Stock Exchange
+JPC,Nuveen Preferred & Income Opportunities Fund,New York Stock Exchange
+NVR,NVR Inc,New York Stock Exchange
+ESE,ESCO Technologies Inc,New York Stock Exchange
+ACRE,Ares Commercial Real Estate Corp,New York Stock Exchange
+HFRO,Highland Income Fund,New York Stock Exchange
+DCF,BNY Mellon Alcentra Global Credit Income 2024 Target Term Fund Inc,New York Stock Exchange
+HMLP,Hoegh LNG Partners LP,New York Stock Exchange
+NIM,Nuveen Select Maturities Municipal Fund,New York Stock Exchange
+NRP,Natural Resource Partners LP,New York Stock Exchange
+PBT,Permian Basin Royalty Trust,New York Stock Exchange
+FGB,First Trust Specialty Finance and Financial Opportunities Fund,New York Stock Exchange
+PFS,Provident Financial Services Inc,New York Stock Exchange
+MPA,BlackRock Muniyield Pennsylvania Quality Fund,New York Stock Exchange
+DCUD,Dominion Energy Inc. 2016 Series A Corporate Units,New York Stock Exchange
+YRD,Yiren Digital Ltd,New York Stock Exchange
+JRI,Nuveen Real Asset Income and Growth Fund,New York Stock Exchange
+LRN,K12 Inc,New York Stock Exchange
+GNT,Gamco Natural Resources Gold & Income Trust,New York Stock Exchange
+ARDC,Ares Dynamic Credit Allocation Fund Inc,New York Stock Exchange
+ECC,Eagle Point Credit Company Inc,New York Stock Exchange
+EFT,Eaton Vance Floating-Rate Income Trust,New York Stock Exchange
+EHI,Western Asset Global High Income Fund Inc,New York Stock Exchange
+EOD,Wells Fargo Global Dividend Opportunity Fund,New York Stock Exchange
+ETG,Eaton Vance Tax-Advantaged Global Dividend Income Fund,New York Stock Exchange
+FSD,First Trust High Income Long/Short Fund,New York Stock Exchange
+IRR,Voya Natural Resources Equity Income Fund,New York Stock Exchange
+JGH,Nuveen Global High Income Fund,New York Stock Exchange
+KNOP,Knot Offshore Partners LP,New York Stock Exchange
+MYJ,BlackRock MuniYield New Jersey Fund Inc,New York Stock Exchange
+RENN,Renren Inc,New York Stock Exchange
+VRTV,Veritiv Corp,New York Stock Exchange
+TSI,TCW Strategic Income Fund Inc,New York Stock Exchange
+IHG,Intercontinental Hotels Group American Depositary Shares (Each representing one),New York Stock Exchange
+KIO,KKR Income Opportunities Fund,New York Stock Exchange
+SOR,Source Capital Inc,New York Stock Exchange
+KMF,Kayne Anderson Midstream/Energy Fund Inc,New York Stock Exchange
+MYE,Myers Industries Inc,New York Stock Exchange
+PMF,PIMCO Municipal Income Fund,New York Stock Exchange
+FC,Franklin Covey Co,New York Stock Exchange
+NC,NACCO Industries Inc,New York Stock Exchange
+BFK,BlackRock Municipal Income Trust,New York Stock Exchange
+CEA,China Eastern Airlines Corporation Ltd.,New York Stock Exchange
+HBB,Hamilton Beach Brands Holding Co,New York Stock Exchange
+IGA,Voya Global Advantage And Premium Opportunity Fund,New York Stock Exchange
+IIM,Invesco Value Municipal Income Trust,New York Stock Exchange
+NAN,Nuveen New York Quality Municipal Income Fund,New York Stock Exchange
+NDP,Tortoise Energy Independence Fund Inc,New York Stock Exchange
+RM,Regional Management Corp,New York Stock Exchange
+UTL,Unitil Corp,New York Stock Exchange
+SCL,Stepan Co,New York Stock Exchange
+EOS,Eaton Vance Enhanced Equity Income Fund II,New York Stock Exchange
+SPXX,Nuveen S&P 500 Dynamic Overwrite Fund,New York Stock Exchange
+NTP,Nam Tai Property Inc,New York Stock Exchange
+DBL,Doubleline Opportunistic Credit Fund,New York Stock Exchange
+MUI,BlackRock Muni Intermediate Duration Fund Inc,New York Stock Exchange
+NIE,AllianzGI Equity & Convertible Income Fund,New York Stock Exchange
+ASG,Liberty All-Star Growth Fund Inc,New York Stock Exchange
+STN,Stantec Inc,New York Stock Exchange
+GHC,Graham Holdings Co,New York Stock Exchange
+BRT,BRT Apartments Corp,New York Stock Exchange
+CSV,Carriage Services Inc,New York Stock Exchange
+DSM,BNY Mellon Strategic Municipal Bond Fund Inc,New York Stock Exchange
+EBF,Ennis Inc,New York Stock Exchange
+EVT,Eaton Vance Tax-Advantaged Dividend Income Fund,New York Stock Exchange
+FMO,Fiduciary/Claymore Energy Infrastructure Fund,New York Stock Exchange
+FOF,Cohen and Steers Closed End Opportunity Fund Inc,New York Stock Exchange
+HNP,Huaneng Power Intl,New York Stock Exchange
+IDE,Voya Infrastructure Industrials and Materials Fund,New York Stock Exchange
+MMT,MFS Multimarket Income Trust,New York Stock Exchange
+MMU,Western Asset Managed Municipals Fund Inc,New York Stock Exchange
+RCS,"PIMCO Strategic Income Fund, Inc",New York Stock Exchange
+SZC,Cushing Nextgen Infrastructure Income Fund,New York Stock Exchange
+VGM,Invesco Trust for Investment Grade Municipals,New York Stock Exchange
+DSU,BlackRock Debt Strategies Fund Inc,New York Stock Exchange
+IQI,Invesco Quality Municipal Income Trust,New York Stock Exchange
+NP,Neenah Inc,New York Stock Exchange
+WTM,White Mountains Insurance Group Ltd,New York Stock Exchange
+SBOW,SilverBow Resources Inc,New York Stock Exchange
+CHMI,Cherry Hill Mortgage Investment Corp,New York Stock Exchange
+AFB,Alliancebernstein National Municipal Income Fund Inc,New York Stock Exchange
+GOF,Guggenheim Strategic Opportunities Fund,New York Stock Exchange
+JFR,Nuveen Floating Rate Income Fund,New York Stock Exchange
+BSM,Black Stone Minerals LP,New York Stock Exchange
+CBK,Christopher & Banks Corporation,New York Stock Exchange
+IRL,New Ireland Fund Inc,New York Stock Exchange
+JTA,Nuveen Tax-Advantaged Total Return Strategy Fund,New York Stock Exchange
+KF,Korea Fund Inc,New York Stock Exchange
+KTF,DWS Municipal Income Trust,New York Stock Exchange
+MPX,Marine Products Corp,New York Stock Exchange
+NAC,Nuveen California Quality Municipal Income Fund,New York Stock Exchange
+NETS,Netshoes (Cayman) Limited,New York Stock Exchange
+ORAN,Orange,New York Stock Exchange
+PDT,John Hancock Premium Dividend Fund,New York Stock Exchange
+PML,PIMCO Municipal Income Fund II,New York Stock Exchange
+RFTA,RAIT Financial Trust 7.125% Senior Notes due 2019,New York Stock Exchange
+RMT,Royce Micro-Cap Trust Inc,New York Stock Exchange
+WHG,Westwood Holdings Group Inc,New York Stock Exchange
+PGZ,Principal Real Estate Income Fund,New York Stock Exchange
+CTBB,Qwest Corporation 6.5% Notes due 2056,New York Stock Exchange
+TG,Tredegar Corp,New York Stock Exchange
+UHT,Universal Health Realty Income Trust,New York Stock Exchange
+LITB,LightInTheBox Holding Co Ltd,New York Stock Exchange
+ZTR,Virtus Total Return Fund Inc,New York Stock Exchange
+KAI,Kadant Inc,New York Stock Exchange
+UBA,Urstadt Biddle Properties Inc,New York Stock Exchange
+MHO,M/I Homes Inc,New York Stock Exchange
+SCM,Stellus Capital Investment Corp,New York Stock Exchange
+BGH,Barings Global Short Duration High Yield Fund,New York Stock Exchange
+BGR,Blackrock Energy and Resources Trust,New York Stock Exchange
+BGX,Blackstone/GSO Long-Short Credit Income Fund,New York Stock Exchange
+BUI,Blackrock Utilities Infrastructure & Power Opportunities Trust,New York Stock Exchange
+CEE,Central and Eastern Europe Fund Inc,New York Stock Exchange
+EFF,Eaton Vance Floating-Rate Income Plus Fund,New York Stock Exchange
+ETB,Eaton Vance Tax-Managed Buy-Write Income Fund,New York Stock Exchange
+FIV,First Trust Senior Floating Rate 2022 Target Term Fund,New York Stock Exchange
+HYI,Western Asset High Yield Defined Opportunity Fund Inc,New York Stock Exchange
+IVH,Ivy High Income Opportunities Fund,New York Stock Exchange
+KREF,KKR Real Estate Finance Trust Inc,New York Stock Exchange
+MAV,Pioneer Municipal High Income Advantage Trust,New York Stock Exchange
+MCN,Madison Covered Call & Equity Strategy Fund,New York Stock Exchange
+MUS,BlackRock MuniHoldings Quality Fund Inc,New York Stock Exchange
+MYN,BlackRock MuniYield New York Quality Fund Inc,New York Stock Exchange
+NEV,Nuveen Enhanced Municipal Value Fund,New York Stock Exchange
+NPK,National Presto Industries Inc,New York Stock Exchange
+PFO,Flaherty & Crumrine Preferred and Income Opportunity Fund Inc,New York Stock Exchange
+PGH,Pengrowth Energy Corporation,New York Stock Exchange
+PMX,PIMCO Municipal Income Fund III,New York Stock Exchange
+SOJC,Southern Company (The) Series 2017B 5.25% Junior Subordinated Notes due December 1 2077,New York Stock Exchange
+STON,StoneMor Partners LP,New York Stock Exchange
+SXE,Southcross Energy Partners L.P.,New York Stock Exchange
+TLYS,Tillys Inc,New York Stock Exchange
+ZX,China Zenix Auto International Limited American Depositary Shares each representing four.,New York Stock Exchange
+GSL,Global Ship Lease Inc,New York Stock Exchange
+TRC,Tejon Ranch Co,New York Stock Exchange
+MUJ,BlackRock Muniholdings New Jersy Quality Fund Inc,New York Stock Exchange
+PLOW,Douglas Dynamics Inc,New York Stock Exchange
+RNP,Cohen & Steers Reit & Preferred & Income Fund Inc,New York Stock Exchange
+DMO,Western Asset Mortgage Opportunity Fund Inc,New York Stock Exchange
+JTD,Nuveen Tax-Advantaged Dividend Growth Fund,New York Stock Exchange
+LFGR,Leaf Group Ltd.,New York Stock Exchange
+VPG,Vishay Precision Group Inc,New York Stock Exchange
+BGT,BlackRock Floating Rate Income Trust,New York Stock Exchange
+MGU,Macquarie Global Infrastructure Total Return Fund Inc,New York Stock Exchange
+CAPL,Crossamerica Partners LP,New York Stock Exchange
+DKL,Delek Logistics Partners LP,New York Stock Exchange
+ACH,Aluminum Corporation of China Limited American Depositary Shares,New York Stock Exchange
+ALG,Alamo Group Inc,New York Stock Exchange
+AMBR,Amber Road Inc.,New York Stock Exchange
+BLW,BlackRock Ltd Duration Income Trust,New York Stock Exchange
+BSL,Blackstone / Gso Senior Floating Rate Term Fund,New York Stock Exchange
+BTT,Blackrock Municipal 2030 Target Term Trust,New York Stock Exchange
+DTW,DTE Energy Company 2017 Series E 5.25% Junior Subordinated Debentures due 2077,New York Stock Exchange
+DUC,Duff & Phelps Utility and Corporate Bond Trust Inc,New York Stock Exchange
+DUKH,Duke Energy Corporation 5.125% Junior Subordinated Debentures due 2073,New York Stock Exchange
+GRX,Gabelli Healthcare & WellnessRx Trust,New York Stock Exchange
+IAE,Voya Asia Pacific High Dividend Equity Income Fund,New York Stock Exchange
+JCE,Nuveen Core Equity Alpha Fund,New York Stock Exchange
+JCO,Nuveen Credit Opportunities 2022 Target Term Fund,New York Stock Exchange
+MFM,MFS Municipal Income Trust,New York Stock Exchange
+MQY,BlackRock MuniYield Quality Fund Inc,New York Stock Exchange
+MYI,Blackrock Muniyield Quality Fund III Inc,New York Stock Exchange
+PMM,Putnam Managed Municipal Income Trust,New York Stock Exchange
+PPR,Voya Prime Rate Trust,New York Stock Exchange
+SAFE,Safehold Inc,New York Stock Exchange
+VET,Vermilion Energy Inc,New York Stock Exchange
+WF,Woori Bank American Depositary Shares (Each representing 3 shares of),New York Stock Exchange
+XRM,Xerium Technologies Inc.,New York Stock Exchange
+JHI,John Hancock Investors Trust,New York Stock Exchange
+JP,Jupai Holdings Ltd,New York Stock Exchange
+PFL,PIMCO Income Strategy Fund,New York Stock Exchange
+BCH,Banco De Chile ADS,New York Stock Exchange
+IX,Orix Corp Ads,New York Stock Exchange
+NINE,Nine Energy Service Inc,New York Stock Exchange
+GF,New Germany Fund Inc,New York Stock Exchange
+FF,FutureFuel Corp,New York Stock Exchange
+PZE,Petrobras Argentina S.A. ADS,New York Stock Exchange
+PCF,High Income Securities Fund,New York Stock Exchange
+SSWN,Seaspan Corporation 6.375% Notes due 2019,New York Stock Exchange
+PDI,PIMCO Dynamic Income Fund,New York Stock Exchange
+AC,Associated Capital Group Inc,New York Stock Exchange
+PEO,Adams Natural Resources Fund Inc,New York Stock Exchange
+OPY,Oppenheimer Holdings Inc,New York Stock Exchange
+KWR,Quaker Chemical Corp,New York Stock Exchange
+CMSA,CMS Energy Corporation 5.625% Junior Subordinated Notes due 2078,New York Stock Exchange
+ARD,Ardagh Group SA,New York Stock Exchange
+AZRE,Azure Power Global Ltd,New York Stock Exchange
+BHK,BlackRock Core Bond Trust,New York Stock Exchange
+BPT,BP Prudhoe Bay Royalty Trust,New York Stock Exchange
+CBH,AllianzGI Convertible & Income 2024 Target Term Fund,New York Stock Exchange
+CELP,Cypress Environmental Partners LP,New York Stock Exchange
+COE,China Online Education Group,New York Stock Exchange
+DFP,Flaherty & Crumrine Dynamic Preferred and Income Fund Inc,New York Stock Exchange
+DIAX,Nuveen Dow 30SM Dynamic Overwrite Fund,New York Stock Exchange
+EDI,Stone Harbor Emerging Markets Total Income Fund,New York Stock Exchange
+EFL,Eaton Vance Floating-Rate 2022 Target Term Trust,New York Stock Exchange
+FAM,First Trust/Aberdeen Global Opportunity Income Fund,New York Stock Exchange
+FDEU,First Trust Dynamic Europe Equity Income Fund,New York Stock Exchange
+FIF,First Trust Energy Infrastructure Fund,New York Stock Exchange
+JLS,Nuveen Mortgage and Income Fund,New York Stock Exchange
+KSM,DWS Strategic Municipal Income Trust,New York Stock Exchange
+LDP,Cohen & Steers Ltd Duration Preferred & Income Fund Inc,New York Stock Exchange
+LGI,Lazard Global Total Return and Income Fund Inc,New York Stock Exchange
+MLR,Miller Industries Inc,New York Stock Exchange
+MNP,Western Asset Municipal Partners Fund Inc,New York Stock Exchange
+MTT,Western Asset Municipal Defined Opportunity Trust Inc,New York Stock Exchange
+MUH,BlackRock MuniHoldings Fund II Inc,New York Stock Exchange
+MXF,Mexico Fund Inc,New York Stock Exchange
+MYF,BlackRock MuniYield Investment Fund,New York Stock Exchange
+NIQ,Nuveen Intermediate Duration Quality Municipal Term Fund,New York Stock Exchange
+NXQ,Nuveen Select Tax-Free Income Portfolio 2,New York Stock Exchange
+OPP,Rivernorth/Doubleline Strategic Opportunity Fund Inc,New York Stock Exchange
+PAR,PAR Technology Corp,New York Stock Exchange
+PNI,PIMCO New York Municipal Income Fund II,New York Stock Exchange
+PQ,PetroQuest Energy Inc.,New York Stock Exchange
+PYN,Pimco New York Municipal Income Fund III,New York Stock Exchange
+SBI,Western Asset Intermediate Muni Fund Inc,New York Stock Exchange
+SOJB,Southern Company (The) Series 2016A 5.25% Junior Subordinated Notes due October 1 2076,New York Stock Exchange
+SPA,Sparton Corporation,New York Stock Exchange
+TPGE,TPG Pace Energy Holdings Corp. Class A,New York Stock Exchange
+TVC,Tennessee Valley Authority,New York Stock Exchange
+VTN,Invesco Trust for Investment Grade New York Municipals,New York Stock Exchange
+WIA,Western Asset Inflation-Linked Income Fund,New York Stock Exchange
+TI,Telecom Italia S.P.A. New,New York Stock Exchange
+CIF,MFS Intermediate High Income Fund,New York Stock Exchange
+BBU,Brookfield Business Partners LP,New York Stock Exchange
+MSB,Mesabi Trust,New York Stock Exchange
+BH,Biglari Holdings Inc,New York Stock Exchange
+NCA,Nuveen California Municipal Value Fund Inc,New York Stock Exchange
+GPJA,Georgia Power Company Series 2017A 5.00% Junior Subordinated Notes due October 1 2077,New York Stock Exchange
+WPXP,WPX Energy Inc. 6.25% Series A Mandatory Convertible Preferred Stock,New York Stock Exchange
+ALX,Alexander's Inc,New York Stock Exchange
+EDN,Empresa Distribuidora Y Comercializadora Norte S.A. (Edenor) Empresa Distribuidora Y Comercializadora Norte S.A. (Edenor) American Depositary Shares,New York Stock Exchange
+MVO,MV Oil Trust,New York Stock Exchange
+CLPR,Clipper Realty Inc,New York Stock Exchange
+GBL,GAMCO Investors Inc,New York Stock Exchange
+AFT,Apollo Senior Floating Rate Fund Inc,New York Stock Exchange
+AP,Ampco-Pittsburgh Corp,New York Stock Exchange
+ASPN,Aspen Aerogels Inc,New York Stock Exchange
+BKT,Blackrock Income Trust Inc,New York Stock Exchange
+BNY,BlackRock New York Municipal Income Trust,New York Stock Exchange
+BYM,BlackRock Municipal Income Quality Trust,New York Stock Exchange
+CPAC,Cementos Pacasmayo S.A.A. American Depositary Shares (Each representing five),New York Stock Exchange
+CTS,CTS Corp,New York Stock Exchange
+CTW,Qwest Corporation 7.50% Notes due 2051,New York Stock Exchange
+CULP,Culp Inc,New York Stock Exchange
+DHF,BNY Mellon High Yield Strategies Fund,New York Stock Exchange
+DTY,DTE Energy Company 2016 Series F 6.00% Junior Subordinated Debentures due 2076,New York Stock Exchange
+EGF,BlackRock Enhanced Government Fund Inc,New York Stock Exchange
+EMP,Entergy Mississippi Inc. First Mortgage Bonds 4.90% Series Due October 1 2066,New York Stock Exchange
+ENJ,Entergy New Orleans LLC First Mortgage Bonds 5.0% Series due December 1 2052,New York Stock Exchange
+FCT,First Trust Senior Floating Rate Income Fund II,New York Stock Exchange
+FLC,Flaherty & Crumrine Total Return Fund Inc,New York Stock Exchange
+FRA,BlackRock Floating Rate Income Strategies Fund Inc,New York Stock Exchange
+FT,Franklin Universal Trust,New York Stock Exchange
+GDL,GDL Fund,New York Stock Exchange
+GEK,General Electric Capital Corporation 4.70% Notes due May 16 2053,New York Stock Exchange
+GFA,Gafisa SA S.A. American Depositary Shares,New York Stock Exchange
+GGM,Guggenheim Credit Allocation Fund,New York Stock Exchange
+GGT,Gabelli Multimedia Trust Inc,New York Stock Exchange
+GNE,Genie Energy Ltd,New York Stock Exchange
+GSBD,Goldman Sachs BDC Inc,New York Stock Exchange
+HESM,Hess Midstream Operations LP,New York Stock Exchange
+HTD,John Hancock Tax Advantaged Dividend Income Fund,New York Stock Exchange
+JPT,Nuveen Preferred and Income 2022 Term Fund,New York Stock Exchange
+KEN,Kenon Holdings Ltd,New York Stock Exchange
+LAC,Lithium Americas Corp,New York Stock Exchange
+MCB,Metropolitan Bank Holding Corp,New York Stock Exchange
+MHI,Pioneer Municipal High Income Trust,New York Stock Exchange
+MSP,Madison Strategic Sector Premium Fund of Beneficial Interest,New York Stock Exchange
+MTR,Mesa Royalty Trust,New York Stock Exchange
+MUA,BlackRock MuniAssets Fund Inc,New York Stock Exchange
+MYD,BlackRock MuniYield Fund Inc,New York Stock Exchange
+NID,Nuveen Intermediate Duration Municipal Term Fund,New York Stock Exchange
+NJV,Nuveen New Jersey Municipal Value Fund,New York Stock Exchange
+NXJ,Nuveen New Jersey Quality Municipal Income Fund,New York Stock Exchange
+NXN,Nuveen New York Select Tax Free Income Portfolio,New York Stock Exchange
+PHX,Panhandle Oil and Gas Inc,New York Stock Exchange
+PPX,PPL Capital Funding Inc. 2013 Series B Junior Subordinated Notes due 2073,New York Stock Exchange
+RZB,Reinsurance Group of America Incorporated 5.75% Fixed-To-Floating Rate Subordinated Debentures due 2056,New York Stock Exchange
+SPLP,Steel Partners Holdings LP,New York Stock Exchange
+SRLP,Sprague Resources LP,New York Stock Exchange
+TBB,AT&T Inc. 5.350% Global Notes due 2066,New York Stock Exchange
+TDA,Telephone and Data Systems Inc. 5.875% Senior Notes due 2061,New York Stock Exchange
+TDE,Telephone and Data Systems Inc. 6.875% Senior Notes due 2059,New York Stock Exchange
+TDF,Templeton Dragon Fund Inc,New York Stock Exchange
+THW,Tekla World Healthcare Fund,New York Stock Exchange
+TPL,Texas Pacific Land Trust,New York Stock Exchange
+TTP,Tortoise Pipeline & Energy Fund Inc,New York Stock Exchange
+UFI,Unifi Inc,New York Stock Exchange
+UZA,United States Cellular Corporation 6.95% Senior Notes due 2060,New York Stock Exchange
+VGI,Virtus Global Multi-Sector Income Fund,New York Stock Exchange
+VJET,Voxeljet AG,New York Stock Exchange
+VPV,Invesco Pennsylvania Value Municipal Income Trust,New York Stock Exchange
+VTRB,Ventas Realty Limited Partnership // Capital Corporation 5.45% Senior Notes due 2043,New York Stock Exchange
+ZNH,China Southern Airlines Company Limited,New York Stock Exchange
+BGIO,BlackRock 2022 Global Income Opportunity Trust,New York Stock Exchange
+HGH,Hartford Financial Services Group Inc. (The) 7.875% Fixed to Floating Rate Junior Subordinated Debentures due 2042,New York Stock Exchange
+RA,Brookfield Real Assets Income Fund Inc,New York Stock Exchange
+SHI,SINOPEC Shangai Petrochemical Company Ltd.,New York Stock Exchange
+ISF,ING Group N.V. Perp Hybrid Cap Secs (Netherlands),New York Stock Exchange
+SGZA,Selective Insurance Group Inc. 5.875% Senior Notes due 2043,New York Stock Exchange
+DDE,Dover Downs Gaming & Entertainment Inc,New York Stock Exchange
+DTJ,DTE Energy Company 2016 Series B 5.375% Junior Subordinated Debentures due 2076,New York Stock Exchange
+RZA,Reinsurance Group of America Incorporated 6.20% Fixed-to-Floating Rate Subordinated Debentures due 2042,New York Stock Exchange
+MIN,MFS Intermediate Income Trust,New York Stock Exchange
+CXH,MFS Investment Grade Municipal Trust,New York Stock Exchange
+TPVG,Triplepoint Venture Growth BDC Corp,New York Stock Exchange
+BFS,Saul Centers Inc,New York Stock Exchange
+PYT,PPlus Tr GSC-2 Tr Ctf Fltg Rate,New York Stock Exchange
+TAC,TransAlta Corp,New York Stock Exchange
+TCI,Transcontinental Realty Investors Inc,New York Stock Exchange
+ACV,Allianzgi Diversified Income & Convertible Fund,New York Stock Exchange
+AEB,AEGON N.V. Perp. Cap. Secs. Floating Rate (Netherlands),New York Stock Exchange
+AED,AEGON N.V. Perp. Cap. Securities (Netherlands),New York Stock Exchange
+AEK,Aegon NV 8.00% Non-Cumulative Subordinated Notes due 2042,New York Stock Exchange
+AGD,Aberdeen Global Dynamic Dividend Fund,New York Stock Exchange
+AHC,A. H. Belo Corp,New York Stock Exchange
+AIF,Apollo Tactical Income Fund Inc,New York Stock Exchange
+AIW,Arlington Asset Investment Corp 6.625% Notes due 2023,New York Stock Exchange
+AIY,Apollo Investment Corporation 6.875% Senior Notes due 2043,New York Stock Exchange
+AJX,Great Ajax Corp,New York Stock Exchange
+AJXA,Great Ajax Corp. 7.25% Convertible Senior Notes due 2024,New York Stock Exchange
+AMOV,America Movil S.A.B. de C.V. Class An Depositary Shares,New York Stock Exchange
+ARL,American Realty Investors Inc,New York Stock Exchange
+AXR,AMREP Corp,New York Stock Exchange
+BAF,BlackRock Municipal Income Investment Quality Trust,New York Stock Exchange
+BBDO,Banco Bradesco Sa American Depositary Shares (each representing one),New York Stock Exchange
+BBF,BlackRock Municipal Income Investment Trust,New York Stock Exchange
+BBK,BlackRock Municipal Bond Trust,New York Stock Exchange
+BEP,Brookfield Renewable Partners LP,New York Stock Exchange
+BGCA,BGC Partners Inc. 8.125% Senior Notes due 2042,New York Stock Exchange
+BKHU,Black Hills Corporation Corporate Units,New York Stock Exchange
+BKN,BlackRock Investment Quality Municipal Trust Inc,New York Stock Exchange
+BME,Blackrock Health Sciences Trust,New York Stock Exchange
+BORN,China New Borun Corporation American Depositary Shares,New York Stock Exchange
+BSD,Blackrock Strategic Municipal Trust,New York Stock Exchange
+BTA,BlackRock Long Term Municipal Advantage Trust,New York Stock Exchange
+BWG,Brandywineglobal Global Income Opportunities Fund Inc,New York Stock Exchange
+BXE,Bellatrix Exploration Ltd (Canada),New York Stock Exchange
+CCM,Concord Medical Services Holdings Ltd,New York Stock Exchange
+CCZ,Comcast Holdings ZONES,New York Stock Exchange
+CGA,China Green Agriculture Inc,New York Stock Exchange
+CHN,China Fund Inc,New York Stock Exchange
+CIC,Capitol Investment Corp. IV Class A,New York Stock Exchange
+CINR,Ciner Resources LP,New York Stock Exchange
+CMU,MFS High Yield Municipal Trust,New York Stock Exchange
+CRT,Cross Timbers Royalty Trust,New York Stock Exchange
+CTDD,Qwest Corporation 6.75% Notes due 2057,New York Stock Exchange
+CUBS,Customers Bancorp Inc 6.375% Senior Notes due 2018,New York Stock Exchange
+DAC,Danaos Corp,New York Stock Exchange
+DDF,Delaware Investments Dividend and Income Fund Inc,New York Stock Exchange
+DDT,Dillard's Capital Trust I,New York Stock Exchange
+DEX,Delaware Enhanced Global Dividend and Income Fund,New York Stock Exchange
+DHCP,Ditech Holding Corporation,New York Stock Exchange
+DLNG,Dynagas LNG Partners LP,New York Stock Exchange
+DMB,BNY Mellon Municipal Bond Infrastructure Fund Inc,New York Stock Exchange
+DRD,DRDGOLD Limited American Depositary Shares,New York Stock Exchange
+DRUA,Dominion Energy Inc. 2016 Series A 5.25% Enhanced Junior Subordinated Notes due 2076,New York Stock Exchange
+DTF,DTF Tax-Free Income Inc,New York Stock Exchange
+DVD,Dover Motorsports Inc,New York Stock Exchange
+DYNC,Dynegy Inc. 7.00% Tangible Equity Units,New York Stock Exchange
+EAI,Entergy Arkansas Inc. First Mortgage Bonds 4.875% Series Due September 1 2066,New York Stock Exchange
+ECCB,Eagle Point Credit Company Inc. 7.75% Series B Term Preferred Stock due 2026,New York Stock Exchange
+ECCY,Eagle Point Credit Company Inc. 6.75% Notes due 2027,New York Stock Exchange
+EDF,Stone Harbor Emerging Markets Income Fund,New York Stock Exchange
+EEA,European Equity Fund Inc,New York Stock Exchange
+EHT,Eaton Vance High Income 2021 Target Term Trust,New York Stock Exchange
+ELC,Entergy Louisiana Inc. Collateral Trust Mortgage Bonds 4.875 % Series due September 1 2066,New York Stock Exchange
+ELVT,Elevate Credit Inc,New York Stock Exchange
+EMF,Templeton Emerging Markets Fund Inc,New York Stock Exchange
+ENO,Entergy New Orleans LLC First Mortgage Bonds 5.50% Series due April 1 2066,New York Stock Exchange
+EOT,Eaton Vance National Municipal Opportunities Trust,New York Stock Exchange
+EQS,EQUUS Total Return Inc,New York Stock Exchange
+ETX,Eaton Vance Municipal Income 2028 Term Trust,New York Stock Exchange
+EVG,Eaton Vance Short Duration Diversified Income Fund,New York Stock Exchange
+EVN,Eaton Vance Municipal Income Trust,New York Stock Exchange
+EXD,Eaton Vance Tax-Managed Buy-Write Strategy Fund,New York Stock Exchange
+FEO,First Trust/Aberdeen Emerging Opportunity Fund,New York Stock Exchange
+FFA,First Trust Enhanced Equity Income Fund,New York Stock Exchange
+FMN,Federated Hermes Premier Municipal Income Fund,New York Stock Exchange
+FMY,First Trust Mortgage Income Fund,New York Stock Exchange
+GAM,General American Investors Co Inc,New York Stock Exchange
+GBAB,Guggenheim Taxable Municipal Managed Duration Trust,New York Stock Exchange
+GCV,Gabelli Convertible and Income Securities Fund Inc,New York Stock Exchange
+GDO,Western Asset Global Corporate Defined Opportunity Fund Inc,New York Stock Exchange
+GGZ,Gabelli Global Small and Mid Cap Value Trust,New York Stock Exchange
+GIG,GigCapital Inc.,New York Stock Exchange
+GJH,Synthetic Fixed-Income Securities Inc 6.375% (STRATS) Cl A-1,New York Stock Exchange
+GJO,Synthetic Fixed-Income Securities Inc. on behalf of STRATS(SM) Trust for Wal-Mart Stores Inc. Securities Series 2004-5,New York Stock Exchange
+GJP,Synthetic Fixed-Income Securities Inc. on behalf of STRATS (SM) Trust for Dominion Resources Inc. Securities Series 2005-6 Floating Rate Structured Repackaged A,New York Stock Exchange
+GJR,Synthetic Fixed-Income Securities Inc. STRATS Trust for Procter&Gamble Securities Series 2006-1,New York Stock Exchange
+GJS,Goldman Sachs Group Securities STRATS Trust for Series 2006-2,New York Stock Exchange
+GJT,Synthetic Fixed-Income Securities Inc. Floating Rate Structured Repackaged Asset-Backed Trust Securities Certificates Series 2006-3,New York Stock Exchange
+GMTA,GATX Corporation 5.625% Senior Notes due 2066,New York Stock Exchange
+HIE,Miller/Howard High Income Equity Fund,New York Stock Exchange
+HPF,John Hancock Preferred Income Fund II,New York Stock Exchange
+HPI,John Hancock Preferred Income Fund,New York Stock Exchange
+HPS,John Hancock Preferred Income Fund III,New York Stock Exchange
+HTFA,Horizon Technology Finance Corporation 6.25% Notes due 2022,New York Stock Exchange
+HTGX,Hercules Capital Inc. 6.25% Notes due 2024,New York Stock Exchange
+HTY,John Hancock Tax-Advantaged Global Shareholder Yield Fund,New York Stock Exchange
+HYB,New America High Income Fund Inc,New York Stock Exchange
+IBA,Industrias Bachoco S.A.B. de C.V.,New York Stock Exchange
+IHC,Independence Holding Co,New York Stock Exchange
+IHIT,Invesco High Income 2023 Target Term Fund,New York Stock Exchange
+IHTA,Invesco High Income 2024 Target Term Fund,New York Stock Exchange
+IID,Voya International High Dividend Equity Income Fund,New York Stock Exchange
+INSI,Insight Select Income Fund,New York Stock Exchange
+ITCB,Itau CorpBanca American Depositary Shares (each representing 1500 shares of no par value),New York Stock Exchange
+JBK,Lehman ABS 3.50 3.50% Adjustable Corp Backed Tr Certs GS Cap I,New York Stock Exchange
+JEMD,Nuveen Emerging Markets Debt 2022 Target Term Fund,New York Stock Exchange
+JEQ,Aberdeen Japan Equity Fund Inc,New York Stock Exchange
+JHB,Nuveen High Income November 2021 Target Term Fund,New York Stock Exchange
+JHS,John Hancock Income Securities Trust,New York Stock Exchange
+JHX,James Hardie Industries plc American Depositary Shares (Ireland),New York Stock Exchange
+JMM,Nuveen Multi-Market Income Fund Inc,New York Stock Exchange
+JMP,JMP Group LLC,New York Stock Exchange
+JOF,Japan Smaller Capitalization Fund Inc,New York Stock Exchange
+JPI,Nuveen Preferred and Income Term Fund,New York Stock Exchange
+JSD,Nuveen Short Duration Credit Opportunities Fund,New York Stock Exchange
+KFS,Kingsway Financial Services Inc,New York Stock Exchange
+KMPA,Kemper Corporation 7.375% Subordinated Debentures due 2054,New York Stock Exchange
+KRP,Kimbell Royalty Partners LP,New York Stock Exchange
+KTH,Structures Products Cp 8% CorTS Issued by Peco Energy Cap Tr II Preferred Stock,New York Stock Exchange
+KTN,Structured Products Corp 8.205% CorTS 8.205% Corporate Backed Trust Securities (CorTS),New York Stock Exchange
+LND,Brasilagro Brazilian Agric Real Estate Co Sponsored ADR (Brazil),New York Stock Exchange
+LUB,Luby's Inc,New York Stock Exchange
+LXFR,Luxfer Holdings PLC,New York Stock Exchange
+MANU,Manchester United PLC,New York Stock Exchange
+MCI,Barings Corporate Investors,New York Stock Exchange
+MDLQ,Medley LLC 7.25% Notes due 2024,New York Stock Exchange
+MDLX,Medley LLC 6.875% Senior Notes due 2026,New York Stock Exchange
+MDLY,Medley Management Inc,New York Stock Exchange
+MEN,BlackRock MuniEnhanced Fund Inc,New York Stock Exchange
+MFCB,MFC Bancorp Ltd.,New York Stock Exchange
+MFD,Macquarie/First Trust Global Infrastructure/Utilities Dividend & Income Fund,New York Stock Exchange
+MFT,Blackrock Muniyield Investment Quality Fund,New York Stock Exchange
+MFV,MFS Special Value Trust,New York Stock Exchange
+MGF,MFS Government Markets Income Trust,New York Stock Exchange
+MHD,BlackRock MuniHoldings Fund Inc,New York Stock Exchange
+MHF,Western Asset Municipal High Income Fund Inc,New York Stock Exchange
+MHLA,Maiden Holdings Ltd. 6.625% Notes due 2046,New York Stock Exchange
+MHN,Blackrock Muniholdings New York Quality Fund Inc,New York Stock Exchange
+MHNC,Maiden Holdings North America Ltd. 7.75% Notes due 2043,New York Stock Exchange
+MIY,Blackrock Muniyield Michigan Quality Fund Inc,New York Stock Exchange
+MLP,Maui Land & Pineapple Company Inc,New York Stock Exchange
+MMD,Mainstay Mackay Definedterm Municipal Opportunities Fund,New York Stock Exchange
+MPV,Barings Participation Investors,New York Stock Exchange
+MSD,Morgan Stanley Emerging Markets Debt Fund Inc,New York Stock Exchange
+MUE,BlackRock MuniHoldings Quality Fund II Inc,New York Stock Exchange
+MVT,BlackRock MuniVest Fund II Inc,New York Stock Exchange
+MXE,Mexico Equity and Income Fund Inc,New York Stock Exchange
+MYC,BlackRock Muniyield California Fund Inc,New York Stock Exchange
+NAZ,Nuveen Arizona Quality Municipal Income Fund,New York Stock Exchange
+NBB,Nuveen Taxable Municipal Income Fund,New York Stock Exchange
+NCB,Nuveen California Municipal Value Fund 2,New York Stock Exchange
+NGVC,Natural Grocers By Vitamin Cottage Inc,New York Stock Exchange
+NKG,Nuveen Georgia Quality Municipal Income Fund,New York Stock Exchange
+NKX,Nuveen California AMT-Free Quality Municipal Income Fund,New York Stock Exchange
+NMI,Nuveen Municipal Income Fund Inc,New York Stock Exchange
+NMS,Nuveen Minnesota Quality Municipal Income Fund,New York Stock Exchange
+NMT,Nuveen Massachusetts Quality Municipal Income Fund,New York Stock Exchange
+NMY,Nuveen Maryland Quality Municipal Income Fund,New York Stock Exchange
+NNY,Nuveen New York Municipal Value Fund Inc,New York Stock Exchange
+NOM,Nuveen Missouri Quality Municipal Income Fund,New York Stock Exchange
+NPN,Nuveen Pennsylvania Municipal Value Fund,New York Stock Exchange
+NPV,Nuveen Virginia Quality Municipal Income Fund,New York Stock Exchange
+NQP,Nuveen Pennsylvania Quality Municipal Income Fund,New York Stock Exchange
+NRT,North European Oil Royalty Trust,New York Stock Exchange
+NSS,NuStar Logistics L.P. 7.625% Fixed-to-Floating Rate Subordinated Notes due 2043,New York Stock Exchange
+NTZ,Natuzzi SpA,New York Stock Exchange
+NUO,Nuveen Ohio Quality Municipal Income Fund,New York Stock Exchange
+NUW,Nuveen Amt-Free Municipal Value Fund,New York Stock Exchange
+NWHM,New Home Company Inc,New York Stock Exchange
+NXC,Nuveen California Select Tax-Free Income Portfolio,New York Stock Exchange
+NXP,Nuveen Select Tax-Free Income Portfolio,New York Stock Exchange
+NXR,Nuveen Select Tax Free Income Portfolio 3,New York Stock Exchange
+NYV,Nuveen New York Municipal Value Fund 2,New York Stock Exchange
+ODC,Oil-Dri Corporation of America,New York Stock Exchange
+OMAD,One Madison Corporation Class A,New York Stock Exchange
+PAI,Western Asset Investment Grade Income Fund Inc,New York Stock Exchange
+PCM,PCM Fund Inc,New York Stock Exchange
+PCQ,PIMCO California Municipal Income Fund,New York Stock Exchange
+PFD,Flaherty & Crumrine Preferred & Income Fund Inc,New York Stock Exchange
+PFH,Cabco Tr Jcp 7.625,New York Stock Exchange
+PFK,Prudential Financial Inflation-Linked Retail Medium Linked Retail Medium-Term Notes due April 10 2018,New York Stock Exchange
+PGP,PIMCO Global StocksPLUS & Income Fund,New York Stock Exchange
+PKO,PIMCO Income Opportunity Fund,New York Stock Exchange
+PMO,Putnam Municipal Opportunities Trust,New York Stock Exchange
+PNF,PIMCO New York Municipal Income Fund,New York Stock Exchange
+PSF,Cohen & Steers Select Preferred and Income Fund Inc,New York Stock Exchange
+PYS,Merrill Lynch Depositor Inc PPlus Tr Ser RRD-1 Tr Ctf Cl A,New York Stock Exchange
+PZC,PIMCO California Municipal Income Fund Iii,New York Stock Exchange
+RFI,Cohen & Steers Total Return Realty Fund Inc,New York Stock Exchange
+RFT,RAIT Financial Trust 7.625% Senior Notes due 2024,New York Stock Exchange
+RGT,Royce Global Value Trust Inc,New York Stock Exchange
+RIV,RiverNorth Opportunities Fund Inc,New York Stock Exchange
+SAR,Saratoga Investment Corp,New York Stock Exchange
+SBR,Sabine Royalty Trust,New York Stock Exchange
+SCD,LMP Capital And Income Fund Inc,New York Stock Exchange
+SCX,L S Starrett Co,New York Stock Exchange
+SFB,Stifel Financial Corporation 5.20% Senior Notes due 2047,New York Stock Exchange
+SOL,ReneSola Ltd,New York Stock Exchange
+SPE,Special Opportunities Fund Inc,New York Stock Exchange
+SWZ,Swiss Helvetia Fund Inc,New York Stock Exchange
+SXI,Standex International Corp,New York Stock Exchange
+TCCA,Triangle Capital Corporation 6.375% Senior Notes due 2022,New York Stock Exchange
+TDI,Telephone and Data Systems Inc. Sr Nt,New York Stock Exchange
+TDJ,Telephone and Data Systems Inc. 7% Senior Notes due 2060,New York Stock Exchange
+TPVY,TriplePoint Venture Growth BDC Corp. 5.75% Notes due 2022,New York Stock Exchange
+TPZ,Tortoise Power and Energy Infrastructure Fund Inc,New York Stock Exchange
+TVE,Tennessee Valley Authority,New York Stock Exchange
+TWN,Taiwan Fund Inc,New York Stock Exchange
+TY,Tri-Continental Corp,New York Stock Exchange
+UBP,Urstadt Biddle Properties Inc.,New York Stock Exchange
+USDP,USD Partners LP,New York Stock Exchange
+UZC,United States Cellular Corporation 7.25% Senior Notes due 2064,New York Stock Exchange
+VBF,Invesco Bond Fund,New York Stock Exchange
+VLT,Invesco Van Kampen High Income Trust II,New York Stock Exchange
+VNCE,Vince Holding Corp,New York Stock Exchange
+VZA,Verizon Communications Inc. 5.90% Notes due 2054,New York Stock Exchange
+WALA,Western Alliance Bancorporation 6.25% Subordinated Debentures due 2056,New York Stock Exchange
+WEA,Western Asset Premier Bond Fund,New York Stock Exchange
+XFLT,XAI Octagon Floating Rate & Alternative Income Term Trust,New York Stock Exchange
+ZYME,Zymeworks Inc,New York Stock Exchange
+ALC,Alcon AG,New York Stock Exchange
+AMCR,Amcor PLC,New York Stock Exchange
+AMRX,Amneal Pharmaceuticals Inc,New York Stock Exchange
+HKIB,Amtd International Inc,New York Stock Exchange
+PLAN,Anaplan Inc,New York Stock Exchange
+FINS,Angel Oak Financial Strategies Income Term Trust,New York Stock Exchange
+APHA,Aphria Inc,New York Stock Exchange
+ACA,Arcosa Inc,New York Stock Exchange
+ARGO,Argo Group International Holdings Ltd,New York Stock Exchange
+ARLO,Arlo Technologies Inc,New York Stock Exchange
+AMK,AssetMark Financial Holdings Inc,New York Stock Exchange
+ACB,Aurora Cannabis Inc,New York Stock Exchange
+AVLR,Avalara Inc,New York Stock Exchange
+AVNS,Avanos Medical Inc,New York Stock Exchange
+AVTR,Avantor Inc,New York Stock Exchange
+EQH,Equitable Holdings Inc,New York Stock Exchange
+AX,Axos Financial Inc,New York Stock Exchange
+BRPM,B. Riley Principal Merger Corp.,New York Stock Exchange
+BCSF,Bain Capital Specialty Finance Inc,New York Stock Exchange
+BBDC,Barings BDC Inc,New York Stock Exchange
+BHC,Bausch Health Companies Inc,New York Stock Exchange
+BBAR,Banco BBVA Argentina S.A.,New York Stock Exchange
+BRK-B,Berkshire Hathaway Inc.,New York Stock Exchange
+BEST,BEST Inc,New York Stock Exchange
+BH-A,Biglari Holdings Inc.,New York Stock Exchange
+BIO-B,"Bio-Rad Laboratories, Inc.",New York Stock Exchange
+BJ,BJ's Wholesale Club Holdings Inc,New York Stock Exchange
+BSTZ,Blackrock Science and Technology Trust II,New York Stock Exchange
+BE,Bloom Energy Corp,New York Stock Exchange
+BORR,Borr Drilling Ltd,New York Stock Exchange
+BHR,Braemar Hotels & Resorts Inc,New York Stock Exchange
+MNRL,Brigham Minerals Inc,New York Stock Exchange
+BSIG,Brightsphere Investment Group Inc,New York Stock Exchange
+BV,Brightview Holdings Inc,New York Stock Exchange
+BF-A,Brown-Forman Corporation,New York Stock Exchange
+BF-B,Brown-Forman Corp,New York Stock Exchange
+CANG,Cango Inc,New York Stock Exchange
+CGC,Canopy Growth Corp,New York Stock Exchange
+CPRI,Capri Holdings Ltd,New York Stock Exchange
+EBR-B,Centrais Eletricas Brasileiras S.A. - Eletrobras,New York Stock Exchange
+CDAY,Ceridian HCM Holding Inc,New York Stock Exchange
+CHRA,Charah Solutions Inc,New York Stock Exchange
+CHWY,Chewy Inc,New York Stock Exchange
+CCX,Churchill Capital Corp II,New York Stock Exchange
+CWEN,"Clearway Energy, Inc.",New York Stock Exchange
+CWEN-A,Clearway Energy Inc,New York Stock Exchange
+CNF,CNFinance Holdings Ltd,New York Stock Exchange
+CCEP,Coca-Cola European Partners PLC,New York Stock Exchange
+CFXA,Colfax Corporation,New York Stock Exchange
+CLNY,Colony Capital Inc,New York Stock Exchange
+CIG-C,Companhia Energetica de Minas Gerais,New York Stock Exchange
+STZ-B,"Constellation Brands, Inc.",New York Stock Exchange
+CTK,CooTek (Cayman) Inc,New York Stock Exchange
+CPLG,CorePoint Lodging Inc,New York Stock Exchange
+CNR,Cornerstone Building Brands Inc,New York Stock Exchange
+CTVA,Corteva Inc,New York Stock Exchange
+CRD-A,Crawford & Company,New York Stock Exchange
+CRD-B,Crawford & Co,New York Stock Exchange
+CWK,Cushman & Wakefield PLC,New York Stock Exchange
+DELL,Dell Technologies Inc,New York Stock Exchange
+DBI,Designer Brands Inc,New York Stock Exchange
+DSSI,Diamond S Shipping Inc,New York Stock Exchange
+DCUE,"Dominion Energy, Inc.",New York Stock Exchange
+DOW,Dow Inc,New York Stock Exchange
+DD,Dupont De Nemours Inc,New York Stock Exchange
+DT,Dynatrace Inc,New York Stock Exchange
+ELAN,Elanco Animal Health Inc,New York Stock Exchange
+ESTC,Elastic NV,New York Stock Exchange
+ESI,Element Solutions Inc,New York Stock Exchange
+AKO-A,Embotelladora Andina S.A.,New York Stock Exchange
+AKO-B,Embotelladora Andina S.A.,New York Stock Exchange
+DAVA,Endava PLC,New York Stock Exchange
+ET,Energy Transfer LP,New York Stock Exchange
+EQNR,Equinor ASA,New York Stock Exchange
+ETRN,Equitrans Midstream Corp,New York Stock Exchange
+EPRT,Essential Properties Realty Trust Inc,New York Stock Exchange
+EB,Eventbrite Inc,New York Stock Exchange
+EVRG,Evergy Inc,New York Stock Exchange
+ACR,Exantas Capital Corp,New York Stock Exchange
+FPAC,Far Point Acquisition Corp,New York Stock Exchange
+FTCH,Farfetch Ltd,New York Stock Exchange
+FSLY,Fastly Inc,New York Stock Exchange
+AGM-A,Federal Agricultural Mortgage Corporation,New York Stock Exchange
+FVRR,Fiverr International Ltd,New York Stock Exchange
+FLNG,FLEX LNG Ltd,New York Stock Exchange
+FSK,FS KKR Capital Corp,New York Stock Exchange
+GIX,GigCapital2 Inc,New York Stock Exchange
+GL,Globe Life Inc,New York Stock Exchange
+EAF,GrafTech International Ltd,New York Stock Exchange
+GTN-A,"Gray Television, Inc.",New York Stock Exchange
+GHG,GreenTree Hospitality Group Ltd,New York Stock Exchange
+GEF-B,"Greif, Inc.",New York Stock Exchange
+GSAH,GS Acquisition Holdings Corp,New York Stock Exchange
+GSX,GSX Techedu Inc,New York Stock Exchange
+HNGR,Hanger Inc,New York Stock Exchange
+HVT-A,"Haverty Furniture Companies, Inc.",New York Stock Exchange
+HEI-A,HEICO Corporation,New York Stock Exchange
+HEXO,Hexo Corp,New York Stock Exchange
+HGLB,Highland Global Allocation Fund,New York Stock Exchange
+HPR,HighPoint Resources Corp,New York Stock Exchange
+HUYA,HUYA Inc,New York Stock Exchange
+IAA,IAA Inc,New York Stock Exchange
+INSP,Inspire Medical Systems Inc,New York Stock Exchange
+IFS,Intercorp Financial Services Inc,New York Stock Exchange
+JEF,Jefferies Financial Group Inc,New York Stock Exchange
+JW-A,John Wiley & Sons Inc,New York Stock Exchange
+JW-B,"John Wiley & Sons, Inc.",New York Stock Exchange
+JMIA,Jumia Technologies AG,New York Stock Exchange
+KDP,Keurig Dr Pepper Inc,New York Stock Exchange
+KTB,Kontoor Brands Inc,New York Stock Exchange
+LHX,L3harris Technologies Inc,New York Stock Exchange
+LAIX,LAIX Inc,New York Stock Exchange
+LEAF,Leaf Group Ltd,New York Stock Exchange
+LEN-B,Lennar Corporation,New York Stock Exchange
+LHC,Leo Holdings Corp.,New York Stock Exchange
+LEVI,Levi Strauss & Co,New York Stock Exchange
+LIN,Linde PLC,New York Stock Exchange
+LINX,Linx S.A.,New York Stock Exchange
+LGF-A,Lions Gate Entertainment Corp,New York Stock Exchange
+LGF-B,Lions Gate Entertainment Corp.,New York Stock Exchange
+LTHM,Livent Corp,New York Stock Exchange
+RAMP,Liveramp Holdings Inc,New York Stock Exchange
+MGY,Magnolia Oil & Gas Corp,New York Stock Exchange
+MEC,Mayville Engineering Company Inc,New York Stock Exchange
+MKC-V,"McCormick & Company, Incorporated",New York Stock Exchange
+MDLA,Medallia Inc,New York Stock Exchange
+AMPY,Amplify Energy Corp,New York Stock Exchange
+MUFG,"Mitsubishi UFJ Financial Group, Inc.",New York Stock Exchange
+MOGU,Mogu Inc,New York Stock Exchange
+TAP-A,Molson Coors Brewing Company,New York Stock Exchange
+MOG-A,Moog Inc,New York Stock Exchange
+MOG-B,Moog Inc.,New York Stock Exchange
+CTOS,Nesco Holdings Inc,New York Stock Exchange
+NIO,NIO Inc,New York Stock Exchange
+JHAA,Nuveen High Income 2023 Target Term Fund,New York Stock Exchange
+NVT,nVent Electric PLC,New York Stock Exchange
+ONE,OneSmart International Education Group Ltd,New York Stock Exchange
+ORCC,Owl Rock Capital Corp,New York Stock Exchange
+PD,PagerDuty Inc,New York Stock Exchange
+PSN,Parsons Corp,New York Stock Exchange
+PVL,Permianville Royalty Trust,New York Stock Exchange
+PRT,PermRock Royalty Trust,New York Stock Exchange
+PRSP,Perspecta Inc,New York Stock Exchange
+PBR-A,Petroleo Brasileiro S.A. - Petrobras,New York Stock Exchange
+PHR,Phreesia Inc,New York Stock Exchange
+NRGX,Pimco Energy and Tactical Credit Opportunities Fund,New York Stock Exchange
+PINS,Pinterest Inc,New York Stock Exchange
+PSTL,Postal Realty Trust Inc,New York Stock Exchange
+PROS,ProSight Global Inc,New York Stock Exchange
+NEW,Puxin Ltd,New York Stock Exchange
+RMED,Ra Medical Systems Inc,New York Stock Exchange
+PACK,Ranpak Holdings Corp,New York Stock Exchange
+RC,Ready Capital Corp,New York Stock Exchange
+RPLA,Replay Acquisition Corp.,New York Stock Exchange
+REZI,Resideo Technologies Inc,New York Stock Exchange
+RVI,Retail Value Inc,New York Stock Exchange
+RVLV,Revolve Group Inc,New York Stock Exchange
+RMM,RiverNorth Managed Duration Municipal Income Fund Inc,New York Stock Exchange
+RSF,RiverNorth Marketplace Lending Corporation,New York Stock Exchange
+RMI,Rivernorth Opportunistic Municipal Income Fund Inc,New York Stock Exchange
+RDS-A,Royal Dutch Shell plc,New York Stock Exchange
+RDS-B,Royal Dutch Shell plc,New York Stock Exchange
+SCPE,SC Health Corp,New York Stock Exchange
+SRL,Scully Royalty Ltd,New York Stock Exchange
+SITC,Site Centers Corp,New York Stock Exchange
+WORK,Slack Technologies Inc,New York Stock Exchange
+SMAR,Smartsheet Inc,New York Stock Exchange
+SWI,SolarWinds Corp,New York Stock Exchange
+SPAQ,Spartan Energy Acquisition Corp.,New York Stock Exchange
+SPOT,Spotify Technology SA,New York Stock Exchange
+MSC,Studio City International Holdings Ltd,New York Stock Exchange
+STG,Sunlands Technology Group,New York Stock Exchange
+NOVA,Sunnova Energy International Inc,New York Stock Exchange
+SUZ,Suzano S.A.,New York Stock Exchange
+TAK,Takeda Pharmaceutical Company Limited,New York Stock Exchange
+TALO,Talos Energy Inc,New York Stock Exchange
+TME,Tencent Music Entertainment Group,New York Stock Exchange
+TEAF,Tortoise Essential Assets Income Term Fund,New York Stock Exchange
+TUFN,Tufin Software Technologies Ltd,New York Stock Exchange
+USX,US Xpress Enterprises Inc,New York Stock Exchange
+UBER,Uber Technologies Inc,New York Stock Exchange
+UI,Ubiquiti Inc,New York Stock Exchange
+VAPO,Vapotherm Inc,New York Stock Exchange
+VNE,Veoneer Inc,New York Stock Exchange
+VCIF,Vertical Capital Income Fund,New York Stock Exchange
+VIST,"Vista Oil & Gas, S.A.B. de C.V.",New York Stock Exchange
+WEI,Weidai Ltd,New York Stock Exchange
+WH,Wyndham Hotels & Resorts Inc,New York Stock Exchange
+XYF,X Financial,New York Stock Exchange
+YETI,Yeti Holdings Inc,New York Stock Exchange
+ZUO,Zuora Inc,New York Stock Exchange
+AEF,Aberdeen Emerging Markets Equity Income Fund Inc,New York Stock Exchange
+VRT,Vertiv Holdings Co,New York Stock Exchange
+TFII,TFI International Inc,New York Stock Exchange
+ACEL,Accel Entertainment Inc,New York Stock Exchange
+ALUS,Alussa Energy Acquisition Corp,New York Stock Exchange
+AIO,Allianzgi Artificial Intelligence & Technology Opportunities Fund,New York Stock Exchange
+OIBR-C,Oi S.A.,New York Stock Exchange
+BILL,Bill.com Holdings Inc,New York Stock Exchange
+RFL,Rafael Holdings Inc,New York Stock Exchange
+BKR,Baker Hughes Co,New York Stock Exchange
+BRBR,Bellring Brands Inc,New York Stock Exchange
+BMEZ,BlackRock Health Sciences Trust II,New York Stock Exchange
+BRK-A,Berkshire Hathaway Inc,New York Stock Exchange
+J,Jacobs Engineering Group Inc,New York Stock Exchange
+GLEO,Galileo Acquisition Corp,New York Stock Exchange
+DNK,Phoenix Tree Holdings Ltd,New York Stock Exchange
+EIC,Eagle Point Income Company Inc,New York Stock Exchange
+FINV,FinVolution Group,New York Stock Exchange
+BRMK,Broadmark Realty Capital Inc,New York Stock Exchange
+EPAC,Enerpac Tool Group Corp,New York Stock Exchange
+CSPR,Casper Sleep Inc,New York Stock Exchange
+JIH,Juniper Industrial Holdings Inc,New York Stock Exchange
+DAO,Youdao Inc,New York Stock Exchange
+FHI,Federated Hermes Inc,New York Stock Exchange
+SCU,Sculptor Capital Management Inc,New York Stock Exchange
+SFTW,Osprey Technology Acquisition Corp,New York Stock Exchange
+NTCO,Natura &Co Holding S.A.,New York Stock Exchange
+ONTO,Onto Innovation Inc,New York Stock Exchange
+PEAK,Healthpeak Properties Inc,New York Stock Exchange
+NREF,Nexpoint Real Estate Finance Inc,New York Stock Exchange
+PINE,Alpine Income Property Trust Inc,New York Stock Exchange
+PING,Ping Identity Holding Corp,New York Stock Exchange
+NET,Cloudflare Inc,New York Stock Exchange
+NEX,Nextier Oilfield Solutions Inc,New York Stock Exchange
+OCFT,OneConnect Financial Technology Co Ltd,New York Stock Exchange
+PIPR,Piper Sandler Companies,New York Stock Exchange
+NVST,Envista Holdings Corp,New York Stock Exchange
+NMCO,Nuveen Municipal Credit Opportunities Fund,New York Stock Exchange
+SI,Silvergate Capital Corp,New York Stock Exchange
+OVV,Ovintiv Inc.,New York Stock Exchange
+SPCE,Virgin Galactic Holdings Inc,New York Stock Exchange
+CHPT,Switchback Energy Acquisition Corporation,New York Stock Exchange
+TFC,Truist Financial Corp,New York Stock Exchange
+VVNT,Vivint Smart Home Inc,New York Stock Exchange
+VEL,Velocity Financial Inc,New York Stock Exchange
+WTRG,Essential Utilities Inc,New York Stock Exchange
+HCXZ,"Hercules Capital, Inc.",New York Stock Exchange
+HCXY,"Hercules Capital, Inc.",New York Stock Exchange
+NTEST,Tick Pilot Test Sym-Control,New York Stock Exchange
+ENBA,Enbridge Inc. 6.375 SNT18 B 78,New York Stock Exchange
+NRUC,National Rural Utilities Cooper,New York Stock Exchange
+IFFT,International Flavors & Fragran,New York Stock Exchange
+PRS,"Prudential Financial, Inc. 5.62",New York Stock Exchange
+SREA,SEMPRA ENERGY,New York Stock Exchange
+SAF,Saratoga Investment Corp 6.25% ,New York Stock Exchange
+AFGC,"American Financial Group, Inc.",New York Stock Exchange
+AEFC,Aegon Funding Company LLC,New York Stock Exchange
+AQNB,Algonquin Power & Utilities Cor,New York Stock Exchange
+AQNA,Algonquin Power & Utilities Cor,New York Stock Exchange
+CMSD,CMS Energy Corporation 5.875% J,New York Stock Exchange
+CMSC,CMS Energy Corporation 5.875% J,New York Stock Exchange
+UNMA,Unum Group 6.250% JR NT58,New York Stock Exchange
+SJIU,"South Jersey Industries, Inc. CORP UNITS",New York Stock Exchange
+UZB,United States Cellular Corporation SR NT 120163,New York Stock Exchange
+ARGD,"Argo Group US, Inc. 6.5% SR NTS 42",New York Stock Exchange
+CUBB,"Customers Bancorp, Inc 5.375% S",New York Stock Exchange
+DUKB,Duke Energy Corporation 5.625% ,New York Stock Exchange
+ECCX,Eagle Point Credit Company Inc. 6.6875% NT 28,New York Stock Exchange
+WTRU,"Aqua America, Inc.",New York Stock Exchange
+MGR,"Affiliated Managers Group, Inc.",New York Stock Exchange
+BSA,BrightSphere Investment Group plc,New York Stock Exchange
+TBC,AT&T Inc. 5.625% Global Notes d,New York Stock Exchange
+AFGE,"American Financial Group, Inc.",New York Stock Exchange
+AFGB,"American Financial Group, Inc. ",New York Stock Exchange
+RCB,Ready Capital Corporation,New York Stock Exchange
+RCA,Ready Capital Corporation 7.00%,New York Stock Exchange
+PBC,Prospect Capital Corporation 6.,New York Stock Exchange
+PBY,Prospect Capital Corporation,New York Stock Exchange
+SOLN,Southern Company (The) 2019 Ser,New York Stock Exchange
+QVCD,"QVC, Inc. 6.375% Senior Secured",New York Stock Exchange
+AIC,Arlington Asset Investment Corp. 6.75% SR NT 25,New York Stock Exchange
+DTP,DTE Energy Company 6.25% Corpor,New York Stock Exchange
+ELAT,Elanco Animal Health Incorporat,New York Stock Exchange
+GSLD,"Global Ship Lease, Inc. 8.00% S",New York Stock Exchange
+SOJD,Southern Company (The) Series 2,New York Stock Exchange
+QVCC,"QVC, Inc. 6.250% Senior Secured",New York Stock Exchange
+NFH,New Frontier Health Corp,New York Stock Exchange
+SJIJ,"South Jersey Industries, Inc",New York Stock Exchange
+SWT,Stanley Black & Decker Inc,New York Stock Exchange
+DLY,DoubleLine Yield Opportunities Fund,New York Stock Exchange
+ATCO,Atlas Corp (Canada),New York Stock Exchange
+DFNS,LGL Systems Acquisition Corp,New York Stock Exchange
+SBSW,Sibanye Stillwater Limited,New York Stock Exchange
+RESP,WisdomTree U.S. ESG Fund,New York Stock Exchange
+TT,Trane Technologies PLC,New York Stock Exchange
+GFLU,GFL Environmental Inc.,New York Stock Exchange
+GFL,GFL Environmental Inc,New York Stock Exchange
+ALTG,Alta Equipment Group Inc,New York Stock Exchange
+SCVX,SCVX Corp,New York Stock Exchange
+ESSCR,East Stone Acquisition Corporation,New York Stock Exchange
+ESSCW,East Stone Acquisition Corporation,New York Stock Exchange
+RFM,Rivernorth Flexible Municipal Income Fund Inc,New York Stock Exchange
+CBO,CBO (Listing Market - NYSE - Ne,New York Stock Exchange
+BIPC,Brookfield Infrastructure Corp,New York Stock Exchange
+HWM,Howmet Aerospace Inc,New York Stock Exchange
+CARR,Carrier Global Corp,New York Stock Exchange
+RTX,Raytheon Technologies Corp,New York Stock Exchange
+OTIS,Otis Worldwide Corp,New York Stock Exchange
+CCAC,CITIC Capital Acquisition Corp,New York Stock Exchange
+ZGYHR,Yunhong International,New York Stock Exchange
+ZGYH,Yunhong International,New York Stock Exchange
+ZGYHW,Yunhong International,New York Stock Exchange
+IVES,Wedbush ETFMG Global Cloud Technology ETF,New York Stock Exchange
+BKMC,BNY Mellon US Mid Cap Core Equity ETF,New York Stock Exchange
+BKSE,BNY Mellon US Small Cap Core Equity ETF,New York Stock Exchange
+KOKU,Xtrackers MSCI Kokusai Equity ETF,New York Stock Exchange
+BKLC,BNY Mellon US Large Cap Core Equity ETF,New York Stock Exchange
+BBMC,JPMorgan BetaBuilders U.S. Mid Cap Equity ETF,New York Stock Exchange
+MSGE,Madison Square Garden Entertainment Corp,New York Stock Exchange
+MSGS,Madison Square Garden Sports Corp,New York Stock Exchange
+BKSB,BNY Mellon Short Duration Corporate Bond ETF,New York Stock Exchange
+BKAG,BNY Mellon Core Bond ETF,New York Stock Exchange
+BKEM,BNY Mellon Emerging Markets Equity ETF,New York Stock Exchange
+APG,APi Group Corp,New York Stock Exchange
+DEED,First Trust TCW Securitized Plus ETF,New York Stock Exchange
+NVVE,Newborn Acquisition Corp,New York Stock Exchange
+GLCN,VanEck Vectors China Growth Leaders ETF,New York Stock Exchange
+GLIN,VanEck Vectors India Growth Leaders ETF,New York Stock Exchange
+DFPHW,Healthcare Acquisitions Corp. Warrant,New York Stock Exchange
+DFPH,DFP Healthcare Acquisitions Corp,New York Stock Exchange
+GAU,Galiano Gold Inc,New York Stock Exchange
+ARB,AltShares Trust - AltShares Merger Arbitrage ETF,New York Stock Exchange
+TAAG,Trend Aggregation Aggressive Growth ETF,New York Stock Exchange
+TADS,Trend Aggregation Dividend Stock ETF,New York Stock Exchange
+FSLF,First Eagle Senior Loan Fund,New York Stock Exchange
+JEPI,JPMorgan Equity Premium Income ETF,New York Stock Exchange
+JIG,JPMorgan International Growth ETF,New York Stock Exchange
+ADCT,ADC Therapeutics SA,New York Stock Exchange
+SLQT,SelectQuote Inc,New York Stock Exchange
+TMBR,Timber Pharmaceuticals Inc,New York Stock Exchange
+MTCN,ArcelorMittal 5.50% Mandatorily,New York Stock Exchange
+SGOV,iShares 0-3 Month Treasury Bond ETF,New York Stock Exchange
+SSLY,Syntax Stratified SmallCap ETF,New York Stock Exchange
+BDXB,"Becton, Dickinson and Company",New York Stock Exchange
+AFGD,"American Financial Group, Inc.",New York Stock Exchange
+CEFD,ETRACS Monthly Pay 1.5X Leveraged Closed-End Fund Index ETN,New York Stock Exchange
+CHX,ChampionX Corp,New York Stock Exchange
+MLPR,ETRACS Quarterly Pay 1.5X Leveraged Alerian MLP Index ETN,New York Stock Exchange
+FOUR,Shift4 Payments Inc,New York Stock Exchange
+MVRL,ETRACS Monthly Pay 1.5X Leveraged Mortgage REIT ETN,New York Stock Exchange
+SBBA,Scorpio Tankers Inc. 7.00% Seni,New York Stock Exchange
+EMBD,Global X Emerging Markets Bond ETF,New York Stock Exchange
+HIPR,Direxion Hyper Growth ETF,New York Stock Exchange
+DYHG,Direxion Dynamic Hedge ETF,New York Stock Exchange
+NIFE,Direxion Fallen Knives ETF,New York Stock Exchange
+AZEK,Azek Company Inc,New York Stock Exchange
+VTOL,Bristow Group Inc,New York Stock Exchange
+FSKR,FS KKR Capital Corp. II,New York Stock Exchange
+CGRO,Collective Growth Corporation,New York Stock Exchange
+DEEP,Roundhill Acquirers Deep Value ETF,New York Stock Exchange
+PAMC,Pacer Lunt MidCap Multi-Factor Alternator ETF,New York Stock Exchange
+WFH,Direxion Work From Home ETF,New York Stock Exchange
+IBDV,iShares iBonds Dec 2030 Term Corporate ETF,New York Stock Exchange
+PALC,Pacer Lunt Large Cap Multi-Factor Alternator ETF,New York Stock Exchange
+EUSB,iShares ESG Advanced Total USD Bond Market ETF,New York Stock Exchange
+PFFV,Global X Variable Rate Preferred ETF,New York Stock Exchange
+ACI,"Albertsons Companies, Inc.",New York Stock Exchange
+SOAC,Sustainable Opportunities Acquisition Corp.,New York Stock Exchange
+ALTL,Pacer Lunt Large Cap Alternator ETF,New York Stock Exchange
+DYFN,Angel Oak Dynamic Financial Strategies Income Term Trust,New York Stock Exchange
+FTHY,First Trust High Yield Opportunities 2027 Term Fund,New York Stock Exchange
+SII,Sprott Inc.,New York Stock Exchange
+AZAL,AllianzIM U.S. Large Cap Buffer10 Jul ETF,New York Stock Exchange
+SAK,Saratoga Investment Corp 7.25% ,New York Stock Exchange
+LMND,"Lemonade, Inc.",New York Stock Exchange
+GIK,"GigCapital3, Inc.",New York Stock Exchange
+JWS,Jaws Acquisition Corp.,New York Stock Exchange
+PCGU,PG&E Corporation,New York Stock Exchange
+AVNT,Avient Corporation,New York Stock Exchange
+DMS,"Digital Media Solutions, Inc.",New York Stock Exchange
+IBTK,iShares Trust - iShares iBonds Dec 2030 Term Treasury ETF,New York Stock Exchange
+WPF,Foley Trasimene Acquisition Corp.,New York Stock Exchange
+SOS,SOS Limited,New York Stock Exchange
+GBGR,Global Beta ETF Trust - Global Beta Momentum-Growth ETF,New York Stock Exchange
+MEG,"Montrose Environmental Group, Inc.",New York Stock Exchange
+GBLO,Global Beta ETF Trust,New York Stock Exchange
+NWG,NatWest Group plc,New York Stock Exchange
+FUSE,Fusion Acquisition Corp.,New York Stock Exchange
+BEKE,KE Holdings Inc.,New York Stock Exchange
+FCRW,First Eagle Alternative Capital,New York Stock Exchange
+NTST,NetSTREIT Corp.,New York Stock Exchange
+FCRZ,First Eagle Alternative Capital,New York Stock Exchange
+OSH,"Oak Street Health, Inc.",New York Stock Exchange
+BEPC,Brookfield Renewable Corporation,New York Stock Exchange
+ASGI,Aberdeen Standard Global Infrastructure Income Fund,New York Stock Exchange
+RKT,"Rocket Companies, Inc.",New York Stock Exchange
+TREB,Trebia Acquisition Corp.,New York Stock Exchange
+PLTR,Palantir Technologies Inc.,New York Stock Exchange
+U,Unity Software Inc.,New York Stock Exchange
+YSG,Yatsen Holding Limited,New York Stock Exchange
+LU,Lufax Holding Ltd,New York Stock Exchange
+SQZ,SQZ Biotechnologies Company,New York Stock Exchange
+MAX,"MediaAlpha, Inc.",New York Stock Exchange
+GATO,"Gatos Silver, Inc.",New York Stock Exchange
+MNSO,MINISO Group Holding Limited,New York Stock Exchange
+IH,iHuman Inc.,New York Stock Exchange
+FUBO,fuboTV Inc.,New York Stock Exchange
+GHLD,Guild Holdings Company,New York Stock Exchange
+ASAN,"Asana, Inc.",New York Stock Exchange
+AMWL,American Well Corporation,New York Stock Exchange
+BNL,"Broadstone Net Lease, Inc.",New York Stock Exchange
+SNOW,Snowflake Inc.,New York Stock Exchange
+BQ,Boqii Holding Limited,New York Stock Exchange
+YALA,Yalla Group Limited,New York Stock Exchange
+VIAO,VIA optronics AG,New York Stock Exchange
+XPEV,XPeng Inc.,New York Stock Exchange
+FRX-UN,Forest Road Acquisition Corp.,New York Stock Exchange
+AONE,one,New York Stock Exchange
+ASAQ,Atlantic Street Acquisition Cor,New York Stock Exchange
+ASPL,Aspirational Consumer Lifestyle,New York Stock Exchange
+BSN,Broadstone Acquisition Corp.,New York Stock Exchange
+CLII,Climate Change Crisis Real Impa,New York Stock Exchange
+CPSR,Capstar Special Purpose Acquisi,New York Stock Exchange
+CRHC,Cohn Robbins Holdings Corp.,New York Stock Exchange
+DGNR,Dragoneer Growth Opportunities ,New York Stock Exchange
+DMYD,"dMY Technology Group, Inc. II",New York Stock Exchange
+ENPC,Executive Network Partnering Co,New York Stock Exchange
+EOSE,"Eos Energy Enterprises, Inc.",New York Stock Exchange
+EQD,Equity Distribution Acquisition,New York Stock Exchange
+FAII,Fortress Value Acquisition Corp,New York Stock Exchange
+FGNA,FG New America Acquisition Corp,New York Stock Exchange
+FSR,Fisker Inc.,New York Stock Exchange
+FST,FAST Acquisition Corp.,New York Stock Exchange
+GOAC,GO Acquisition Corp.,New York Stock Exchange
+HYLN,Hyliion Holdings Corp.,New York Stock Exchange
+HZAC,Horizon Acquisition Corporation,New York Stock Exchange
+LEAP,"Ribbit LEAP, Ltd.",New York Stock Exchange
+MP,MP Materials Corp.,New York Stock Exchange
+NGA,Northern Genesis Acquisition Co,New York Stock Exchange
+OACB,Oaktree Acquisition Corp. II,New York Stock Exchange
+NUVB,Panacea Acquisition Corp.,New York Stock Exchange
+PDAC,Peridot Acquisition Corp.,New York Stock Exchange
+PIAI,Prime Impact Acquisition I,New York Stock Exchange
+PMVC,PMV Consumer Acquisition Corp.,New York Stock Exchange
+PSTH,Pershing Square Tontine Holding,New York Stock Exchange
+RBAC,RedBall Acquisition Corp.,New York Stock Exchange
+RTP,Reinvent Technology Partners,New York Stock Exchange
+SBG,Sandbridge Acquisition Corporat,New York Stock Exchange
+SNPR,Tortoise Acquisition Corp. II,New York Stock Exchange
+STPK,Star Peak Energy Transition Cor,New York Stock Exchange
+TWND,Tailwind Acquisition Corp.,New York Stock Exchange
+YAC,Yucaipa Acquisition Corporation,New York Stock Exchange
+LUMN,"CenturyLink, Inc. d/b/a Lumen T",New York Stock Exchange
+VNT,Vontier Corporation,New York Stock Exchange
+QS,QuantumScape Corporation,New York Stock Exchange
+DASH,DoorDash Inc,New York Stock Exchange
+CND-UN,Concord Acquisition Corp.,New York Stock Exchange
+IPOF,Social Capital Hedosophia Holdi,New York Stock Exchange
+PRG,"PROG Holdings, Inc.",New York Stock Exchange
+IPOE,Social Capital Hedosophia Holdi,New York Stock Exchange
+CCV-UN,Churchill Capital Corp V,New York Stock Exchange
+ACIC,Atlas Crest Investment Corp.,New York Stock Exchange
+AIRC,Apartment Income REIT Corp.,New York Stock Exchange
+AJAX,Ajax I,New York Stock Exchange
+AVAN,Avanti Acquisition Corp.,New York Stock Exchange
+BOAC,Bluescape Opportunities Acquisi,New York Stock Exchange
+EMPW,Empower Ltd.,New York Stock Exchange
+FMAC,FirstMark Horizon Acquisition C,New York Stock Exchange
+HIGA,H.I.G. Acquisition Corp.,New York Stock Exchange
+HZON,Horizon Acquisition Corporation,New York Stock Exchange
+IMPX,AEA-Bridges Impact Corp.,New York Stock Exchange
+IPOD,Social Capital Hedosophia Holdi,New York Stock Exchange
+PACE,TPG Pace Tech Opportunities Cor,New York Stock Exchange
+RICE,Rice Acquisition Corp.,New York Stock Exchange
+SDHY,,New York Stock Exchange
+SEAH,Sports Entertainment Acquisitio,New York Stock Exchange
+SKLZ,Skillz Inc.,New York Stock Exchange
+SPNV,Supernova Partners Acquisition ,New York Stock Exchange
+STIC,Northern Star Acquisition Corp.,New York Stock Exchange
+TPGY,TPG Pace Beneficial Finance Cor,New York Stock Exchange
+VGAC,VG Acquisition Corp.,New York Stock Exchange
+VYGG,Vy Global Growth,New York Stock Exchange
+XPOA,"DPCM Capital, Inc.",New York Stock Exchange
+FVT-UN,Fortress Value Acquisition Corp. III,New York Stock Exchange
+AGCB,Altimeter Growth Corp. 2,New York Stock Exchange
+AI,"C3.ai, Inc.",New York Stock Exchange
+MYTE,MYT Netherlands Parent B.V.,New York Stock Exchange
+AAIC-PC,Arlington Asset Investment Corp,New York Stock Exchange
+ABR-PB,Arbor Realty Trust Cumulative R,New York Stock Exchange
+ABR-PC,Arbor Realty Trust Cumulative R,New York Stock Exchange
+AGM-PE,Federal Agricultural Mortgage Corporation,New York Stock Exchange
+AGM-PF,Federal Agricultural Mortgage Corporation,New York Stock Exchange
+AHL-PE,Aspen Insurance Holdings Limited,New York Stock Exchange
+AHT-PD,"Ashford Hospitality Trust, Inc.",New York Stock Exchange
+AHT-PI,"Ashford Hospitality Trust, Inc.",New York Stock Exchange
+AJAX-UN,Ajax I,New York Stock Exchange
+ALL-PI,The Allstate Corporation,New York Stock Exchange
+AL-PA,Air Lease Corporation,New York Stock Exchange
+AMH-PE,American Homes 4 Rent,New York Stock Exchange
+AMH-PH,American Homes 4 Rent,New York Stock Exchange
+APO-PA,"Apollo Global Management, Inc.",New York Stock Exchange
+APO-PB,"Apollo Global Management, Inc.",New York Stock Exchange
+APSG,Apollo Strategic Growth Capital,New York Stock Exchange
+APSG-UN,Apollo Strategic Growth Capital,New York Stock Exchange
+APTV-PA,Aptiv PLC,New York Stock Exchange
+ARES-PA,Ares Management Corporation,New York Stock Exchange
+ARGO-PA,"Argo Group International Holdings, Ltd.",New York Stock Exchange
+ARR-PC,"ARMOUR Residential REIT, Inc.",New York Stock Exchange
+ATCO-PI,Atlas Corp.,New York Stock Exchange
+ATH-PC,Athene Holding Ltd.,New York Stock Exchange
+AVTR-PA,"Avantor, Inc.",New York Stock Exchange
+AXS-PE,AXIS Capital Holdings Limited,New York Stock Exchange
+BAC-PA,Bank of America Corporation,New York Stock Exchange
+BEP-PA,Brookfield Renewable Partners L.P.,New York Stock Exchange
+BFS-PE,"Saul Centers, Inc.",New York Stock Exchange
+BHR-PD,"Braemar Hotels & Resorts, Inc.",New York Stock Exchange
+BIP-PA,Brookfield Infrastructure Partners L.P.,New York Stock Exchange
+BOAC-UN,Bluescape Opportunities Acquisition Corp.,New York Stock Exchange
+BSN-UN,Broadstone Acquisition Corp.,New York Stock Exchange
+CCAC-UN,CITIC Capital Acquisition Corp.,New York Stock Exchange
+CDR-PC,"Cedar Realty Trust, Inc.",New York Stock Exchange
+CEQP-P,Crestwood Equity Partners LP,New York Stock Exchange
+CFG-PE,"Citizens Financial Group, Inc.",New York Stock Exchange
+CIT-PB,CIT Group Inc.,New York Stock Exchange
+CIXX,CI Financial Corp,New York Stock Exchange
+CMRE-PE,Costamare Inc.,New York Stock Exchange
+CMS-PB,Consumers Energy Company,New York Stock Exchange
+CNP-PB,"CenterPoint Energy, Inc.",New York Stock Exchange
+CODI-PC,Compass Diversified,New York Stock Exchange
+COF-PI,Capital One Financial Corporation,New York Stock Exchange
+CTAC-UN,Cerberus Telecom Acquisition Corp.,New York Stock Exchange
+CTA-PB,E. I. du Pont de Nemours and Company,New York Stock Exchange
+CUBI-PF,"Customers Bancorp, Inc.",New York Stock Exchange
+DHR-PB,Danaher Corporation,New York Stock Exchange
+DLNG-PB,Dynagas LNG Partners LP,New York Stock Exchange
+DLR-PL,"Digital Realty Trust, Inc.",New York Stock Exchange
+DMYD-UN,"dMY Technology Group, Inc. II",New York Stock Exchange
+DMYI-UN,"dMY Technology Group, Inc. III",New York Stock Exchange
+DRH-PA,DiamondRock Hospitality Company,New York Stock Exchange
+DTLA-P,Brookfield DTLA Fund Office Trust Investor Inc.,New York Stock Exchange
+DUK-PA,Duke Energy Corporation,New York Stock Exchange
+EFC-PA,Ellington Financial Inc.,New York Stock Exchange
+ENR-PA,"Energizer Holdings, Inc.",New York Stock Exchange
+EQC-PD,Equity Commonwealth,New York Stock Exchange
+EQH-PA,"Equitable Holdings, Inc.",New York Stock Exchange
+ETP-PE,"Energy Transfer Operating, L.P.",New York Stock Exchange
+FAII-UN,Fortress Value Acquisition Corp. II,New York Stock Exchange
+FHN-PE,First Horizon Corporation,New York Stock Exchange
+FRT-PC,Federal Realty Investment Trust,New York Stock Exchange
+FST-UN,FAST Acquisition Corp.,New York Stock Exchange
+FTAI-PB,Fortress Transportation and Infrastructure Investors LLC,New York Stock Exchange
+FTV-PA,Fortive Corporation,New York Stock Exchange
+FUSE-UN,Fusion Acquisition Corp.,New York Stock Exchange
+GLOG-PA,GasLog Ltd.,New York Stock Exchange
+GLOP-PB,GasLog Partners LP,New York Stock Exchange
+GLOP-PC,GasLog Partners LP,New York Stock Exchange
+GMRE-PA,Global Medical REIT Inc.,New York Stock Exchange
+GNL-PB,"Global Net Lease, Inc.",New York Stock Exchange
+GNPK-UN,Genesis Park Acquisition Corp.,New York Stock Exchange
+GRP-UN,Granite Real Estate Investment Trust,New York Stock Exchange
+GSAH-UN,GS Acquisition Holdings Corp II,New York Stock Exchange
+GS-PN,"The Goldman Sachs Group, Inc.",New York Stock Exchange
+HIGA-UN,H.I.G. Acquisition Corp.,New York Stock Exchange
+HIG-PG,"The Hartford Financial Services Group, Inc.",New York Stock Exchange
+HL-PB,Hecla Mining Company,New York Stock Exchange
+HPX,HPX Corp.,New York Stock Exchange
+HZON-UN,Horizon Acquisition Corporation II,New York Stock Exchange
+IIAC-UN,Investindustrial Acquisition Corp.,New York Stock Exchange
+IIPR-PA,"Innovative Industrial Properties, Inc.",New York Stock Exchange
+IVR-PA,Invesco Mortgage Capital Inc.,New York Stock Exchange
+IVR-PC,Invesco Mortgage Capital Inc.,New York Stock Exchange
+JIH-UN,"Juniper Industrial Holdings, Inc.",New York Stock Exchange
+KIM-PL,Kimco Realty Corporation,New York Stock Exchange
+KIM-PM,Kimco Realty Corporation,New York Stock Exchange
+KSU-P,Kansas City Southern,New York Stock Exchange
+KWAC-UN,Kingswood Acquisition Corp.,New York Stock Exchange
+LNFA-UN,L&F Acquisition Corp.,New York Stock Exchange
+LSPD,Lightspeed POS Inc.,New York Stock Exchange
+LXP-PC,Lexington Realty Trust,New York Stock Exchange
+MAA-PI,"Mid-America Apartment Communities, Inc.",New York Stock Exchange
+MET-PF,"MetLife, Inc.",New York Stock Exchange
+MNR-PC,Monmouth Real Estate Investment Corporation,New York Stock Exchange
+NBA-WT,New Beginnings Acquisition Corp.,New York Stock Exchange
+NGA-UN,Northern Genesis Acquisition Corp.,New York Stock Exchange
+NGL-PB,NGL Energy Partners LP,New York Stock Exchange
+NGL-PC,NGL Energy Partners LP,New York Stock Exchange
+NI-PB,NiSource Inc.,New York Stock Exchange
+NLY-PI,"Annaly Capital Management, Inc.",New York Stock Exchange
+NM-PG,Navios Maritime Holdings Inc.,New York Stock Exchange
+NNN-PF,"National Retail Properties, Inc.",New York Stock Exchange
+NREF-PA,"NexPoint Real Estate Finance, Inc.",New York Stock Exchange
+NRZ-PC,New Residential Investment Corp.,New York Stock Exchange
+NSA-PA,National Storage Affiliates Trust,New York Stock Exchange
+NSH-UN,"NavSight Holdings, Inc.",New York Stock Exchange
+NYC,"New York City REIT, Inc.",New York Stock Exchange
+OFG-PB,OFG Bancorp,New York Stock Exchange
+OFG-PD,OFG Bancorp,New York Stock Exchange
+PACE-UN,TPG Pace Tech Opportunities Corp.,New York Stock Exchange
+PEB-PD,Pebblebrook Hotel Trust,New York Stock Exchange
+PEB-PF,Pebblebrook Hotel Trust,New York Stock Exchange
+PIPP-UN,Pine Island Acquisition Corp.,New York Stock Exchange
+PMT-PB,PennyMac Mortgage Investment Trust,New York Stock Exchange
+PSA-PG,Public Storage,New York Stock Exchange
+PSB-PZ,"PS Business Parks, Inc.",New York Stock Exchange
+QTS-PA,"QTS Realty Trust, Inc.",New York Stock Exchange
+QTS-PB,"QTS Realty Trust, Inc.",New York Stock Exchange
+REXR-PC,"Rexford Industrial Realty, Inc.",New York Stock Exchange
+RICE-UN,Rice Acquisition Corp.,New York Stock Exchange
+RNR-PE,RenaissanceRe Holdings Ltd.,New York Stock Exchange
+RNR-PF,RenaissanceRe Holdings Ltd.,New York Stock Exchange
+RY-PT,Royal Bank of Canada,New York Stock Exchange
+SB-PD,"Safe Bulkers, Inc.",New York Stock Exchange
+SCHW-PC,The Charles Schwab Corporation,New York Stock Exchange
+SCHW-PD,The Charles Schwab Corporation,New York Stock Exchange
+SCVX-UN,SCVX Corp.,New York Stock Exchange
+SF-PC,Stifel Financial Corp.,New York Stock Exchange
+SITC-PK,SITE Centers Corp.,New York Stock Exchange
+SNV-PD,Synovus Financial Corp.,New York Stock Exchange
+SOAC-UN,Sustainable Opportunities Acquisition Corp.,New York Stock Exchange
+SPFR-UN,Jaws Spitfire Acquisition Corporation,New York Stock Exchange
+SPG-PJ,"Simon Property Group, Inc.",New York Stock Exchange
+SPLP-PA,Steel Partners Holdings L.P.,New York Stock Exchange
+SPNV-UN,"Supernova Partners Acquisition Company, Inc.",New York Stock Exchange
+SR-PA,Spire Inc.,New York Stock Exchange
+STIC-UN,Northern Star Acquisition Corp.,New York Stock Exchange
+STL-PA,Sterling Bancorp,New York Stock Exchange
+STT-PD,State Street Corporation,New York Stock Exchange
+STT-PG,State Street Corporation,New York Stock Exchange
+SYF-PA,Synchrony Financial,New York Stock Exchange
+TFC-PR,Truist Financial Corporation,New York Stock Exchange
+TIMB,TIM S.A.,New York Stock Exchange
+TINV,Tiga Acquisition Corp.,New York Stock Exchange
+TMX,"Terminix Global Holdings, Inc.",New York Stock Exchange
+T-PC,AT&T Inc.,New York Stock Exchange
+TPGY-UN,TPG Pace Beneficial Finance Corp.,New York Stock Exchange
+TRTN-PD,Triton International Limited,New York Stock Exchange
+TWND-UN,Tailwind Acquisition Corp.,New York Stock Exchange
+TWO-PB,Two Harbors Investment Corp.,New York Stock Exchange
+UMH-PD,"UMH Properties, Inc.",New York Stock Exchange
+USB-PP,U.S. Bancorp,New York Stock Exchange
+VER-PF,"VEREIT, Inc.",New York Stock Exchange
+VNO-PL,Vornado Realty Trust,New York Stock Exchange
+VNO-PM,Vornado Realty Trust,New York Stock Exchange
+VOYA-PB,"Voya Financial, Inc.",New York Stock Exchange
+WCC-PA,"WESCO International, Inc.",New York Stock Exchange
+WFC-PZ,Wells Fargo & Company,New York Stock Exchange
+XPOA-UN,"DPCM Capital, Inc.",New York Stock Exchange
+HIMS,"Hims & Hers Health, Inc.",New York Stock Exchange
+LDI,"loanDepot, Inc.",New York Stock Exchange
+ATC,Atotech Ltd,New York Stock Exchange
+SGFY,"Signify Health, Inc.",New York Stock Exchange
+DM,"Desktop Metal, Inc.",New York Stock Exchange
+BFLY,"Butterfly Network, Inc.",New York Stock Exchange
+ASZ-UN,Austerlitz Acquisition Corporation II,New York Stock Exchange
+AUS-UN,Austerlitz Acquisition Corporation I,New York Stock Exchange
+OSCR,"Oscar Health, Inc.",New York Stock Exchange
+BUZZ,VanEck Vectors ETF Trust - VanEck Vectors Social Sentiment ETF,New York Stock Exchange
+RBLX,Roblox Corp,New York Stock Exchange
+FHS,"First High-School Education Group Co., Ltd.",New York Stock Exchange
+CPNG,"Coupang, Inc.",New York Stock Exchange
+WALDU,Waldencast Acquisition Corp.,Nasdaq
+ESM-UN,Esm Acquisition Corp,New York Stock Exchange
+HAYW,"Hayward Holdings, Inc.",New York Stock Exchange
+TETCU,Tech and Energy Transition Corporation Unit,Nasdaq
+GLHAU,Glass Houses Acquisition Corp. Unit,Nasdaq
+SNCY,"Sun Country Airlines Holdings, Inc. Common Stock",Nasdaq
+TZPS,TZP Strategies Acquisition Corp. Class A Ordinary Share,Nasdaq
+IGNY,Ignyte Acquisition Corp. Common Stock,Nasdaq
+MONCW,Monument Circle Acquisition Corp. Warrant,Nasdaq
+CSR,Investors Real Estate Trust,New York Stock Exchange
+TNL,Travel + Leisure Co.,New York Stock Exchange
+PLMIU,Plum Acquisition Corp. I,Nasdaq
+CCIV,Churchill Capital Corp IV,New York Stock Exchange
+MCADR,Mountain Crest Acquisition Corp. II,Nasdaq
+OEPW,One Equity Partners Open Water I Corp.,Nasdaq
+NAAC,North Atlantic Acquisition Corporation,Nasdaq
+MCAD,Mountain Crest Acquisition Corp. II,Nasdaq
+GXIIU,GX Acquisition Corp. II Unit,Nasdaq
+OUST,"Ouster, Inc.",New York Stock Exchange
+PGRWW,Progress Acquisition Corp. Warrant,Nasdaq
+VEI,VINE ENERGY INC.,New York Stock Exchange
+BYTSU,BYTE Acquisition Corp. Units,Nasdaq
+HCIIW,Hudson Executive Investment Corp. II Warrant,Nasdaq
+TUYA,Tuya Inc.,New York Stock Exchange
+HCII,Hudson Executive Investment Corp. II Class A Common Stock,Nasdaq
+DHHCW,DiamondHead Holdings Corp. Warrant,Nasdaq
+DHHC,DiamondHead Holdings Corp. Class A Common Stock,Nasdaq
+LDHAU,LDH Growth Corp I Units,Nasdaq
+GGMCU,Glenfarne Merger Corp. Unit,Nasdaq
+NAPA,"The Duckhorn Portfolio, Inc.",New York Stock Exchange
+SSAA,Science Strategic Acquisition Corp. Alpha,Nasdaq
+SSAAW,Science Strategic Acquisition Corp. Alpha,Nasdaq
+BIOT,Biotech Acquisition Company,Nasdaq
+ESGC,Eros STX Global Corporation,New York Stock Exchange
+FSSI,Fortistar Sustainable Solutions Corp.,Nasdaq
+ITHX,ITHAX Acquisition Corp.,Nasdaq
+ITHXW,ITHAX Acquisition Corp.,Nasdaq
+CFFVW,CF Acquisition Corp. V,Nasdaq
+ZWRK,Z-Work Acquisition Corp.,Nasdaq
+ROCRW,Roth CH Acquisition III Co.,Nasdaq
+GCAC,Growth Capital Acquisition Corp.,Nasdaq
+CFV,CF Acquisition Corp. V,Nasdaq
+CLRMW,Clarim Acquisition Corp.,Nasdaq
+ZWRKW,Z-Work Acquisition Corp.,Nasdaq
+CLRM,Clarim Acquisition Corp.,Nasdaq
+ROCR,Roth CH Acquisition III Co.,Nasdaq
+DOCN,"Digitalocean Holdings, Inc.",New York Stock Exchange
+NGC-UN,Northern Genesis Acquisition Corp. III,New York Stock Exchange
+THMA,Thimble Point Acquisition Corp. Class A Common Stock,Nasdaq
+THMAW,Thimble Point Acquisition Corp. Warrant,Nasdaq
+VZIO,Vizio Holding Corp.,New York Stock Exchange
+SEMR,"SEMrush Holdings, Inc.",New York Stock Exchange
+ZH,Zhihu Inc.,New York Stock Exchange
+RCLFW,Rosecliff Acquisition Corp I Warrants,Nasdaq
+GHAC,Gaming & Hospitality Acquisition Corp. Class A Common Stock,Nasdaq
+KRNL,"Kernel Group Holdings, Inc. Class A Ordinary Shares",Nasdaq
+RCLF,Rosecliff Acquisition Corp I Class A Common Stock,Nasdaq
+AEVA,"Aeva Technologies, Inc.",New York Stock Exchange
+CENH,Centricus Acquisition Corp. Class A Ordinary Share,Nasdaq
+ISLE,Isleworth Healthcare Acquisition Corporation Common stock,Nasdaq
+SDAC,Sustainable Development Acquisition I Corp. Class A Common Stock,Nasdaq
+RMGCW,RMG Acquisition Corp. III Warrant,Nasdaq
+CENHW,Centricus Acquisition Corp. Warrant,Nasdaq
+ITQRW,Itiquira Acquisition Corp. Warrant,Nasdaq
+ISLEW,Isleworth Healthcare Acquisition Corporation Warrant,Nasdaq
+ITQ,Itiquira Acquisition Corp. Class A Ordinary Shares,Nasdaq
+RMGC,RMG Acquisition Corp. III Class A Ordinary Shares,Nasdaq
+JOFFW,JOFF Fintech Acquisition Corp. Warrant,Nasdaq
+TBCP,Thunder Bridge Capital Partners III Inc. Class A Common Stock,Nasdaq
+DCRN,Decarbonization Plus Acquisition Corporation II Class A Common stock,Nasdaq
+DCRNW,Decarbonization Plus Acquisition Corporation II Warrant,Nasdaq
+SDACW,Sustainable Development Acquisition I Corp. Warrant,Nasdaq
+TBCPW,Thunder Bridge Capital Partners III Inc. Warrant,Nasdaq
+JOFF,JOFF Fintech Acquisition Corp. Class A Common Stock,Nasdaq
+KURIW,Alkuri Global Acquisition Corp.,Nasdaq
+COVAW,COVA Acquisition Corp.,Nasdaq
+COUR,"Coursera, Inc.",New York Stock Exchange
+EVOJW,Evo Acquisition Corp. Warrant,Nasdaq
+ENNVW,ECP Environmental Growth Opportunities Corp.,Nasdaq
+EVOJ,Evo Acquisition Corp. Class A Common Stock,Nasdaq
+COMP,"Compass, Inc.",New York Stock Exchange
+ENNV,ECP Environmental Growth Opportunities Corp.,Nasdaq
+UTME,UTime Ltd,Nasdaq
+ACBAU,Ace Global Business Acquisition Limited Unit,Nasdaq
+LGACW,Lazard Growth Acquisition Corp. I Warrants,Nasdaq
+SCOB,ScION Tech Growth II Class A Ordinary Shares,Nasdaq
+SCOBW,ScION Tech Growth II Warrants,Nasdaq
+LGAC,Lazard Growth Acquisition Corp. I Ordinary Shares,Nasdaq
+SCLEW,Broadscale Acquisition Corp.,Nasdaq
+FOREW,Foresight Acquisition Corp.,Nasdaq
+MSACW,Medicus Sciences Acquisition Corp.,Nasdaq
+XPDIW,Power & Digital Infrastructure Acquisition Corp.,Nasdaq
+MACAW,Moringa Acquisition Corp Warrant,Nasdaq
+PANA,Panacea Acquisition Corp. II Class A Ordinary Shares,New York Stock Exchange
+IACA,ION Acquisition Corp 1 Ltd.,New York Stock Exchange
+PSFE,Paysafe Limited,New York Stock Exchange
+RMO,"Romeo Power, Inc.",New York Stock Exchange
+STLA,Stellantis N.V.,New York Stock Exchange
+UWMC,UWM Holdings Corporation Class,New York Stock Exchange
+CFVI,CF Acquisition Corp. VI,Nasdaq
+ASPC,Alpha Capital Acquisition Company,Nasdaq
+ALKT,"Alkami Technology, Inc. Common Stock",Nasdaq
+ASPCW,Alpha Capital Acquisition Company,Nasdaq
+KIII,Kismet Acquisition Three Corp.,Nasdaq
+CFVIW,CF Acquisition Corp. VI,Nasdaq
+KAIIW,Kismet Acquisition Two Corp.,Nasdaq
+AGL,"agilon health, inc.",New York Stock Exchange
+SLAM,Slam Corp.,Nasdaq
+SLAMW,Slam Corp.,Nasdaq
+CMIIW,CM Life Sciences II Inc.,Nasdaq
+VELO,Velocity Acquisition Corp.,Nasdaq
+TRKA,"Troika Media Group, Inc. Common Stock",Nasdaq
+HIII,Hudson Executive Investment Corp. III Class A Common Stock,Nasdaq
+HIIIW,Hudson Executive Investment Corp. III Warrant,Nasdaq
+CS,Credit Suisse Group AG,New York Stock Exchange
+IFBD,"Infobird Co., Ltd Ordinary Shares",Nasdaq
